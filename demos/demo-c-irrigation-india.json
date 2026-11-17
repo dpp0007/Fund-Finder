@@ -1,0 +1,2684 @@
+{
+  "id": "vw6ih27yir95",
+  "generatedAt": "2026-11-10T14:51:38.677Z",
+  "startup": {
+    "description": "IoT and satellite-driven precision irrigation for small farms that cuts water use and raises yield",
+    "stage": "seed",
+    "country": "India",
+    "windowMonths": 12,
+    "industry": "AgriTech precision irrigation",
+    "businessModel": "Hardware-enabled SaaS",
+    "customer": "Smallholder farmers and agricultural cooperatives",
+    "keywords": [
+      "precision irrigation",
+      "satellite-based crop monitoring",
+      "IoT soil sensors",
+      "water management technology",
+      "smallholder farm productivity",
+      "smart agriculture"
+    ],
+    "searchQueries": [
+      "Indian agritech startup raises seed funding for irrigation",
+      "precision farming technology startup funding news",
+      "satellite-driven agriculture startup series A",
+      "IoT water management startup investment round",
+      "agritech company raises capital for smallholder solutions",
+      "smart irrigation startup funding announcement"
+    ]
+  },
+  "investors": [
+    {
+      "id": "iima",
+      "rank": 1,
+      "name": "IIMA Ventures",
+      "kind": "fund",
+      "website": "https://iimaventures.com/",
+      "score": 52,
+      "breakdown": {
+        "similarDeals": 12.2,
+        "stageFit": 20,
+        "geoFit": 15,
+        "recency": 7.2,
+        "chequeFit": 10,
+        "reachability": 5
+      },
+      "whyRanked": "Backed 2 verified companies like yours in the last 12 months — closest: SatLeo Labs (seed, $2.2M) and SUIND (seed, $2.4M). SatLeo Labs is close to you: Satellite-based data provider for agriculture, but lacks the specific irrigation and smallholder focus. Already invests at seed. Deals concentrate in India.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 2200000,
+        "medianUsd": 2400000,
+        "maxUsd": 2400000
+      },
+      "typicalCheque": "Joins $2.2M–$2.4M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "low",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-c7a2918e-d9b1-4d01-9b9b-35477d3e9205",
+          "company": "SatLeo Labs",
+          "website": "https://satleolabs.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 2200000,
+          "date": "2026-04-06",
+          "role": "participant",
+          "similarity": 0.4,
+          "similarityReason": "Satellite-based data provider for agriculture, but lacks the specific irrigation and smallholder focus.",
+          "proofUrl": "https://www.bwdisrupt.com/article/satleo-labs-raises-2-2-mn-seed-round-led-by-unicorn-india-ventures-601060",
+          "proofExcerpt": "telligence platform SatLeo Labs/ LinkedIn SatLeo Labs has raised USD 2.2 million in a seed funding round led by Unicorn India Ventures, taking its total funding to USD 5.5 million to date. The round also saw participation from Merak Ventures, Java Capital, IIMA-CIIE, and investor Manish Gandhi. The startup will utilise the fresh capital to advance its thermal satellite mission and scale its AI-powered platform for thermal intelligence applications. Founded by Shravan Bha"
+        },
+        {
+          "dealId": "ts-57b1e8d6-55ac-4f1f-955d-f563e4747d94",
+          "company": "SUIND",
+          "website": "https://suind.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 2400000,
+          "date": "2026-08-14",
+          "role": "participant",
+          "similarity": 0.4,
+          "similarityReason": "Hardware-enabled precision agriculture, but focuses on drone spraying rather than irrigation.",
+          "proofUrl": "https://theheadandtale.com/ai-emerging-tech/drone-startup-suind-bags-seed-funding-led-by-transition-vc/",
+          "proofExcerpt": "1 min read Autonomous drone startup SUIND has raised Rs 20.5 crore in a seed funding round led by Transition VC. The funding round saw participation from IIMA Ventures. The Bengaluru-based startup will use the fresh capital to scale commercial deployment of Bumblebee, the company's DGCA type-certified autonomous agriculture drone, accelerate development of Wasp, its aeri"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "application_form",
+          "url": "https://go.iimaventures.com/WebsiteForm",
+          "detail": "IIMA Ventures directs startup founders to submit pitches via a formal online application form. The site features a 'GET SUPPORT' button on the homepage and investment pages that links directly to the form at: https://go.iimaventures.com/WebsiteForm. There is no stated open-intake email address for pitches, and there is no statement requiring warm introductions — the application form is the primary and sole submission method presented on the site.",
+          "source": "agent"
+        }
+      ],
+      "thesis": "We support innovation opportunities across deeptech, digitalization, and climatetech, enabling fearless entrepreneurs building disruptive solutions from India for the world."
+    },
+    {
+      "id": "linah-farms",
+      "rank": 2,
+      "name": "Linah Farms",
+      "kind": "fund",
+      "score": 51,
+      "breakdown": {
+        "similarDeals": 10.1,
+        "stageFit": 20,
+        "geoFit": 1.5,
+        "recency": 9.8,
+        "chequeFit": 7.1,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months, leading 1 — closest: NoorNation (seed, $1.1M). NoorNation is close to you: Provides solar irrigation infrastructure for smallholder farmers, similar customer and problem. Already invests at seed.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1050000,
+        "medianUsd": 1050000,
+        "maxUsd": 1050000
+      },
+      "typicalCheque": "Joins $1.1M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "high",
+      "leadCount": 1,
+      "backed": [
+        {
+          "dealId": "ts-6dedbc5f-6cc1-432e-908f-df2b785497c0",
+          "company": "NoorNation",
+          "website": "https://noornation.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1050000,
+          "date": "2026-10-28",
+          "role": "lead",
+          "similarity": 0.7,
+          "similarityReason": "Provides solar irrigation infrastructure for smallholder farmers, similar customer and problem.",
+          "proofUrl": "https://www.africainvestorreview.com/egyptian-climatetech-startup-noornation-raises-1-05m-seed-round-to-expand-solar-powered-agricultural-infrastructure/",
+          "proofExcerpt": "Venture Capital # Egyptian ClimateTech Startup NoorNation Raises $1.05M Seed Round to Expand Solar-Powered Agricultural Infrastructure Agricultural corporate Linah Farms transitions from commercial customer to strategic equity investor alongside Catalyst Fund and Saudi Arabia's KBW Ventures. Charles S. October 28, 2026 – 2 min read Share ### Share this article #### Page"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of NoorNation for an introduction.",
+          "source": "derived"
+        }
+      ],
+      "thesis": "Linah Farms is an agricultural conglomerate that invests strategically in climate technology and renewable energy solutions for agricultural infrastructure."
+    },
+    {
+      "id": "catalyst",
+      "rank": 3,
+      "name": "Catalyst Fund",
+      "kind": "fund",
+      "website": "https://www.thecatalystfund.com/",
+      "score": 48,
+      "breakdown": {
+        "similarDeals": 7.6,
+        "stageFit": 20,
+        "geoFit": 1.5,
+        "recency": 9.8,
+        "chequeFit": 7.1,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: NoorNation (seed, $1.1M). NoorNation is close to you: Provides solar irrigation infrastructure for smallholder farmers, similar customer and problem. Already invests at seed.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1050000,
+        "medianUsd": 1050000,
+        "maxUsd": 1050000
+      },
+      "typicalCheque": "$200K (stated by the investor)",
+      "chequeBasis": "stated",
+      "confidence": "medium",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-6dedbc5f-6cc1-432e-908f-df2b785497c0",
+          "company": "NoorNation",
+          "website": "https://noornation.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1050000,
+          "date": "2026-10-28",
+          "role": "participant",
+          "similarity": 0.7,
+          "similarityReason": "Provides solar irrigation infrastructure for smallholder farmers, similar customer and problem.",
+          "proofUrl": "https://www.africainvestorreview.com/egyptian-climatetech-startup-noornation-raises-1-05m-seed-round-to-expand-solar-powered-agricultural-infrastructure/",
+          "proofExcerpt": "Venture Capital # Egyptian ClimateTech Startup NoorNation Raises $1.05M Seed Round to Expand Solar-Powered Agricultural Infrastructure Agricultural corporate Linah Farms transitions from commercial customer to strategic equity investor alongside Catalyst Fund and Saudi Arabia's KBW Ventures. Charles S. October 28, 2026 – 2 min read Share ### Share this article #### Page Link *NoorNation Team* **CAIRO** — Egyptian climate technology company **NoorNation**"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of NoorNation for an introduction.",
+          "source": "derived"
+        }
+      ],
+      "thesis": "We invest in technology solutions for climate adaptation and resilience, helping people and businesses manage risks, adapt livelihoods, and build long-term climate resilience."
+    },
+    {
+      "id": "kbw",
+      "rank": 4,
+      "name": "KBW Ventures",
+      "kind": "fund",
+      "website": "https://kbw-ventures.com/tag/venture-capital/page/2/",
+      "score": 48,
+      "breakdown": {
+        "similarDeals": 7.6,
+        "stageFit": 20,
+        "geoFit": 1.5,
+        "recency": 9.8,
+        "chequeFit": 7.1,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: NoorNation (seed, $1.1M). NoorNation is close to you: Provides solar irrigation infrastructure for smallholder farmers, similar customer and problem. Already invests at seed.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1050000,
+        "medianUsd": 1050000,
+        "maxUsd": 1050000
+      },
+      "typicalCheque": "Joins $1.1M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "medium",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-6dedbc5f-6cc1-432e-908f-df2b785497c0",
+          "company": "NoorNation",
+          "website": "https://noornation.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1050000,
+          "date": "2026-10-28",
+          "role": "participant",
+          "similarity": 0.7,
+          "similarityReason": "Provides solar irrigation infrastructure for smallholder farmers, similar customer and problem.",
+          "proofUrl": "https://www.africainvestorreview.com/egyptian-climatetech-startup-noornation-raises-1-05m-seed-round-to-expand-solar-powered-agricultural-infrastructure/",
+          "proofExcerpt": "yptian ClimateTech Startup NoorNation Raises $1.05M Seed Round to Expand Solar-Powered Agricultural Infrastructure Agricultural corporate Linah Farms transitions from commercial customer to strategic equity investor alongside Catalyst Fund and Saudi Arabia's KBW Ventures. Charles S. October 28, 2026 – 2 min read Share ### Share this article #### Page Link *NoorNation Team* **CAIRO** — Egyptian climate technology company **NoorNation** has closed a **$1.05 million (~E"
+        }
+      ],
+      "leadPartner": {
+        "name": "Prince Khaled bin Alwaleed bin Talal",
+        "role": "Founder",
+        "evidenceUrl": "https://www.africainvestorreview.com/egyptian-climatetech-startup-noornation-raises-1-05m-seed-round-to-expand-solar-powered-agricultural-infrastructure/",
+        "dealCompany": "NoorNation",
+        "basis": "deal_page"
+      },
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of NoorNation for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "216",
+      "rank": 5,
+      "name": "216 Capital",
+      "kind": "fund",
+      "website": "https://216capital.vc/",
+      "score": 46,
+      "breakdown": {
+        "similarDeals": 10.1,
+        "stageFit": 20,
+        "geoFit": 1.5,
+        "recency": 7.5,
+        "chequeFit": 4,
+        "reachability": 3
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months, leading 1 — closest: RoboCare (seed). RoboCare is close to you: Combines satellite and IoT to predict water stress, very similar technical approach. Already invests at seed.",
+      "stages": [
+        "seed"
+      ],
+      "typicalCheque": "Not disclosed",
+      "chequeBasis": "unknown",
+      "confidence": "high",
+      "leadCount": 1,
+      "backed": [
+        {
+          "dealId": "ts-34c20a1e-d3bc-4c98-8cb2-302a42e93343",
+          "company": "RoboCare",
+          "website": "https://robocare.tn/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "date": "2026-06-24",
+          "role": "lead",
+          "similarity": 0.7,
+          "similarityReason": "Combines satellite and IoT to predict water stress, very similar technical approach.",
+          "proofUrl": "https://startupmaphub.com/blog/top-agritech-startups-africa-2026",
+          "proofExcerpt": "re is North Africa's quiet standout. The Tunisian startup fuses satellite imagery, IoT sensors and drone data with AI models trained on regional crops — olives, cereals, industrial tomatoes — to predict disease and water stress. Its six-figure seed round from 216 Capital in early July funds expansion into secondary markets across Africa and the Middle East. UrbanFarm Africa represents a different kind of deal entirely. Its solar-powered \"Hydro-Coop\" units — combining hydropo"
+        }
+      ],
+      "leadPartner": {
+        "basis": "deal_page",
+        "name": "Dhekra Khelifi",
+        "role": "Partner",
+        "evidenceUrl": "https://216capital.vc/venture-accelerator",
+        "dealCompany": "RoboCare"
+      },
+      "outreach": [
+        {
+          "type": "email",
+          "url": "https://216capital.vc/for-startups",
+          "detail": "hello@216capital.vc",
+          "source": "page"
+        }
+      ],
+      "thesis": "216 Capital is a venture capital firm focusing on early-stage technology companies, investing in determined and creative founders building transformational businesses across sectors."
+    },
+    {
+      "id": "unicorn-india",
+      "rank": 6,
+      "name": "Unicorn India Ventures",
+      "kind": "fund",
+      "website": "https://www.unicornivc.com/",
+      "score": 46,
+      "breakdown": {
+        "similarDeals": 5.8,
+        "stageFit": 20,
+        "geoFit": 15,
+        "recency": 6,
+        "chequeFit": 10,
+        "reachability": 5
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months, leading 1 — closest: SatLeo Labs (seed, $2.2M). SatLeo Labs is close to you: Satellite-based data provider for agriculture, but lacks the specific irrigation and smallholder focus. Already invests at seed. Deals concentrate in India.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 2200000,
+        "medianUsd": 2200000,
+        "maxUsd": 2200000
+      },
+      "typicalCheque": "INR 1 to 10 crore (stated by the investor)",
+      "chequeBasis": "stated",
+      "confidence": "low",
+      "leadCount": 1,
+      "backed": [
+        {
+          "dealId": "ts-c7a2918e-d9b1-4d01-9b9b-35477d3e9205",
+          "company": "SatLeo Labs",
+          "website": "https://satleolabs.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 2200000,
+          "date": "2026-04-06",
+          "role": "lead",
+          "similarity": 0.4,
+          "similarityReason": "Satellite-based data provider for agriculture, but lacks the specific irrigation and smallholder focus.",
+          "proofUrl": "https://www.bwdisrupt.com/article/satleo-labs-raises-2-2-mn-seed-round-led-by-unicorn-india-ventures-601060",
+          "proofExcerpt": "# SatLeo Labs Raises $2.2 Mn Seed Round Led By Unicorn India Ventures BW Online Bureau Apr 07, 2026 Spacetech startup to advance thermal satellite mission and scale AI-led geospatial intelligence platform SatLeo Labs/ LinkedIn SatLeo Labs has raised USD 2.2 mil"
+        }
+      ],
+      "leadPartner": {
+        "basis": "deal_page",
+        "name": "Bhaskar Majumdar",
+        "role": "Founder and Managing Partner",
+        "evidenceUrl": "https://in.linkedin.com/company/unicornivc",
+        "dealCompany": "VENTTUP"
+      },
+      "outreach": [
+        {
+          "type": "application_form",
+          "url": "https://www.unicornivc.com/submit-your-pitch",
+          "detail": "Founders can submit their pitch through the application portal on the website.",
+          "source": "page"
+        }
+      ],
+      "thesis": "We back early-stage companies where software, science, or novel hardware are the unlock, focusing on deep tech, core engineering, and frontier technologies."
+    },
+    {
+      "id": "transition",
+      "rank": 7,
+      "name": "Transition VC",
+      "kind": "fund",
+      "website": "https://transitionvc.substack.com/p/we-are-growing-our-team-676",
+      "score": 46,
+      "breakdown": {
+        "similarDeals": 5.8,
+        "stageFit": 20,
+        "geoFit": 15,
+        "recency": 8.4,
+        "chequeFit": 10,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months, leading 1 — closest: SUIND (seed, $2.4M). SUIND is close to you: Hardware-enabled precision agriculture, but focuses on drone spraying rather than irrigation. Already invests at seed. Deals concentrate in India.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 2400000,
+        "medianUsd": 2400000,
+        "maxUsd": 2400000
+      },
+      "typicalCheque": "Joins $2.4M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "low",
+      "leadCount": 1,
+      "backed": [
+        {
+          "dealId": "ts-57b1e8d6-55ac-4f1f-955d-f563e4747d94",
+          "company": "SUIND",
+          "website": "https://suind.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 2400000,
+          "date": "2026-08-14",
+          "role": "lead",
+          "similarity": 0.4,
+          "similarityReason": "Hardware-enabled precision agriculture, but focuses on drone spraying rather than irrigation.",
+          "proofUrl": "https://theheadandtale.com/ai-emerging-tech/drone-startup-suind-bags-seed-funding-led-by-transition-vc/",
+          "proofExcerpt": "1 min read Autonomous drone startup SUIND has raised Rs 20.5 crore in a seed funding round led by Transition VC. The funding round saw participation from IIMA Ventures. The Bengaluru-based startup will use the fresh capital to scale commercial deployment of Bumblebee, the company's DGCA type-certified autonomous ag"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of SUIND for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "merak",
+      "rank": 8,
+      "name": "Merak Ventures",
+      "kind": "fund",
+      "website": "https://merakventures.com/",
+      "score": 45,
+      "breakdown": {
+        "similarDeals": 4.3,
+        "stageFit": 20,
+        "geoFit": 15,
+        "recency": 6,
+        "chequeFit": 10,
+        "reachability": 5
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: SatLeo Labs (seed, $2.2M). SatLeo Labs is close to you: Satellite-based data provider for agriculture, but lacks the specific irrigation and smallholder focus. Already invests at seed. Deals concentrate in India.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 2200000,
+        "medianUsd": 2200000,
+        "maxUsd": 2200000
+      },
+      "typicalCheque": "$0.5M–$1.5M (stated by the investor)",
+      "chequeBasis": "stated",
+      "confidence": "low",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-c7a2918e-d9b1-4d01-9b9b-35477d3e9205",
+          "company": "SatLeo Labs",
+          "website": "https://satleolabs.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 2200000,
+          "date": "2026-04-06",
+          "role": "participant",
+          "similarity": 0.4,
+          "similarityReason": "Satellite-based data provider for agriculture, but lacks the specific irrigation and smallholder focus.",
+          "proofUrl": "https://www.bwdisrupt.com/article/satleo-labs-raises-2-2-mn-seed-round-led-by-unicorn-india-ventures-601060",
+          "proofExcerpt": "and scale AI-led geospatial intelligence platform SatLeo Labs/ LinkedIn SatLeo Labs has raised USD 2.2 million in a seed funding round led by Unicorn India Ventures, taking its total funding to USD 5.5 million to date. The round also saw participation from Merak Ventures, Java Capital, IIMA-CIIE, and investor Manish Gandhi. The startup will utilise the fresh capital to advance its thermal satellite mission and scale its AI-powered platform for thermal intelligence applica"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "open_intake",
+          "url": "https://merakventures.com/connect.html",
+          "detail": "The site's Connect page lists an open-intake funding email. Under the FUNDING section, it says: \"If you think you could be the next Google (or thereabouts), drop us a note for a big helping of nosiness.\" with a button labeled \"Funding Email\" that links to investments@merakventures.com. There is no application/pitch submission form and no statement that they only accept warm intros.",
+          "source": "agent"
+        }
+      ],
+      "thesis": "To invest in seed-stage, B2B and Emerging Technologies companies solving real problems and creating large-scale impact."
+    },
+    {
+      "id": "java",
+      "rank": 9,
+      "name": "Java Capital",
+      "kind": "fund",
+      "score": 44,
+      "breakdown": {
+        "similarDeals": 4.3,
+        "stageFit": 20,
+        "geoFit": 15,
+        "recency": 6,
+        "chequeFit": 10,
+        "reachability": 3
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: SatLeo Labs (seed, $2.2M). SatLeo Labs is close to you: Satellite-based data provider for agriculture, but lacks the specific irrigation and smallholder focus. Already invests at seed. Deals concentrate in India.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 2200000,
+        "medianUsd": 2200000,
+        "maxUsd": 2200000
+      },
+      "typicalCheque": "$150,000–$250,000 (stated by the investor)",
+      "chequeBasis": "stated",
+      "confidence": "low",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-c7a2918e-d9b1-4d01-9b9b-35477d3e9205",
+          "company": "SatLeo Labs",
+          "website": "https://satleolabs.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 2200000,
+          "date": "2026-04-06",
+          "role": "participant",
+          "similarity": 0.4,
+          "similarityReason": "Satellite-based data provider for agriculture, but lacks the specific irrigation and smallholder focus.",
+          "proofUrl": "https://www.bwdisrupt.com/article/satleo-labs-raises-2-2-mn-seed-round-led-by-unicorn-india-ventures-601060",
+          "proofExcerpt": "geospatial intelligence platform SatLeo Labs/ LinkedIn SatLeo Labs has raised USD 2.2 million in a seed funding round led by Unicorn India Ventures, taking its total funding to USD 5.5 million to date. The round also saw participation from Merak Ventures, Java Capital, IIMA-CIIE, and investor Manish Gandhi. The startup will utilise the fresh capital to advance its thermal satellite mission and scale its AI-powered platform for thermal intelligence applications. Founded"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "email",
+          "url": "https://superscout.co/investor/java-capital",
+          "detail": "Founders can reach out to Java Capital via email at onramp@javacapital.co.",
+          "source": "page"
+        }
+      ],
+      "thesis": "Java Capital invests in early-stage startups, focusing on B2B, Climate-Tech, and Deep Tech sectors, supporting innovative technology startups from Pre-Seed to Pre-Series A stages."
+    },
+    {
+      "id": "manish-gandhi",
+      "rank": 10,
+      "name": "Manish Gandhi",
+      "kind": "fund",
+      "score": 41,
+      "breakdown": {
+        "similarDeals": 4.3,
+        "stageFit": 20,
+        "geoFit": 15,
+        "recency": 6,
+        "chequeFit": 10,
+        "reachability": 0
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: SatLeo Labs (seed, $2.2M). SatLeo Labs is close to you: Satellite-based data provider for agriculture, but lacks the specific irrigation and smallholder focus. Already invests at seed. Deals concentrate in India. No public intake route found — needs a warm intro.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 2200000,
+        "medianUsd": 2200000,
+        "maxUsd": 2200000
+      },
+      "typicalCheque": "Joins $2.2M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "low",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-c7a2918e-d9b1-4d01-9b9b-35477d3e9205",
+          "company": "SatLeo Labs",
+          "website": "https://satleolabs.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 2200000,
+          "date": "2026-04-06",
+          "role": "participant",
+          "similarity": 0.4,
+          "similarityReason": "Satellite-based data provider for agriculture, but lacks the specific irrigation and smallholder focus.",
+          "proofUrl": "https://www.bwdisrupt.com/article/satleo-labs-raises-2-2-mn-seed-round-led-by-unicorn-india-ventures-601060",
+          "proofExcerpt": "Leo Labs/ LinkedIn SatLeo Labs has raised USD 2.2 million in a seed funding round led by Unicorn India Ventures, taking its total funding to USD 5.5 million to date. The round also saw participation from Merak Ventures, Java Capital, IIMA-CIIE, and investor Manish Gandhi. The startup will utilise the fresh capital to advance its thermal satellite mission and scale its AI-powered platform for thermal intelligence applications. Founded by Shravan Bhati, SatLeo Labs develops"
+        }
+      ],
+      "outreach": []
+    },
+    {
+      "id": "melnichek",
+      "rank": 11,
+      "name": "Melnichek Investments",
+      "kind": "fund",
+      "score": 34,
+      "breakdown": {
+        "similarDeals": 5.8,
+        "stageFit": 20,
+        "geoFit": 1.5,
+        "recency": 7.3,
+        "chequeFit": 8.1,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months, leading 1 — closest: OneSoil (seed, $1.2M). OneSoil is close to you: General satellite-based precision agriculture platform, lacks the specific irrigation focus. Already invests at seed.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1200000,
+        "medianUsd": 1200000,
+        "maxUsd": 1200000
+      },
+      "typicalCheque": "Joins $1.2M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "low",
+      "leadCount": 1,
+      "backed": [
+        {
+          "dealId": "ts-1f29b2af-25b9-4172-a5b4-03a0c8b77549",
+          "company": "OneSoil",
+          "website": "https://onesoil.ai/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1200000,
+          "date": "2026-06-18",
+          "role": "lead",
+          "similarity": 0.4,
+          "similarityReason": "General satellite-based precision agriculture platform, lacks the specific irrigation focus.",
+          "proofUrl": "https://tech.eu/2026/06/18/onesoil-secures-eur1m-to-expand-ai-powered-farming-assistant/",
+          "proofExcerpt": "opy link Zurich-based agritech company OneSoil, which develops AI-driven solutions for precision agriculture, has secured €1 million in funding from existing investors, including Yury Melnichek, serial entrepreneur and co-founder of Cyprus-based venture fund Melnichek Investments. Founded in 2017, OneSoil has developed a platform that enables farmers to monitor fields, analyse productivity, create variable-rate application maps, conduct soil sampling, and run field trials."
+        }
+      ],
+      "leadPartner": {
+        "name": "Yury Melnichek",
+        "role": "co-founder",
+        "evidenceUrl": "https://tech.eu/2026/06/18/onesoil-secures-eur1m-to-expand-ai-powered-farming-assistant/",
+        "dealCompany": "OneSoil",
+        "basis": "deal_page"
+      },
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of OneSoil for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "htgf",
+      "rank": 12,
+      "name": "HTGF",
+      "kind": "fund",
+      "website": "https://www.htgf.de/en/pitch-deck-upload/",
+      "score": 34,
+      "breakdown": {
+        "similarDeals": 4.3,
+        "stageFit": 20,
+        "geoFit": 1.5,
+        "recency": 7.3,
+        "chequeFit": 10,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: Seqana (seed, $3.5M). Seqana is close to you: Satellite-based monitoring for agriculture, but focused on soil carbon rather than irrigation. Already invests at seed.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 3500000,
+        "medianUsd": 3500000,
+        "maxUsd": 3500000
+      },
+      "typicalCheque": "Joins $3.5M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "low",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-9c58feea-7fc1-447a-8c1a-606955c4ad78",
+          "company": "Seqana",
+          "website": "https://seqana.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 3500000,
+          "date": "2026-06-17",
+          "role": "participant",
+          "similarity": 0.4,
+          "similarityReason": "Satellite-based monitoring for agriculture, but focused on soil carbon rather than irrigation.",
+          "proofUrl": "https://www.seqana.com/blog/press-release-seqana-raises-eur-3-2m-fundraising-round",
+          "proofExcerpt": "17.06.2026 — Seqana, a digital MRV (Monitoring, Reporting and Verification) company that quantifies soil health using satellite imagery and machine learning, announced the close of a EUR 3.2 million funding round led by Pymwymic, joined by existing investors HTGF and Counteract. The investment furthers Seqana’s work on soil carbon quantification and extends it into a broader set of soil health indicators enabling food, fiber and fuel companies and carbon market project devel"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of Seqana for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "counteract",
+      "rank": 13,
+      "name": "Counteract",
+      "kind": "fund",
+      "score": 34,
+      "breakdown": {
+        "similarDeals": 4.3,
+        "stageFit": 20,
+        "geoFit": 1.5,
+        "recency": 7.3,
+        "chequeFit": 10,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: Seqana (seed, $3.5M). Seqana is close to you: Satellite-based monitoring for agriculture, but focused on soil carbon rather than irrigation. Already invests at seed.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 3500000,
+        "medianUsd": 3500000,
+        "maxUsd": 3500000
+      },
+      "typicalCheque": "Joins $3.5M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "low",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-9c58feea-7fc1-447a-8c1a-606955c4ad78",
+          "company": "Seqana",
+          "website": "https://seqana.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 3500000,
+          "date": "2026-06-17",
+          "role": "participant",
+          "similarity": 0.4,
+          "similarityReason": "Satellite-based monitoring for agriculture, but focused on soil carbon rather than irrigation.",
+          "proofUrl": "https://www.seqana.com/blog/press-release-seqana-raises-eur-3-2m-fundraising-round",
+          "proofExcerpt": "26 — Seqana, a digital MRV (Monitoring, Reporting and Verification) company that quantifies soil health using satellite imagery and machine learning, announced the close of a EUR 3.2 million funding round led by Pymwymic, joined by existing investors HTGF and Counteract. The investment furthers Seqana’s work on soil carbon quantification and extends it into a broader set of soil health indicators enabling food, fiber and fuel companies and carbon market project developers wit"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of Seqana for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "landwirtschaftliche-rentenbank",
+      "rank": 14,
+      "name": "Landwirtschaftliche Rentenbank",
+      "kind": "fund",
+      "score": 34,
+      "breakdown": {
+        "similarDeals": 4.3,
+        "stageFit": 20,
+        "geoFit": 1.5,
+        "recency": 7.3,
+        "chequeFit": 10,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: Seqana (seed, $3.5M). Seqana is close to you: Satellite-based monitoring for agriculture, but focused on soil carbon rather than irrigation. Already invests at seed.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 3500000,
+        "medianUsd": 3500000,
+        "maxUsd": 3500000
+      },
+      "typicalCheque": "Joins $3.5M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "low",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-9c58feea-7fc1-447a-8c1a-606955c4ad78",
+          "company": "Seqana",
+          "website": "https://seqana.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 3500000,
+          "date": "2026-06-17",
+          "role": "participant",
+          "similarity": 0.4,
+          "similarityReason": "Satellite-based monitoring for agriculture, but focused on soil carbon rather than irrigation.",
+          "proofUrl": "https://www.seqana.com/blog/press-release-seqana-raises-eur-3-2m-fundraising-round",
+          "proofExcerpt": "ortfolio companies building solutions to preserve and restore our ecosystems. We are currently investing through the Healthy Food Systems Impact Fund II, supporting the change-making entrepreneurs who are transforming our food system from farm to fork. The Landwirtschaftliche Rentenbank is Germany’s development agency for the agribusiness and rural areas. Our services are aimed at production enterprises in agriculture and forestry, as well as wine and horticulture, manufac"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of Seqana for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "dalus",
+      "rank": 15,
+      "name": "Dalus Capital",
+      "kind": "fund",
+      "score": 34,
+      "breakdown": {
+        "similarDeals": 5.8,
+        "stageFit": 20,
+        "geoFit": 1.5,
+        "recency": 6.1,
+        "chequeFit": 10,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months, leading 1 — closest: Satellites on Fire (seed, $2.7M). Satellites on Fire is close to you: Uses satellite imagery for agriculture, but focuses on wildfire detection. Already invests at seed.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 2700000,
+        "medianUsd": 2700000,
+        "maxUsd": 2700000
+      },
+      "typicalCheque": "Joins $2.7M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "low",
+      "leadCount": 1,
+      "backed": [
+        {
+          "dealId": "ts-59b36751-7a40-43d0-ba96-0411baadcf2b",
+          "company": "Satellites on Fire",
+          "website": "https://satellitesonfire.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 2700000,
+          "date": "2026-04-09",
+          "role": "lead",
+          "similarity": 0.4,
+          "similarityReason": "Uses satellite imagery for agriculture, but focuses on wildfire detection.",
+          "proofUrl": "https://thenextweb.com/news/satellites-on-fire-wildfire-ai-raises-2-7m",
+          "proofExcerpt": "nly platform integrates satellite data from multiple agencies and detects fires faster than NASA’s FIRMS system by avoiding the gaps between satellite passes.* --- Argentine climate-tech startup Satellites on Fire has closed a $2.7 million seed round led by Dalus Capital, with participation from Draper Associates, Draper Cygnus, VitaminC, Savia Ventures, Avesta Fund, Reciprocal, Zenani Capital, Innventure, Air Capital, Gain VC, Antom VC, and Embarca Tech. The company build"
+        }
+      ],
+      "leadPartner": {
+        "name": "Diego Serebrisky",
+        "role": "co-founder and managing partner",
+        "evidenceUrl": "https://thenextweb.com/news/satellites-on-fire-wildfire-ai-raises-2-7m",
+        "dealCompany": "Satellites on Fire",
+        "basis": "deal_page"
+      },
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of Satellites on Fire for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "colam-impact",
+      "rank": 16,
+      "name": "Colam Impact",
+      "kind": "fund",
+      "score": 33,
+      "breakdown": {
+        "similarDeals": 6,
+        "stageFit": 10,
+        "geoFit": 1.5,
+        "recency": 9.5,
+        "chequeFit": 5.7,
+        "reachability": 0
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months, leading 1 — closest: CarbonFarm (series-a, $7.6M). CarbonFarm is close to you: Uses satellite data to measure water savings in farming, sharing the core precision irrigation goal. Invests at series-a, not directly seed, so stage fit is partial. No public intake route found — needs a warm intro.",
+      "stages": [
+        "series-a"
+      ],
+      "roundSizeRange": {
+        "minUsd": 7560000,
+        "medianUsd": 7560000,
+        "maxUsd": 7560000
+      },
+      "typicalCheque": "Joins $7.6M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "high",
+      "leadCount": 1,
+      "backed": [
+        {
+          "dealId": "ts-6753f5e4-5a02-4d69-a1c7-9be5075a10aa",
+          "company": "CarbonFarm",
+          "website": "https://carbonfarm.tech/",
+          "stage": "series-a",
+          "roundLabel": "series-a",
+          "amountUsd": 7560000,
+          "date": "2026-10-13",
+          "role": "lead",
+          "similarity": 0.7,
+          "similarityReason": "Uses satellite data to measure water savings in farming, sharing the core precision irrigation goal.",
+          "proofUrl": "https://carbonfarm.tech/posts/carbonfarm-raises-7-million-series-a",
+          "proofExcerpt": "ed €7 million Series A round. CarbonFarm helps the rice industry turn climate ambition into measurable change across millions of small farms. The round brings together leading impact and climate investors with a development finance institution. It was led by Colam Impact, with participation from Proparco, Suma Capital, elea, Working Capital Fund, Albo, and BPI France. Existing investors Serena & makesense (via Racine²) and Techmind, also renewed their support. The funding w"
+        }
+      ],
+      "leadPartner": {
+        "name": "Benjamine Friderich",
+        "role": "Investment Director",
+        "evidenceUrl": "https://carbonfarm.tech/posts/carbonfarm-raises-7-million-series-a",
+        "dealCompany": "CarbonFarm",
+        "basis": "deal_page"
+      },
+      "outreach": []
+    },
+    {
+      "id": "speciale-invest",
+      "rank": 17,
+      "name": "Speciale Invest",
+      "kind": "fund",
+      "score": 33,
+      "breakdown": {
+        "similarDeals": 2.6,
+        "stageFit": 10,
+        "geoFit": 15,
+        "recency": 5.6,
+        "chequeFit": 9,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: GalaxEye (series-a, $4.8M). GalaxEye is close to you: Satellite hardware provider for agriculture, lacks the specific irrigation application. Invests at series-a, not directly seed, so stage fit is partial. Deals concentrate in India.",
+      "stages": [
+        "series-a"
+      ],
+      "roundSizeRange": {
+        "minUsd": 4800000,
+        "medianUsd": 4800000,
+        "maxUsd": 4800000
+      },
+      "typicalCheque": "Joins $4.8M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "low",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-10c78c85-2c7a-4cd3-8230-e326c0b7f0c9",
+          "company": "GalaxEye",
+          "stage": "series-a",
+          "roundLabel": "series-a",
+          "amountUsd": 4800000,
+          "date": "2026-03-12",
+          "role": "participant",
+          "similarity": 0.4,
+          "similarityReason": "Satellite hardware provider for agriculture, lacks the specific irrigation application.",
+          "proofUrl": "https://inc42.com/buzz/exclusive-galaxeye-raises-%E2%82%B944-cr-in-ongoing-series-a-funding-round/",
+          "proofExcerpt": "Advanced Hardware & Technology SUMMARY GalaxEye has raised about ₹44.2 Cr (about $4.8 Mn) as part of its ongoing Series A funding round The round saw participation from a host of investors like Speciale Invest, MV Core, Rainmatter, Mounttech Growth Fund, Grand Anicut Angel Fund, Navam Venture Fund, Faad Capital, LV Angel Fund, among others The startup claims to be building the world’s first multi-sensor earth"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of GalaxEye for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "mela",
+      "rank": 18,
+      "name": "Mela Ventures",
+      "kind": "fund",
+      "score": 33,
+      "breakdown": {
+        "similarDeals": 2.6,
+        "stageFit": 10,
+        "geoFit": 15,
+        "recency": 5.6,
+        "chequeFit": 9,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: GalaxEye (series-a, $4.8M). GalaxEye is close to you: Satellite hardware provider for agriculture, lacks the specific irrigation application. Invests at series-a, not directly seed, so stage fit is partial. Deals concentrate in India.",
+      "stages": [
+        "series-a"
+      ],
+      "roundSizeRange": {
+        "minUsd": 4800000,
+        "medianUsd": 4800000,
+        "maxUsd": 4800000
+      },
+      "typicalCheque": "Joins $4.8M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "low",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-10c78c85-2c7a-4cd3-8230-e326c0b7f0c9",
+          "company": "GalaxEye",
+          "stage": "series-a",
+          "roundLabel": "series-a",
+          "amountUsd": 4800000,
+          "date": "2026-03-12",
+          "role": "participant",
+          "similarity": 0.4,
+          "similarityReason": "Satellite hardware provider for agriculture, lacks the specific irrigation application.",
+          "proofUrl": "https://inc42.com/buzz/exclusive-galaxeye-raises-%E2%82%B944-cr-in-ongoing-series-a-funding-round/",
+          "proofExcerpt": "US * Added to Saved Stories in Login Spacetech startup GalaxEye has raised about ₹44.2 Cr (about $4.8 Mn) as part of its extended Series A funding round from its existing investors. The round saw participation from a host of investors like Speciale Invest, Mela Venture, Rainmatter, Mounttech Growth Fund, Anicut Capital, Navam Venture Fund, Faad Capital, LV Angel Fund, and Eraya Capital, along with a few individual investors. Among institutional investors, Mela Venture inv"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of GalaxEye for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "rainmatter",
+      "rank": 19,
+      "name": "Rainmatter",
+      "kind": "fund",
+      "score": 33,
+      "breakdown": {
+        "similarDeals": 2.6,
+        "stageFit": 10,
+        "geoFit": 15,
+        "recency": 5.6,
+        "chequeFit": 9,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: GalaxEye (series-a, $4.8M). GalaxEye is close to you: Satellite hardware provider for agriculture, lacks the specific irrigation application. Invests at series-a, not directly seed, so stage fit is partial. Deals concentrate in India.",
+      "stages": [
+        "series-a"
+      ],
+      "roundSizeRange": {
+        "minUsd": 4800000,
+        "medianUsd": 4800000,
+        "maxUsd": 4800000
+      },
+      "typicalCheque": "Joins $4.8M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "low",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-10c78c85-2c7a-4cd3-8230-e326c0b7f0c9",
+          "company": "GalaxEye",
+          "stage": "series-a",
+          "roundLabel": "series-a",
+          "amountUsd": 4800000,
+          "date": "2026-03-12",
+          "role": "participant",
+          "similarity": 0.4,
+          "similarityReason": "Satellite hardware provider for agriculture, lacks the specific irrigation application.",
+          "proofUrl": "https://inc42.com/buzz/exclusive-galaxeye-raises-%E2%82%B944-cr-in-ongoing-series-a-funding-round/",
+          "proofExcerpt": "Advanced Hardware & Technology SUMMARY GalaxEye has raised about ₹44.2 Cr (about $4.8 Mn) as part of its ongoing Series A funding round The round saw participation from a host of investors like Speciale Invest, MV Core, Rainmatter, Mounttech Growth Fund, Grand Anicut Angel Fund, Navam Venture Fund, Faad Capital, LV Angel Fund, among others The startup claims to be building the world’s first multi-sensor earth observation satellite * F"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of GalaxEye for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "mounttech-growth",
+      "rank": 20,
+      "name": "Mounttech Growth Fund",
+      "kind": "fund",
+      "score": 33,
+      "breakdown": {
+        "similarDeals": 2.6,
+        "stageFit": 10,
+        "geoFit": 15,
+        "recency": 5.6,
+        "chequeFit": 9,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: GalaxEye (series-a, $4.8M). GalaxEye is close to you: Satellite hardware provider for agriculture, lacks the specific irrigation application. Invests at series-a, not directly seed, so stage fit is partial. Deals concentrate in India.",
+      "stages": [
+        "series-a"
+      ],
+      "roundSizeRange": {
+        "minUsd": 4800000,
+        "medianUsd": 4800000,
+        "maxUsd": 4800000
+      },
+      "typicalCheque": "Joins $4.8M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "low",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-10c78c85-2c7a-4cd3-8230-e326c0b7f0c9",
+          "company": "GalaxEye",
+          "stage": "series-a",
+          "roundLabel": "series-a",
+          "amountUsd": 4800000,
+          "date": "2026-03-12",
+          "role": "participant",
+          "similarity": 0.4,
+          "similarityReason": "Satellite hardware provider for agriculture, lacks the specific irrigation application.",
+          "proofUrl": "https://inc42.com/buzz/exclusive-galaxeye-raises-%E2%82%B944-cr-in-ongoing-series-a-funding-round/",
+          "proofExcerpt": "Advanced Hardware & Technology SUMMARY GalaxEye has raised about ₹44.2 Cr (about $4.8 Mn) as part of its ongoing Series A funding round The round saw participation from a host of investors like Speciale Invest, MV Core, Rainmatter, Mounttech Growth Fund, Grand Anicut Angel Fund, Navam Venture Fund, Faad Capital, LV Angel Fund, among others The startup claims to be building the world’s first multi-sensor earth observation satellite * FOLLOW US * F"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of GalaxEye for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "anicut",
+      "rank": 21,
+      "name": "Anicut Capital",
+      "kind": "fund",
+      "score": 33,
+      "breakdown": {
+        "similarDeals": 2.6,
+        "stageFit": 10,
+        "geoFit": 15,
+        "recency": 5.6,
+        "chequeFit": 9,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: GalaxEye (series-a, $4.8M). GalaxEye is close to you: Satellite hardware provider for agriculture, lacks the specific irrigation application. Invests at series-a, not directly seed, so stage fit is partial. Deals concentrate in India.",
+      "stages": [
+        "series-a"
+      ],
+      "roundSizeRange": {
+        "minUsd": 4800000,
+        "medianUsd": 4800000,
+        "maxUsd": 4800000
+      },
+      "typicalCheque": "Joins $4.8M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "low",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-10c78c85-2c7a-4cd3-8230-e326c0b7f0c9",
+          "company": "GalaxEye",
+          "stage": "series-a",
+          "roundLabel": "series-a",
+          "amountUsd": 4800000,
+          "date": "2026-03-12",
+          "role": "participant",
+          "similarity": 0.4,
+          "similarityReason": "Satellite hardware provider for agriculture, lacks the specific irrigation application.",
+          "proofUrl": "https://inc42.com/buzz/exclusive-galaxeye-raises-%E2%82%B944-cr-in-ongoing-series-a-funding-round/",
+          "proofExcerpt": "startup GalaxEye has raised about ₹44.2 Cr (about $4.8 Mn) as part of its extended Series A funding round from its existing investors. The round saw participation from a host of investors like Speciale Invest, Mela Venture, Rainmatter, Mounttech Growth Fund, Anicut Capital, Navam Venture Fund, Faad Capital, LV Angel Fund, and Eraya Capital, along with a few individual investors. Among institutional investors, Mela Venture invested about ₹12 Cr, Rainmatter invested about ₹13"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of GalaxEye for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "bejo",
+      "rank": 22,
+      "name": "Bejo",
+      "kind": "fund",
+      "score": 33,
+      "breakdown": {
+        "similarDeals": 5.8,
+        "stageFit": 20,
+        "geoFit": 1.5,
+        "recency": 5.3,
+        "chequeFit": 10,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months, leading 1 — closest: Antonie (seed, $2.4M). Antonie is close to you: Crop health monitoring using satellite/drones, but lacks the specific irrigation focus. Already invests at seed.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 2360000,
+        "medianUsd": 2360000,
+        "maxUsd": 2360000
+      },
+      "typicalCheque": "Joins $2.4M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "low",
+      "leadCount": 1,
+      "backed": [
+        {
+          "dealId": "ts-a963bd00-de34-4dcb-ba50-5a2c8fb1871f",
+          "company": "Antonie",
+          "website": "https://antonie.nl/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 2360000,
+          "date": "2026-02-24",
+          "role": "lead",
+          "similarity": 0.4,
+          "similarityReason": "Crop health monitoring using satellite/drones, but lacks the specific irrigation focus.",
+          "proofUrl": "https://igrownews.com/antonie-latest-news/",
+          "proofExcerpt": "## Key Takeaways * Antonie raised €2 million in a Seed round, with Bejo taking an equity stake. * The investment builds on collaboration around CROP Monitor™, Antonie’s AI-driven crop monitoring platform. * AI models are used to track growth stages, diseases, weeds, and yield in seed pr"
+        }
+      ],
+      "leadPartner": {
+        "name": "John-Pieter Schipper",
+        "role": "Managing Director",
+        "evidenceUrl": "https://igrownews.com/antonie-latest-news/",
+        "dealCompany": "Antonie",
+        "basis": "deal_page"
+      },
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of Antonie for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "navam",
+      "rank": 23,
+      "name": "Navam Venture Fund",
+      "kind": "fund",
+      "score": 32,
+      "breakdown": {
+        "similarDeals": 2.6,
+        "stageFit": 10,
+        "geoFit": 15,
+        "recency": 5.6,
+        "chequeFit": 9,
+        "reachability": 0
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: GalaxEye (series-a, $4.8M). GalaxEye is close to you: Satellite hardware provider for agriculture, lacks the specific irrigation application. Invests at series-a, not directly seed, so stage fit is partial. Deals concentrate in India. No public intake route found — needs a warm intro.",
+      "stages": [
+        "series-a"
+      ],
+      "roundSizeRange": {
+        "minUsd": 4800000,
+        "medianUsd": 4800000,
+        "maxUsd": 4800000
+      },
+      "typicalCheque": "Joins $4.8M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "low",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-10c78c85-2c7a-4cd3-8230-e326c0b7f0c9",
+          "company": "GalaxEye",
+          "stage": "series-a",
+          "roundLabel": "series-a",
+          "amountUsd": 4800000,
+          "date": "2026-03-12",
+          "role": "participant",
+          "similarity": 0.4,
+          "similarityReason": "Satellite hardware provider for agriculture, lacks the specific irrigation application.",
+          "proofUrl": "https://inc42.com/buzz/exclusive-galaxeye-raises-%E2%82%B944-cr-in-ongoing-series-a-funding-round/",
+          "proofExcerpt": "hnology SUMMARY GalaxEye has raised about ₹44.2 Cr (about $4.8 Mn) as part of its ongoing Series A funding round The round saw participation from a host of investors like Speciale Invest, MV Core, Rainmatter, Mounttech Growth Fund, Grand Anicut Angel Fund, Navam Venture Fund, Faad Capital, LV Angel Fund, among others The startup claims to be building the world’s first multi-sensor earth observation satellite * FOLLOW US * FOLLOW US * Added to Saved Stories in Login Spa"
+        }
+      ],
+      "outreach": []
+    },
+    {
+      "id": "faad",
+      "rank": 24,
+      "name": "Faad Capital",
+      "kind": "fund",
+      "score": 32,
+      "breakdown": {
+        "similarDeals": 2.6,
+        "stageFit": 10,
+        "geoFit": 15,
+        "recency": 5.6,
+        "chequeFit": 9,
+        "reachability": 0
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: GalaxEye (series-a, $4.8M). GalaxEye is close to you: Satellite hardware provider for agriculture, lacks the specific irrigation application. Invests at series-a, not directly seed, so stage fit is partial. Deals concentrate in India. No public intake route found — needs a warm intro.",
+      "stages": [
+        "series-a"
+      ],
+      "roundSizeRange": {
+        "minUsd": 4800000,
+        "medianUsd": 4800000,
+        "maxUsd": 4800000
+      },
+      "typicalCheque": "Joins $4.8M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "low",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-10c78c85-2c7a-4cd3-8230-e326c0b7f0c9",
+          "company": "GalaxEye",
+          "stage": "series-a",
+          "roundLabel": "series-a",
+          "amountUsd": 4800000,
+          "date": "2026-03-12",
+          "role": "participant",
+          "similarity": 0.4,
+          "similarityReason": "Satellite hardware provider for agriculture, lacks the specific irrigation application.",
+          "proofUrl": "https://inc42.com/buzz/exclusive-galaxeye-raises-%E2%82%B944-cr-in-ongoing-series-a-funding-round/",
+          "proofExcerpt": "laxEye has raised about ₹44.2 Cr (about $4.8 Mn) as part of its ongoing Series A funding round The round saw participation from a host of investors like Speciale Invest, MV Core, Rainmatter, Mounttech Growth Fund, Grand Anicut Angel Fund, Navam Venture Fund, Faad Capital, LV Angel Fund, among others The startup claims to be building the world’s first multi-sensor earth observation satellite * FOLLOW US * FOLLOW US * Added to Saved Stories in Login Spacetech startup Galax"
+        }
+      ],
+      "outreach": []
+    },
+    {
+      "id": "lv-angel",
+      "rank": 25,
+      "name": "LV Angel Fund",
+      "kind": "fund",
+      "score": 32,
+      "breakdown": {
+        "similarDeals": 2.6,
+        "stageFit": 10,
+        "geoFit": 15,
+        "recency": 5.6,
+        "chequeFit": 9,
+        "reachability": 0
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: GalaxEye (series-a, $4.8M). GalaxEye is close to you: Satellite hardware provider for agriculture, lacks the specific irrigation application. Invests at series-a, not directly seed, so stage fit is partial. Deals concentrate in India. No public intake route found — needs a warm intro.",
+      "stages": [
+        "series-a"
+      ],
+      "roundSizeRange": {
+        "minUsd": 4800000,
+        "medianUsd": 4800000,
+        "maxUsd": 4800000
+      },
+      "typicalCheque": "Joins $4.8M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "low",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-10c78c85-2c7a-4cd3-8230-e326c0b7f0c9",
+          "company": "GalaxEye",
+          "stage": "series-a",
+          "roundLabel": "series-a",
+          "amountUsd": 4800000,
+          "date": "2026-03-12",
+          "role": "participant",
+          "similarity": 0.4,
+          "similarityReason": "Satellite hardware provider for agriculture, lacks the specific irrigation application.",
+          "proofUrl": "https://inc42.com/buzz/exclusive-galaxeye-raises-%E2%82%B944-cr-in-ongoing-series-a-funding-round/",
+          "proofExcerpt": "sed about ₹44.2 Cr (about $4.8 Mn) as part of its ongoing Series A funding round The round saw participation from a host of investors like Speciale Invest, MV Core, Rainmatter, Mounttech Growth Fund, Grand Anicut Angel Fund, Navam Venture Fund, Faad Capital, LV Angel Fund, among others The startup claims to be building the world’s first multi-sensor earth observation satellite * FOLLOW US * FOLLOW US * Added to Saved Stories in Login Spacetech startup GalaxEye has raised"
+        }
+      ],
+      "outreach": []
+    }
+  ],
+  "companies": [
+    {
+      "id": "ts-13d50b35-f2c8-4ef2-98f1-670ca8b5f0ed",
+      "company": "Agros",
+      "website": "https://agrosglobal.com/",
+      "description": "Agros assembles and distributes solar water pump systems that replace diesel pumps and enable year-round irrigation for small and medium-holder farmers in Southeast Asia.",
+      "hq": "Singapore",
+      "stage": "series-a",
+      "roundLabel": "series-a",
+      "amountUsd": 2000000,
+      "date": "2025-12-01",
+      "leadInvestor": "EDFI ElectriFI",
+      "investors": [
+        "EDFI ElectriFI"
+      ],
+      "sourceUrl": "https://edfimc.eu/agros-secures-usd-2-million-from-edfi-electrifi-to-expand-solar-powered-irrigation-for-farmers-in-southeast-asia",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "EDFI ElectriFI"
+      ],
+      "similarityReason": "Focuses on irrigation for smallholder farmers, but uses solar pumps instead of IoT/satellite precision.",
+      "evidence": {
+        "EDFI ElectriFI": "News 2 mins Read 18 Dec 2025 Brussels # Agros secures USD 2 million from EDFI ElectriFI to expand solar-powered irrigation for farmers in Southeast Asia **Brussels / Singapore, 18 December 2025** – EDFI ElectriFI, the EU-funded Electrification Financing Initiative managed by EDFI Management"
+      },
+      "proofUrl": "https://edfimc.eu/agros-secures-usd-2-million-from-edfi-electrifi-to-expand-solar-powered-irrigation-for-farmers-in-southeast-asia/",
+      "proofExcerpt": "News 2 mins Read 18 Dec 2025 Brussels # Agros secures USD 2 million from EDFI ElectriFI to expand solar-powered irrigation for farmers in Southeast Asia **Brussels / Singapore, 18 December 2025** – EDFI ElectriFI, the EU-funded Electrification Financing Initiative managed by EDFI Management",
+      "people": [
+        {
+          "investor": "EDFI ElectriFI",
+          "name": "Rodrigo Madrazo Garcia de Lomana",
+          "role": "CEO of EDFI MC"
+        }
+      ]
+    },
+    {
+      "id": "ts-32a1351b-b793-45c6-a117-35303e7569d3",
+      "company": "Hydrosat",
+      "website": "https://hydrosat.com/",
+      "description": "Provides thermal infrared satellite data and AI-powered analytics for water resource management, irrigation optimization, and crop yield forecasting.",
+      "hq": "Luxembourg",
+      "stage": "series-b+",
+      "roundLabel": "series-b+",
+      "amountUsd": 60000000,
+      "date": "2026-01-15",
+      "leadInvestor": "Hartree Partners, Subutai Capital Partners, Space 4 Earth",
+      "investors": [
+        "Hartree Partners, Subutai Capital Partners, Space 4 Earth",
+        "Hartree Partners",
+        "Subutai Capital Partners",
+        "Space 4 Earth",
+        "Truffle Capital",
+        "Luxembourg Future Fund",
+        "OTB Ventures",
+        "Blue Bear Capital",
+        "Statkraft Ventures",
+        "Cultivation Capital",
+        "Santa Barbara Venture Partners"
+      ],
+      "sourceUrl": "https://hydrosat.com/2026/01/15/hydrosat-raises-60m-in-series-b-funding-to-accelerate-growth",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "Hartree Partners",
+        "Subutai Capital Partners",
+        "Space 4 Earth",
+        "Truffle Capital",
+        "Luxembourg Future Fund",
+        "OTB Ventures",
+        "Blue Bear Capital",
+        "Statkraft Ventures",
+        "Cultivation Capital",
+        "Santa Barbara Venture Partners"
+      ],
+      "similarityReason": "Uses satellite data specifically for irrigation optimization and water resource management.",
+      "evidence": {
+        "Hartree Partners": "2026]** – Hydrosat, the leading provider of thermal infrared satellite data and AI-powered analytics, today announced the close of $60 million in new funding to accelerate growth across commercial, civil government, and defense markets. The round was led by Hartree Partners, Subutai Capital Partners, and Space 4 Earth, with new investment from Truffle Capital. The round includes follow-on investment from the Luxembourg Future Fund, OTB Ventures, Blue Bear Capital, Statkraft",
+        "Subutai Capital Partners": "t, the leading provider of thermal infrared satellite data and AI-powered analytics, today announced the close of $60 million in new funding to accelerate growth across commercial, civil government, and defense markets. The round was led by Hartree Partners, Subutai Capital Partners, and Space 4 Earth, with new investment from Truffle Capital. The round includes follow-on investment from the Luxembourg Future Fund, OTB Ventures, Blue Bear Capital, Statkraft Ventures, Cultiva",
+        "Space 4 Earth": "rmal infrared satellite data and AI-powered analytics, today announced the close of $60 million in new funding to accelerate growth across commercial, civil government, and defense markets. The round was led by Hartree Partners, Subutai Capital Partners, and Space 4 Earth, with new investment from Truffle Capital. The round includes follow-on investment from the Luxembourg Future Fund, OTB Ventures, Blue Bear Capital, Statkraft Ventures, Cultivation Capital, and Santa Barbar",
+        "Truffle Capital": "red analytics, today announced the close of $60 million in new funding to accelerate growth across commercial, civil government, and defense markets. The round was led by Hartree Partners, Subutai Capital Partners, and Space 4 Earth, with new investment from Truffle Capital. The round includes follow-on investment from the Luxembourg Future Fund, OTB Ventures, Blue Bear Capital, Statkraft Ventures, Cultivation Capital, and Santa Barbara Venture Partners. The $60 million tota",
+        "Luxembourg Future Fund": "ding to accelerate growth across commercial, civil government, and defense markets. The round was led by Hartree Partners, Subutai Capital Partners, and Space 4 Earth, with new investment from Truffle Capital. The round includes follow-on investment from the Luxembourg Future Fund, OTB Ventures, Blue Bear Capital, Statkraft Ventures, Cultivation Capital, and Santa Barbara Venture Partners. The $60 million total reflects the core Series B financing as well as additional equit",
+        "OTB Ventures": "h across commercial, civil government, and defense markets. The round was led by Hartree Partners, Subutai Capital Partners, and Space 4 Earth, with new investment from Truffle Capital. The round includes follow-on investment from the Luxembourg Future Fund, OTB Ventures, Blue Bear Capital, Statkraft Ventures, Cultivation Capital, and Santa Barbara Venture Partners. The $60 million total reflects the core Series B financing as well as additional equity investments. The stro",
+        "Blue Bear Capital": "rcial, civil government, and defense markets. The round was led by Hartree Partners, Subutai Capital Partners, and Space 4 Earth, with new investment from Truffle Capital. The round includes follow-on investment from the Luxembourg Future Fund, OTB Ventures, Blue Bear Capital, Statkraft Ventures, Cultivation Capital, and Santa Barbara Venture Partners. The $60 million total reflects the core Series B financing as well as additional equity investments. The strong participati",
+        "Statkraft Ventures": "ment, and defense markets. The round was led by Hartree Partners, Subutai Capital Partners, and Space 4 Earth, with new investment from Truffle Capital. The round includes follow-on investment from the Luxembourg Future Fund, OTB Ventures, Blue Bear Capital, Statkraft Ventures, Cultivation Capital, and Santa Barbara Venture Partners. The $60 million total reflects the core Series B financing as well as additional equity investments. The strong participation from new and exi",
+        "Cultivation Capital": "rkets. The round was led by Hartree Partners, Subutai Capital Partners, and Space 4 Earth, with new investment from Truffle Capital. The round includes follow-on investment from the Luxembourg Future Fund, OTB Ventures, Blue Bear Capital, Statkraft Ventures, Cultivation Capital, and Santa Barbara Venture Partners. The $60 million total reflects the core Series B financing as well as additional equity investments. The strong participation from new and existing investors unde",
+        "Santa Barbara Venture Partners": "by Hartree Partners, Subutai Capital Partners, and Space 4 Earth, with new investment from Truffle Capital. The round includes follow-on investment from the Luxembourg Future Fund, OTB Ventures, Blue Bear Capital, Statkraft Ventures, Cultivation Capital, and Santa Barbara Venture Partners. The $60 million total reflects the core Series B financing as well as additional equity investments. The strong participation from new and existing investors underscores the company’s sus"
+      },
+      "proofUrl": "https://hydrosat.com/2026/01/15/hydrosat-raises-60m-in-series-b-funding-to-accelerate-growth/",
+      "proofExcerpt": "2026]** – Hydrosat, the leading provider of thermal infrared satellite data and AI-powered analytics, today announced the close of $60 million in new funding to accelerate growth across commercial, civil government, and defense markets. The round was led by Hartree Partners, Subutai Capital Partners, and Space 4 Earth, with new investment from Truffle Capital. The round includes follow-on investment from the Luxembourg Future Fund, OTB Ventures, Blue Bear Capital, Statkraft",
+      "people": [
+        {
+          "investor": "Hartree Partners",
+          "name": "George Potts",
+          "role": "Head of Hartree Partners' Technology Investment Business"
+        },
+        {
+          "investor": "Truffle Capital",
+          "name": "Bozena Adamczyk",
+          "role": "Partner"
+        }
+      ]
+    },
+    {
+      "id": "ts-6753f5e4-5a02-4d69-a1c7-9be5075a10aa",
+      "company": "CarbonFarm",
+      "website": "https://carbonfarm.tech/",
+      "description": "Provides AI- and satellite-powered digital MRV and project development to measure and certify methane emissions reductions and water savings in rice farming.",
+      "hq": "France",
+      "stage": "series-a",
+      "roundLabel": "series-a",
+      "amountUsd": 7560000,
+      "date": "2026-10-13",
+      "leadInvestor": "Colam Impact",
+      "investors": [
+        "Colam Impact",
+        "Proparco",
+        "Suma Capital",
+        "elea",
+        "Working Capital Fund",
+        "Albo",
+        "Bpifrance",
+        "Serena",
+        "makesense",
+        "Techmind"
+      ],
+      "sourceUrl": "https://carbonfarm.tech/posts/carbonfarm-raises-7-million-series-a",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "Colam Impact",
+        "Proparco",
+        "Suma Capital",
+        "elea",
+        "Working Capital Fund",
+        "Albo",
+        "Serena",
+        "makesense",
+        "Techmind"
+      ],
+      "similarityReason": "Uses satellite data to measure water savings in farming, sharing the core precision irrigation goal.",
+      "evidence": {
+        "Colam Impact": "ed €7 million Series A round. CarbonFarm helps the rice industry turn climate ambition into measurable change across millions of small farms. The round brings together leading impact and climate investors with a development finance institution. It was led by Colam Impact, with participation from Proparco, Suma Capital, elea, Working Capital Fund, Albo, and BPI France. Existing investors Serena & makesense (via Racine²) and Techmind, also renewed their support. The funding w",
+        "Proparco": "rm helps the rice industry turn climate ambition into measurable change across millions of small farms. The round brings together leading impact and climate investors with a development finance institution. It was led by Colam Impact, with participation from Proparco, Suma Capital, elea, Working Capital Fund, Albo, and BPI France. Existing investors Serena & makesense (via Racine²) and Techmind, also renewed their support. The funding will support CarbonFarm’s next phase of",
+        "Suma Capital": "he rice industry turn climate ambition into measurable change across millions of small farms. The round brings together leading impact and climate investors with a development finance institution. It was led by Colam Impact, with participation from Proparco, Suma Capital, elea, Working Capital Fund, Albo, and BPI France. Existing investors Serena & makesense (via Racine²) and Techmind, also renewed their support. The funding will support CarbonFarm’s next phase of growth, e",
+        "elea": "ry turn climate ambition into measurable change across millions of small farms. The round brings together leading impact and climate investors with a development finance institution. It was led by Colam Impact, with participation from Proparco, Suma Capital, elea, Working Capital Fund, Albo, and BPI France. Existing investors Serena & makesense (via Racine²) and Techmind, also renewed their support. The funding will support CarbonFarm’s next phase of growth, expanding the t",
+        "Working Capital Fund": "n climate ambition into measurable change across millions of small farms. The round brings together leading impact and climate investors with a development finance institution. It was led by Colam Impact, with participation from Proparco, Suma Capital, elea, Working Capital Fund, Albo, and BPI France. Existing investors Serena & makesense (via Racine²) and Techmind, also renewed their support. The funding will support CarbonFarm’s next phase of growth, expanding the technol",
+        "Albo": "o measurable change across millions of small farms. The round brings together leading impact and climate investors with a development finance institution. It was led by Colam Impact, with participation from Proparco, Suma Capital, elea, Working Capital Fund, Albo, and BPI France. Existing investors Serena & makesense (via Racine²) and Techmind, also renewed their support. The funding will support CarbonFarm’s next phase of growth, expanding the technology and expertise need",
+        "Serena": "all farms. The round brings together leading impact and climate investors with a development finance institution. It was led by Colam Impact, with participation from Proparco, Suma Capital, elea, Working Capital Fund, Albo, and BPI France. Existing investors Serena & makesense (via Racine²) and Techmind, also renewed their support. The funding will support CarbonFarm’s next phase of growth, expanding the technology and expertise needed to develop, finance, and measure high-",
+        "makesense": ". The round brings together leading impact and climate investors with a development finance institution. It was led by Colam Impact, with participation from Proparco, Suma Capital, elea, Working Capital Fund, Albo, and BPI France. Existing investors Serena & makesense (via Racine²) and Techmind, also renewed their support. The funding will support CarbonFarm’s next phase of growth, expanding the technology and expertise needed to develop, finance, and measure high-integrity",
+        "Techmind": "leading impact and climate investors with a development finance institution. It was led by Colam Impact, with participation from Proparco, Suma Capital, elea, Working Capital Fund, Albo, and BPI France. Existing investors Serena & makesense (via Racine²) and Techmind, also renewed their support. The funding will support CarbonFarm’s next phase of growth, expanding the technology and expertise needed to develop, finance, and measure high-integrity rice projects worldwide. #"
+      },
+      "proofUrl": "https://carbonfarm.tech/posts/carbonfarm-raises-7-million-series-a",
+      "proofExcerpt": "ed €7 million Series A round. CarbonFarm helps the rice industry turn climate ambition into measurable change across millions of small farms. The round brings together leading impact and climate investors with a development finance institution. It was led by Colam Impact, with participation from Proparco, Suma Capital, elea, Working Capital Fund, Albo, and BPI France. Existing investors Serena & makesense (via Racine²) and Techmind, also renewed their support. The funding w",
+      "people": [
+        {
+          "investor": "Colam Impact",
+          "name": "Benjamine Friderich",
+          "role": "Investment Director"
+        },
+        {
+          "investor": "Proparco",
+          "name": "Jean-Gabriel Dayre",
+          "role": "Co-head Regenerative agriculture, Carbon Markets and Naturetech"
+        }
+      ]
+    },
+    {
+      "id": "ts-59189257-90cb-4405-a8af-659d1762e926",
+      "company": "Mitti Labs",
+      "website": "https://mittilabs.earth/",
+      "description": "Uses satellite radar imagery, AI, and field operations to help smallholder rice farmers cut water use and methane emissions while generating carbon credits.",
+      "hq": "United States",
+      "stage": "series-a",
+      "roundLabel": "series-a",
+      "amountUsd": 9500000,
+      "date": "2026-08-05",
+      "leadInvestor": "Aramco Ventures",
+      "investors": [
+        "Aramco Ventures",
+        "Lightspeed India",
+        "Godrej Industries Group",
+        "Cisco Foundation",
+        "Francis Family Fund",
+        "Volta Circle"
+      ],
+      "sourceUrl": "https://techcrunch.com/2026/08/05/saudi-aramco-backs-indias-mitti-labs-to-make-asias-rice-farming-more-water-resilient",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "Aramco Ventures",
+        "Lightspeed India",
+        "Godrej Industries Group",
+        "Francis Family Fund",
+        "Volta Circle"
+      ],
+      "similarityReason": "Uses satellite imagery to help smallholder farmers cut water use, highly aligned mission.",
+      "evidence": {
+        "Aramco Ventures": "As rising temperatures and shifting rainfall patterns put Asia’s water-intensive rice farming under pressure, Mitti Labs, a New York- and Bengaluru-headquartered climate-tech startup, has raised $9.5 million in an investment led by Aramco Ventures, Saudi Aramco’s venture arm, to expand across Asia with a platform that combines satellite imagery, AI, and field operations to help farmers cut water use and methane emissions. Other investors in the Se",
+        "Lightspeed India": "y Aramco Ventures, Saudi Aramco’s venture arm, to expand across Asia with a platform that combines satellite imagery, AI, and field operations to help farmers cut water use and methane emissions. Other investors in the Series A round included existing backer Lightspeed India, as well as Godrej Industries Group, Cisco, Francis Family Fund, and Volta Circle. With the latest funding, Mitti Labs has now raised $12.5 million, including a $3 million seed round in July 2024. Rice,",
+        "Godrej Industries Group": "co’s venture arm, to expand across Asia with a platform that combines satellite imagery, AI, and field operations to help farmers cut water use and methane emissions. Other investors in the Series A round included existing backer Lightspeed India, as well as Godrej Industries Group, Cisco, Francis Family Fund, and Volta Circle. With the latest funding, Mitti Labs has now raised $12.5 million, including a $3 million seed round in July 2024. Rice, the staple food for more tha",
+        "Francis Family Fund": "ss Asia with a platform that combines satellite imagery, AI, and field operations to help farmers cut water use and methane emissions. Other investors in the Series A round included existing backer Lightspeed India, as well as Godrej Industries Group, Cisco, Francis Family Fund, and Volta Circle. With the latest funding, Mitti Labs has now raised $12.5 million, including a $3 million seed round in July 2024. Rice, the staple food for more than half the world’s population, i",
+        "Volta Circle": "hat combines satellite imagery, AI, and field operations to help farmers cut water use and methane emissions. Other investors in the Series A round included existing backer Lightspeed India, as well as Godrej Industries Group, Cisco, Francis Family Fund, and Volta Circle. With the latest funding, Mitti Labs has now raised $12.5 million, including a $3 million seed round in July 2024. Rice, the staple food for more than half the world’s population, is one of the most water-i"
+      },
+      "proofUrl": "https://techcrunch.com/2026/08/05/saudi-aramco-backs-indias-mitti-labs-to-make-asias-rice-farming-more-water-resilient/",
+      "proofExcerpt": "As rising temperatures and shifting rainfall patterns put Asia’s water-intensive rice farming under pressure, Mitti Labs, a New York- and Bengaluru-headquartered climate-tech startup, has raised $9.5 million in an investment led by Aramco Ventures, Saudi Aramco’s venture arm, to expand across Asia with a platform that combines satellite imagery, AI, and field operations to help farmers cut water use and methane emissions. Other investors in the Se"
+    },
+    {
+      "id": "ts-0f121bc4-3850-4f1c-9954-ef67e76b8b21",
+      "company": "Rize",
+      "website": "https://rize.farm/",
+      "description": "Singapore-based sustainable rice platform helping smallholder farmers adopt alternate wetting and drying to cut methane emissions and water use while raising farmer income.",
+      "hq": "Singapore",
+      "stage": "series-b+",
+      "roundLabel": "series-b",
+      "amountUsd": 31000000,
+      "date": "2026-07-16",
+      "leadInvestor": "BNP Paribas Asset Management Alts",
+      "investors": [
+        "BNP Paribas Asset Management Alts",
+        "The Rockefeller Foundation",
+        "Temasek",
+        "Breakthrough Energy Ventures",
+        "UOB",
+        "BIDV",
+        "Temasek Foundation"
+      ],
+      "sourceUrl": "https://rize.farm/post/rize-raises-usd-31-million-to-accelerate-sustainable-rice-farming-across-southeast-asia-and-moderniz",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "BNP Paribas Asset Management Alts",
+        "The Rockefeller Foundation",
+        "Temasek",
+        "Breakthrough Energy Ventures",
+        "UOB",
+        "BIDV",
+        "Temasek Foundation"
+      ],
+      "similarityReason": "Focuses on water use reduction for smallholder rice farmers, though uses different methodology.",
+      "evidence": {
+        "BNP Paribas Asset Management Alts": "ding, Rize aims to scale its impact to over 300,000 hectares and empower more than 150,000 smallholder farmers by 2030, strengthening climate resilient agriculture across Southeast Asia.* **Highlights:** * USD 31 million round — USD 20 million equity led by BNP Paribas Asset Management Alts, with The Rockefeller Foundation, Temasek, and Breakthrough Energy Ventures; USD 11 million debt from UOB, BIDV and Temasek Foundation. * Rize has scaled 10x in two years — 17,000 smallh",
+        "The Rockefeller Foundation": "ver 300,000 hectares and empower more than 150,000 smallholder farmers by 2030, strengthening climate resilient agriculture across Southeast Asia.* **Highlights:** * USD 31 million round — USD 20 million equity led by BNP Paribas Asset Management Alts, with The Rockefeller Foundation, Temasek, and Breakthrough Energy Ventures; USD 11 million debt from UOB, BIDV and Temasek Foundation. * Rize has scaled 10x in two years — 17,000 smallholder farmers across over 50,000 hectare",
+        "Temasek": "ower more than 150,000 smallholder farmers by 2030, strengthening climate resilient agriculture across Southeast Asia.* **Highlights:** * USD 31 million round — USD 20 million equity led by BNP Paribas Asset Management Alts, with The Rockefeller Foundation, Temasek, and Breakthrough Energy Ventures; USD 11 million debt from UOB, BIDV and Temasek Foundation. * Rize has scaled 10x in two years — 17,000 smallholder farmers across over 50,000 hectares in Vietnam and Indonesia,",
+        "Breakthrough Energy Ventures": "n 150,000 smallholder farmers by 2030, strengthening climate resilient agriculture across Southeast Asia.* **Highlights:** * USD 31 million round — USD 20 million equity led by BNP Paribas Asset Management Alts, with The Rockefeller Foundation, Temasek, and Breakthrough Energy Ventures; USD 11 million debt from UOB, BIDV and Temasek Foundation. * Rize has scaled 10x in two years — 17,000 smallholder farmers across over 50,000 hectares in Vietnam and Indonesia, 250 people on",
+        "UOB": "imate resilient agriculture across Southeast Asia.* **Highlights:** * USD 31 million round — USD 20 million equity led by BNP Paribas Asset Management Alts, with The Rockefeller Foundation, Temasek, and Breakthrough Energy Ventures; USD 11 million debt from UOB, BIDV and Temasek Foundation. * Rize has scaled 10x in two years — 17,000 smallholder farmers across over 50,000 hectares in Vietnam and Indonesia, 250 people on the ground, and shipped 1,500 metric tons of low-emiss",
+        "BIDV": "resilient agriculture across Southeast Asia.* **Highlights:** * USD 31 million round — USD 20 million equity led by BNP Paribas Asset Management Alts, with The Rockefeller Foundation, Temasek, and Breakthrough Energy Ventures; USD 11 million debt from UOB, BIDV and Temasek Foundation. * Rize has scaled 10x in two years — 17,000 smallholder farmers across over 50,000 hectares in Vietnam and Indonesia, 250 people on the ground, and shipped 1,500 metric tons of low-emission r",
+        "Temasek Foundation": "t agriculture across Southeast Asia.* **Highlights:** * USD 31 million round — USD 20 million equity led by BNP Paribas Asset Management Alts, with The Rockefeller Foundation, Temasek, and Breakthrough Energy Ventures; USD 11 million debt from UOB, BIDV and Temasek Foundation. * Rize has scaled 10x in two years — 17,000 smallholder farmers across over 50,000 hectares in Vietnam and Indonesia, 250 people on the ground, and shipped 1,500 metric tons of low-emission rice to Eu"
+      },
+      "proofUrl": "https://www.rize.farm/post/rize-raises-usd-31-million-to-accelerate-sustainable-rice-farming-across-southeast-asia-and-moderniz",
+      "proofExcerpt": "ding, Rize aims to scale its impact to over 300,000 hectares and empower more than 150,000 smallholder farmers by 2030, strengthening climate resilient agriculture across Southeast Asia.* **Highlights:** * USD 31 million round — USD 20 million equity led by BNP Paribas Asset Management Alts, with The Rockefeller Foundation, Temasek, and Breakthrough Energy Ventures; USD 11 million debt from UOB, BIDV and Temasek Foundation. * Rize has scaled 10x in two years — 17,000 smallh",
+      "people": [
+        {
+          "investor": "BNP Paribas Asset Management Alts",
+          "name": "Alexandre Martin-Min",
+          "role": "Head of Natural Capital & Impact Investments"
+        },
+        {
+          "investor": "The Rockefeller Foundation",
+          "name": "Slav Gatchev",
+          "role": "Vice President of Innovative Finance"
+        }
+      ]
+    },
+    {
+      "id": "ts-34c20a1e-d3bc-4c98-8cb2-302a42e93343",
+      "company": "RoboCare",
+      "website": "https://robocare.tn/",
+      "description": "Fuses satellite imagery, IoT sensors and drone data with AI models to predict crop disease and water stress for regional crops.",
+      "hq": "Tunisia",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "date": "2026-06-24",
+      "leadInvestor": "216 Capital",
+      "investors": [
+        "216 Capital"
+      ],
+      "sourceUrl": "https://startupmaphub.com/blog/top-agritech-startups-africa-2026",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "216 Capital"
+      ],
+      "similarityReason": "Combines satellite and IoT to predict water stress, very similar technical approach.",
+      "evidence": {
+        "216 Capital": "re is North Africa's quiet standout. The Tunisian startup fuses satellite imagery, IoT sensors and drone data with AI models trained on regional crops — olives, cereals, industrial tomatoes — to predict disease and water stress. Its six-figure seed round from 216 Capital in early July funds expansion into secondary markets across Africa and the Middle East. UrbanFarm Africa represents a different kind of deal entirely. Its solar-powered \"Hydro-Coop\" units — combining hydropo"
+      },
+      "proofUrl": "https://startupmaphub.com/blog/top-agritech-startups-africa-2026",
+      "proofExcerpt": "re is North Africa's quiet standout. The Tunisian startup fuses satellite imagery, IoT sensors and drone data with AI models trained on regional crops — olives, cereals, industrial tomatoes — to predict disease and water stress. Its six-figure seed round from 216 Capital in early July funds expansion into secondary markets across Africa and the Middle East. UrbanFarm Africa represents a different kind of deal entirely. Its solar-powered \"Hydro-Coop\" units — combining hydropo"
+    },
+    {
+      "id": "ts-6dedbc5f-6cc1-432e-908f-df2b785497c0",
+      "company": "NoorNation",
+      "website": "https://noornation.com/",
+      "description": "Builds off-grid solar-powered energy and irrigation infrastructure (LifeBox) for agribusinesses and smallholder farms in Egypt and Sub-Saharan Africa.",
+      "hq": "Egypt",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 1050000,
+      "date": "2026-10-28",
+      "leadInvestor": "Linah Farms",
+      "investors": [
+        "Linah Farms",
+        "Catalyst Fund",
+        "KBW Ventures"
+      ],
+      "sourceUrl": "https://africainvestorreview.com/egyptian-climatetech-startup-noornation-raises-1-05m-seed-round-to-expand-solar-powered-agricultural-infrastructure",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "Linah Farms",
+        "Catalyst Fund",
+        "KBW Ventures"
+      ],
+      "similarityReason": "Provides solar irrigation infrastructure for smallholder farmers, similar customer and problem.",
+      "evidence": {
+        "Linah Farms": "Venture Capital # Egyptian ClimateTech Startup NoorNation Raises $1.05M Seed Round to Expand Solar-Powered Agricultural Infrastructure Agricultural corporate Linah Farms transitions from commercial customer to strategic equity investor alongside Catalyst Fund and Saudi Arabia's KBW Ventures. Charles S. October 28, 2026 – 2 min read Share ### Share this article #### Page",
+        "Catalyst Fund": "Venture Capital # Egyptian ClimateTech Startup NoorNation Raises $1.05M Seed Round to Expand Solar-Powered Agricultural Infrastructure Agricultural corporate Linah Farms transitions from commercial customer to strategic equity investor alongside Catalyst Fund and Saudi Arabia's KBW Ventures. Charles S. October 28, 2026 – 2 min read Share ### Share this article #### Page Link *NoorNation Team* **CAIRO** — Egyptian climate technology company **NoorNation**",
+        "KBW Ventures": "yptian ClimateTech Startup NoorNation Raises $1.05M Seed Round to Expand Solar-Powered Agricultural Infrastructure Agricultural corporate Linah Farms transitions from commercial customer to strategic equity investor alongside Catalyst Fund and Saudi Arabia's KBW Ventures. Charles S. October 28, 2026 – 2 min read Share ### Share this article #### Page Link *NoorNation Team* **CAIRO** — Egyptian climate technology company **NoorNation** has closed a **$1.05 million (~E"
+      },
+      "proofUrl": "https://www.africainvestorreview.com/egyptian-climatetech-startup-noornation-raises-1-05m-seed-round-to-expand-solar-powered-agricultural-infrastructure/",
+      "proofExcerpt": "Venture Capital # Egyptian ClimateTech Startup NoorNation Raises $1.05M Seed Round to Expand Solar-Powered Agricultural Infrastructure Agricultural corporate Linah Farms transitions from commercial customer to strategic equity investor alongside Catalyst Fund and Saudi Arabia's KBW Ventures. Charles S. October 28, 2026 – 2 min read Share ### Share this article #### Page",
+      "people": [
+        {
+          "investor": "KBW Ventures",
+          "name": "Prince Khaled bin Alwaleed bin Talal",
+          "role": "Founder"
+        }
+      ]
+    },
+    {
+      "id": "ts-add92455-bf1c-4989-ace2-41865943b169",
+      "company": "constellr",
+      "website": "https://constellr.com/",
+      "description": "Operates thermal infrared satellites providing high-precision surface-temperature observations for agriculture, water management and activity intelligence.",
+      "hq": "Germany",
+      "stage": "series-a",
+      "roundLabel": "series-a",
+      "amountUsd": 44000000,
+      "date": "2026-02-01",
+      "leadInvestor": "Alpine Space Ventures; Lakestar",
+      "investors": [
+        "Alpine Space Ventures; Lakestar",
+        "Alpine Space Ventures",
+        "Lakestar",
+        "Semapa Next",
+        "Bayern Kapital",
+        "Cardumen Capital",
+        "Cooperative Ventures",
+        "Kineo Finance",
+        "Vsquared",
+        "CosmiCapital",
+        "Fraunhofer Technologie-Transfer Fonds",
+        "EIC Fund"
+      ],
+      "sourceUrl": "https://constellr.com/article/constellr-secures-eu37-million-series-a-funding-to-deliver-defence-grade-thermal-intelligence",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "Alpine Space Ventures",
+        "Lakestar",
+        "Semapa Next",
+        "Bayern Kapital",
+        "Cardumen Capital",
+        "Cooperative Ventures",
+        "Kineo Finance",
+        "Vsquared",
+        "CosmiCapital",
+        "Fraunhofer Technologie-Transfer Fonds",
+        "EIC Fund"
+      ],
+      "similarityReason": "Uses thermal satellite data specifically for irrigation and water management.",
+      "evidence": {
+        "Alpine Space Ventures": "n Space Tech** **Munich, Germany, February 10, 2026**. constellr, the global leader in high-precision thermal intelligence from space, has raised €37 million in Series A funding, one of the largest Series A rounds in European space technology to date, led by Alpine Space Ventures and Lakestar. The investment will accelerate the expansion of constellr’s pioneering, fully operational thermal intelligence capabilities and advance the system to defence grade status for governmen",
+        "Lakestar": "Germany, February 10, 2026**. constellr, the global leader in high-precision thermal intelligence from space, has raised €37 million in Series A funding, one of the largest Series A rounds in European space technology to date, led by Alpine Space Ventures and Lakestar. The investment will accelerate the expansion of constellr’s pioneering, fully operational thermal intelligence capabilities and advance the system to defence grade status for governments, military entities and",
+        "Semapa Next": "be used to assess critical infrastructure including missile fuel depots, covert manufacturing sites, and critical logistics hubs. The significantly oversubscribed financing round was led by Alpine Space Ventures, with co-lead Lakestar, and participation from Semapa Next, Bayern Kapital, Cardumen Capital, Cooperative Ventures, Kineo Finance, and strong continued support from existing shareholders, including Vsquared, CosmiCapital, Fraunhofer Technologie-Transfer Fonds, and EI",
+        "Bayern Kapital": "sess critical infrastructure including missile fuel depots, covert manufacturing sites, and critical logistics hubs. The significantly oversubscribed financing round was led by Alpine Space Ventures, with co-lead Lakestar, and participation from Semapa Next, Bayern Kapital, Cardumen Capital, Cooperative Ventures, Kineo Finance, and strong continued support from existing shareholders, including Vsquared, CosmiCapital, Fraunhofer Technologie-Transfer Fonds, and EIC Fund. The s",
+        "Cardumen Capital": "frastructure including missile fuel depots, covert manufacturing sites, and critical logistics hubs. The significantly oversubscribed financing round was led by Alpine Space Ventures, with co-lead Lakestar, and participation from Semapa Next, Bayern Kapital, Cardumen Capital, Cooperative Ventures, Kineo Finance, and strong continued support from existing shareholders, including Vsquared, CosmiCapital, Fraunhofer Technologie-Transfer Fonds, and EIC Fund. The series A investme",
+        "Cooperative Ventures": "ding missile fuel depots, covert manufacturing sites, and critical logistics hubs. The significantly oversubscribed financing round was led by Alpine Space Ventures, with co-lead Lakestar, and participation from Semapa Next, Bayern Kapital, Cardumen Capital, Cooperative Ventures, Kineo Finance, and strong continued support from existing shareholders, including Vsquared, CosmiCapital, Fraunhofer Technologie-Transfer Fonds, and EIC Fund. The series A investment brings total fu",
+        "Kineo Finance": "ts, covert manufacturing sites, and critical logistics hubs. The significantly oversubscribed financing round was led by Alpine Space Ventures, with co-lead Lakestar, and participation from Semapa Next, Bayern Kapital, Cardumen Capital, Cooperative Ventures, Kineo Finance, and strong continued support from existing shareholders, including Vsquared, CosmiCapital, Fraunhofer Technologie-Transfer Fonds, and EIC Fund. The series A investment brings total funding to 75 million. F",
+        "Vsquared": "ersubscribed financing round was led by Alpine Space Ventures, with co-lead Lakestar, and participation from Semapa Next, Bayern Kapital, Cardumen Capital, Cooperative Ventures, Kineo Finance, and strong continued support from existing shareholders, including Vsquared, CosmiCapital, Fraunhofer Technologie-Transfer Fonds, and EIC Fund. The series A investment brings total funding to 75 million. Funding will drive the expansion of constellr’s satellite constellation for broader",
+        "CosmiCapital": "ed financing round was led by Alpine Space Ventures, with co-lead Lakestar, and participation from Semapa Next, Bayern Kapital, Cardumen Capital, Cooperative Ventures, Kineo Finance, and strong continued support from existing shareholders, including Vsquared, CosmiCapital, Fraunhofer Technologie-Transfer Fonds, and EIC Fund. The series A investment brings total funding to 75 million. Funding will drive the expansion of constellr’s satellite constellation for broader global co",
+        "Fraunhofer Technologie-Transfer Fonds": "ound was led by Alpine Space Ventures, with co-lead Lakestar, and participation from Semapa Next, Bayern Kapital, Cardumen Capital, Cooperative Ventures, Kineo Finance, and strong continued support from existing shareholders, including Vsquared, CosmiCapital, Fraunhofer Technologie-Transfer Fonds, and EIC Fund. The series A investment brings total funding to 75 million. Funding will drive the expansion of constellr’s satellite constellation for broader global coverage, enable",
+        "EIC Fund": "co-lead Lakestar, and participation from Semapa Next, Bayern Kapital, Cardumen Capital, Cooperative Ventures, Kineo Finance, and strong continued support from existing shareholders, including Vsquared, CosmiCapital, Fraunhofer Technologie-Transfer Fonds, and EIC Fund. The series A investment brings total funding to 75 million. Funding will drive the expansion of constellr’s satellite constellation for broader global coverage, enable next-generation platforms with sub-5-metre"
+      },
+      "proofUrl": "https://www.constellr.com/article/constellr-secures-eu37-million-series-a-funding-to-deliver-defence-grade-thermal-intelligence",
+      "proofExcerpt": "n Space Tech** **Munich, Germany, February 10, 2026**. constellr, the global leader in high-precision thermal intelligence from space, has raised €37 million in Series A funding, one of the largest Series A rounds in European space technology to date, led by Alpine Space Ventures and Lakestar. The investment will accelerate the expansion of constellr’s pioneering, fully operational thermal intelligence capabilities and advance the system to defence grade status for governmen",
+      "people": [
+        {
+          "investor": "Alpine Space Ventures",
+          "name": "Bulent Altan",
+          "role": ""
+        },
+        {
+          "investor": "Lakestar",
+          "name": "Klaus Hommels",
+          "role": ""
+        }
+      ]
+    },
+    {
+      "id": "ts-c7a2918e-d9b1-4d01-9b9b-35477d3e9205",
+      "company": "SatLeo Labs",
+      "website": "https://satleolabs.com/",
+      "description": "Spacetech startup building satellite-based systems that capture thermal and visible data from low Earth orbit for defence, agriculture, urban planning, and climate monitoring.",
+      "hq": "India",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 2200000,
+      "date": "2026-04-06",
+      "leadInvestor": "Unicorn India Ventures",
+      "investors": [
+        "Unicorn India Ventures",
+        "Merak Ventures",
+        "Java Capital",
+        "IIMA Ventures",
+        "Manish Gandhi"
+      ],
+      "sourceUrl": "https://bwdisrupt.com/article/satleo-labs-raises-2-2-mn-seed-round-led-by-unicorn-india-ventures-601060",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Unicorn India Ventures",
+        "Merak Ventures",
+        "Java Capital",
+        "IIMA Ventures",
+        "Manish Gandhi"
+      ],
+      "similarityReason": "Satellite-based data provider for agriculture, but lacks the specific irrigation and smallholder focus.",
+      "evidence": {
+        "Unicorn India Ventures": "# SatLeo Labs Raises $2.2 Mn Seed Round Led By Unicorn India Ventures BW Online Bureau Apr 07, 2026 Spacetech startup to advance thermal satellite mission and scale AI-led geospatial intelligence platform SatLeo Labs/ LinkedIn SatLeo Labs has raised USD 2.2 mil",
+        "Merak Ventures": "and scale AI-led geospatial intelligence platform SatLeo Labs/ LinkedIn SatLeo Labs has raised USD 2.2 million in a seed funding round led by Unicorn India Ventures, taking its total funding to USD 5.5 million to date. The round also saw participation from Merak Ventures, Java Capital, IIMA-CIIE, and investor Manish Gandhi. The startup will utilise the fresh capital to advance its thermal satellite mission and scale its AI-powered platform for thermal intelligence applica",
+        "Java Capital": "geospatial intelligence platform SatLeo Labs/ LinkedIn SatLeo Labs has raised USD 2.2 million in a seed funding round led by Unicorn India Ventures, taking its total funding to USD 5.5 million to date. The round also saw participation from Merak Ventures, Java Capital, IIMA-CIIE, and investor Manish Gandhi. The startup will utilise the fresh capital to advance its thermal satellite mission and scale its AI-powered platform for thermal intelligence applications. Founded",
+        "IIMA Ventures": "telligence platform SatLeo Labs/ LinkedIn SatLeo Labs has raised USD 2.2 million in a seed funding round led by Unicorn India Ventures, taking its total funding to USD 5.5 million to date. The round also saw participation from Merak Ventures, Java Capital, IIMA-CIIE, and investor Manish Gandhi. The startup will utilise the fresh capital to advance its thermal satellite mission and scale its AI-powered platform for thermal intelligence applications. Founded by Shravan Bha",
+        "Manish Gandhi": "Leo Labs/ LinkedIn SatLeo Labs has raised USD 2.2 million in a seed funding round led by Unicorn India Ventures, taking its total funding to USD 5.5 million to date. The round also saw participation from Merak Ventures, Java Capital, IIMA-CIIE, and investor Manish Gandhi. The startup will utilise the fresh capital to advance its thermal satellite mission and scale its AI-powered platform for thermal intelligence applications. Founded by Shravan Bhati, SatLeo Labs develops"
+      },
+      "proofUrl": "https://www.bwdisrupt.com/article/satleo-labs-raises-2-2-mn-seed-round-led-by-unicorn-india-ventures-601060",
+      "proofExcerpt": "# SatLeo Labs Raises $2.2 Mn Seed Round Led By Unicorn India Ventures BW Online Bureau Apr 07, 2026 Spacetech startup to advance thermal satellite mission and scale AI-led geospatial intelligence platform SatLeo Labs/ LinkedIn SatLeo Labs has raised USD 2.2 mil"
+    },
+    {
+      "id": "ts-1f29b2af-25b9-4172-a5b4-03a0c8b77549",
+      "company": "OneSoil",
+      "website": "https://onesoil.ai/",
+      "description": "Swiss agritech startup offering a satellite-based precision agriculture platform with an AI Agronomist assistant that monitors fields and helps farmers make operational decisions.",
+      "hq": "Switzerland",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 1200000,
+      "date": "2026-06-18",
+      "leadInvestor": "Melnichek Investments",
+      "investors": [
+        "Melnichek Investments"
+      ],
+      "sourceUrl": "https://tech.eu/2026/06/18/onesoil-secures-eur1m-to-expand-ai-powered-farming-assistant",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Melnichek Investments"
+      ],
+      "similarityReason": "General satellite-based precision agriculture platform, lacks the specific irrigation focus.",
+      "evidence": {
+        "Melnichek Investments": "opy link Zurich-based agritech company OneSoil, which develops AI-driven solutions for precision agriculture, has secured €1 million in funding from existing investors, including Yury Melnichek, serial entrepreneur and co-founder of Cyprus-based venture fund Melnichek Investments. Founded in 2017, OneSoil has developed a platform that enables farmers to monitor fields, analyse productivity, create variable-rate application maps, conduct soil sampling, and run field trials."
+      },
+      "proofUrl": "https://tech.eu/2026/06/18/onesoil-secures-eur1m-to-expand-ai-powered-farming-assistant/",
+      "proofExcerpt": "opy link Zurich-based agritech company OneSoil, which develops AI-driven solutions for precision agriculture, has secured €1 million in funding from existing investors, including Yury Melnichek, serial entrepreneur and co-founder of Cyprus-based venture fund Melnichek Investments. Founded in 2017, OneSoil has developed a platform that enables farmers to monitor fields, analyse productivity, create variable-rate application maps, conduct soil sampling, and run field trials.",
+      "people": [
+        {
+          "investor": "Melnichek Investments",
+          "name": "Yury Melnichek",
+          "role": "co-founder"
+        }
+      ]
+    },
+    {
+      "id": "ts-c3948e7b-2ac7-4566-8680-77ddcb5457dc",
+      "company": "American Prime",
+      "website": "https://americanprime.co/",
+      "description": "American Prime is a data analytics company delivering AI-driven, satellite-based intelligence that turns satellite and environmental data into field-level agricultural decisions, closing the loop to autonomous drone execution.",
+      "hq": "United States",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "date": "2026-02-10",
+      "leadInvestor": "Generation Food Rural Partners",
+      "investors": [
+        "Generation Food Rural Partners",
+        "OCAST"
+      ],
+      "sourceUrl": "https://globenewswire.com/news-release/2026/02/10/3235364/0/en/american-prime-sustainable-solutions-secures-seed-investment-led-by-generation-food-rural-partners-and-ocast.html",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Generation Food Rural Partners",
+        "OCAST"
+      ],
+      "similarityReason": "Satellite-based agricultural intelligence, but focuses on autonomous drone execution rather than irrigation.",
+      "evidence": {
+        "Generation Food Rural Partners": "Accessibility: Skip TopNav # American Prime Sustainable Solutions Secures Seed Investment Led by Generation Food Rural Partners and OCAST February 10, 2026 09:00 ET | Source: Big Idea Ventures, LLC Big Idea Ventures, LLC --- OKLAHOMA CITY, Feb. 10, 2026 (GLOBE NEWSWIRE) -- American Prime Sustainable Solutions",
+        "OCAST": "Accessibility: Skip TopNav # American Prime Sustainable Solutions Secures Seed Investment Led by Generation Food Rural Partners and OCAST February 10, 2026 09:00 ET | Source: Big Idea Ventures, LLC Big Idea Ventures, LLC --- OKLAHOMA CITY, Feb. 10, 2026 (GLOBE NEWSWIRE) -- American Prime Sustainable Solutions (“American Prime ” or the “Company"
+      },
+      "proofUrl": "https://www.globenewswire.com/news-release/2026/02/10/3235364/0/en/american-prime-sustainable-solutions-secures-seed-investment-led-by-generation-food-rural-partners-and-ocast.html",
+      "proofExcerpt": "Accessibility: Skip TopNav # American Prime Sustainable Solutions Secures Seed Investment Led by Generation Food Rural Partners and OCAST February 10, 2026 09:00 ET | Source: Big Idea Ventures, LLC Big Idea Ventures, LLC --- OKLAHOMA CITY, Feb. 10, 2026 (GLOBE NEWSWIRE) -- American Prime Sustainable Solutions",
+      "people": [
+        {
+          "investor": "OCAST",
+          "name": "Makeba Griffin",
+          "role": "Communications Manager and Public Information Officer"
+        }
+      ]
+    },
+    {
+      "id": "ts-953c2966-9cb4-47ce-b6dc-eaa90fde8fd2",
+      "company": "Farmevo",
+      "website": "https://farmevo.ai/",
+      "description": "Farmevo develops an AI-powered autonomous remote sensing platform that uses low-cost drones to deliver crop monitoring and forestry survey insights.",
+      "hq": "United States",
+      "stage": "pre-seed",
+      "roundLabel": "pre-seed",
+      "amountUsd": 2500000,
+      "date": "2025-12-22",
+      "leadInvestor": "Gutter Capital",
+      "investors": [
+        "Gutter Capital"
+      ],
+      "sourceUrl": "https://igrownews.com/farmevo-latest-news",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Gutter Capital"
+      ],
+      "similarityReason": "Uses remote sensing for crop monitoring, but relies on drones rather than satellite/IoT irrigation.",
+      "evidence": {
+        "Gutter Capital": "## **Key Takeaways** * Farmevo has closed a strategic funding round led by Gutter Capital. * The company is relocating its global headquarters to New York City. * The funding will support expansion of autonomous remote sensing solutions in agriculture and forestry. * Farmevo plans to scale seed"
+      },
+      "proofUrl": "https://igrownews.com/farmevo-latest-news/",
+      "proofExcerpt": "## **Key Takeaways** * Farmevo has closed a strategic funding round led by Gutter Capital. * The company is relocating its global headquarters to New York City. * The funding will support expansion of autonomous remote sensing solutions in agriculture and forestry. * Farmevo plans to scale seed",
+      "people": [
+        {
+          "investor": "Gutter Capital",
+          "name": "Dan Teran",
+          "role": "founder"
+        },
+        {
+          "investor": "Gutter Capital",
+          "name": "James Gettinger",
+          "role": "founder"
+        }
+      ]
+    },
+    {
+      "id": "ts-2b8603e1-179a-4405-bdef-2f77776aab7a",
+      "company": "Pixxel",
+      "website": "https://pixxel.space/",
+      "description": "Builds hyperspectral Earth-observation satellites and Earth intelligence software used for agriculture and other sectors.",
+      "hq": "India",
+      "stage": "series-b+",
+      "roundLabel": "series-b+",
+      "amountUsd": 100000000,
+      "date": "2026-09-07",
+      "leadInvestor": "Temasek",
+      "investors": [
+        "Temasek",
+        "Seraphim Space",
+        "360 ONE Asset",
+        "IMM Investment",
+        "Radical Ventures",
+        "growX ventures",
+        "M&G Catalyst"
+      ],
+      "sourceUrl": "https://pixxel.space/news/pixxel-raises-100-million-in-series-c-funding-to-build-the-infrastructure-for-a-changing-planet",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Temasek",
+        "360 ONE Asset",
+        "IMM Investment",
+        "Radical Ventures",
+        "growX ventures",
+        "M&G Catalyst"
+      ],
+      "similarityReason": "Provides satellite hardware and software for agriculture, but is infrastructure-focused rather than irrigation-specific.",
+      "evidence": {
+        "Temasek": "Newsroom # Pixxel Raises $100 Million in Series C Funding to Build the Infrastructure for a Changing Planet September 7, 2026 *Led by Temasek and Seraphim, the funding will accelerate Pixxel's expansion beyond hyperspectral imaging as it builds planetary infrastructure spanning advanced sensing satellites, Earth intelligence software, sovereign space s",
+        "360 ONE Asset": "ing.* **Bengaluru, India, and Los Angeles, USA, 07 September 2026:** Pixxel, the planetary infrastructure company, today announced the close of its **$100 million Series C funding round, co-led by Temasek and Seraphim,** with participation from new investors 360 ONE Asset, IMM Investment, and existing investors Radical Ventures, growX ventures, M&G Catalyst and others. The round brings Pixxel’s total funding to $195 million. The investment also marks the single largest fundi",
+        "IMM Investment": "uru, India, and Los Angeles, USA, 07 September 2026:** Pixxel, the planetary infrastructure company, today announced the close of its **$100 million Series C funding round, co-led by Temasek and Seraphim,** with participation from new investors 360 ONE Asset, IMM Investment, and existing investors Radical Ventures, growX ventures, M&G Catalyst and others. The round brings Pixxel’s total funding to $195 million. The investment also marks the single largest funding round raised",
+        "Radical Ventures": "ptember 2026:** Pixxel, the planetary infrastructure company, today announced the close of its **$100 million Series C funding round, co-led by Temasek and Seraphim,** with participation from new investors 360 ONE Asset, IMM Investment, and existing investors Radical Ventures, growX ventures, M&G Catalyst and others. The round brings Pixxel’s total funding to $195 million. The investment also marks the single largest funding round raised by a space technology company in India",
+        "growX ventures": "xxel, the planetary infrastructure company, today announced the close of its **$100 million Series C funding round, co-led by Temasek and Seraphim,** with participation from new investors 360 ONE Asset, IMM Investment, and existing investors Radical Ventures, growX ventures, M&G Catalyst and others. The round brings Pixxel’s total funding to $195 million. The investment also marks the single largest funding round raised by a space technology company in India and signals the c",
+        "M&G Catalyst": "ary infrastructure company, today announced the close of its **$100 million Series C funding round, co-led by Temasek and Seraphim,** with participation from new investors 360 ONE Asset, IMM Investment, and existing investors Radical Ventures, growX ventures, M&G Catalyst and others. The round brings Pixxel’s total funding to $195 million. The investment also marks the single largest funding round raised by a space technology company in India and signals the company's next ph"
+      },
+      "proofUrl": "https://www.pixxel.space/news/pixxel-raises-100-million-in-series-c-funding-to-build-the-infrastructure-for-a-changing-planet",
+      "proofExcerpt": "Newsroom # Pixxel Raises $100 Million in Series C Funding to Build the Infrastructure for a Changing Planet September 7, 2026 *Led by Temasek and Seraphim, the funding will accelerate Pixxel's expansion beyond hyperspectral imaging as it builds planetary infrastructure spanning advanced sensing satellites, Earth intelligence software, sovereign space s"
+    },
+    {
+      "id": "ts-9c58feea-7fc1-447a-8c1a-606955c4ad78",
+      "company": "Seqana",
+      "website": "https://seqana.com/",
+      "description": "Seqana is a Berlin-based digital MRV company that quantifies soil health and soil carbon using satellite imagery and machine learning for agrifood firms and carbon project developers.",
+      "hq": "Germany",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 3500000,
+      "date": "2026-06-17",
+      "leadInvestor": "Pymwymic",
+      "investors": [
+        "Pymwymic",
+        "HTGF",
+        "Counteract",
+        "Landwirtschaftliche Rentenbank"
+      ],
+      "sourceUrl": "https://seqana.com/blog/press-release-seqana-raises-eur-3-2m-fundraising-round",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Pymwymic",
+        "HTGF",
+        "Counteract",
+        "Landwirtschaftliche Rentenbank"
+      ],
+      "similarityReason": "Satellite-based monitoring for agriculture, but focused on soil carbon rather than irrigation.",
+      "evidence": {
+        "Pymwymic": "n Published on June 17, 2026 Berlin, 17.06.2026 — Seqana, a digital MRV (Monitoring, Reporting and Verification) company that quantifies soil health using satellite imagery and machine learning, announced the close of a EUR 3.2 million funding round led by Pymwymic, joined by existing investors HTGF and Counteract. The investment furthers Seqana’s work on soil carbon quantification and extends it into a broader set of soil health indicators enabling food, fiber and fuel co",
+        "HTGF": "17.06.2026 — Seqana, a digital MRV (Monitoring, Reporting and Verification) company that quantifies soil health using satellite imagery and machine learning, announced the close of a EUR 3.2 million funding round led by Pymwymic, joined by existing investors HTGF and Counteract. The investment furthers Seqana’s work on soil carbon quantification and extends it into a broader set of soil health indicators enabling food, fiber and fuel companies and carbon market project devel",
+        "Counteract": "26 — Seqana, a digital MRV (Monitoring, Reporting and Verification) company that quantifies soil health using satellite imagery and machine learning, announced the close of a EUR 3.2 million funding round led by Pymwymic, joined by existing investors HTGF and Counteract. The investment furthers Seqana’s work on soil carbon quantification and extends it into a broader set of soil health indicators enabling food, fiber and fuel companies and carbon market project developers wit",
+        "Landwirtschaftliche Rentenbank": "ortfolio companies building solutions to preserve and restore our ecosystems. We are currently investing through the Healthy Food Systems Impact Fund II, supporting the change-making entrepreneurs who are transforming our food system from farm to fork. The Landwirtschaftliche Rentenbank is Germany’s development agency for the agribusiness and rural areas. Our services are aimed at production enterprises in agriculture and forestry, as well as wine and horticulture, manufac"
+      },
+      "proofUrl": "https://www.seqana.com/blog/press-release-seqana-raises-eur-3-2m-fundraising-round",
+      "proofExcerpt": "n Published on June 17, 2026 Berlin, 17.06.2026 — Seqana, a digital MRV (Monitoring, Reporting and Verification) company that quantifies soil health using satellite imagery and machine learning, announced the close of a EUR 3.2 million funding round led by Pymwymic, joined by existing investors HTGF and Counteract. The investment furthers Seqana’s work on soil carbon quantification and extends it into a broader set of soil health indicators enabling food, fiber and fuel co",
+      "people": [
+        {
+          "investor": "Pymwymic",
+          "name": "Monique Meulemans",
+          "role": "Partner"
+        }
+      ]
+    },
+    {
+      "id": "ts-10c78c85-2c7a-4cd3-8230-e326c0b7f0c9",
+      "company": "GalaxEye",
+      "description": "GalaxEye builds multi-sensor (SAR + optical) Earth observation satellites delivering all-weather, day-and-night geospatial intelligence for agriculture, defence, infrastructure and disaster management.",
+      "hq": "India",
+      "stage": "series-a",
+      "roundLabel": "series-a",
+      "amountUsd": 4800000,
+      "date": "2026-03-12",
+      "investors": [
+        "Speciale Invest",
+        "Mela Ventures",
+        "Rainmatter",
+        "Mounttech Growth Fund",
+        "Anicut Capital",
+        "Navam Venture Fund",
+        "Faad Capital",
+        "LV Angel Fund",
+        "Eraya Capital",
+        "Grand Anicut Angel Fund"
+      ],
+      "sourceUrl": "https://inc42.com/buzz/exclusive-galaxeye-raises-%E2%82%B944-cr-in-ongoing-series-a-funding-round",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Speciale Invest",
+        "Mela Ventures",
+        "Rainmatter",
+        "Mounttech Growth Fund",
+        "Anicut Capital",
+        "Navam Venture Fund",
+        "Faad Capital",
+        "LV Angel Fund",
+        "Eraya Capital",
+        "Grand Anicut Angel Fund"
+      ],
+      "similarityReason": "Satellite hardware provider for agriculture, lacks the specific irrigation application.",
+      "evidence": {
+        "Speciale Invest": "Advanced Hardware & Technology SUMMARY GalaxEye has raised about ₹44.2 Cr (about $4.8 Mn) as part of its ongoing Series A funding round The round saw participation from a host of investors like Speciale Invest, MV Core, Rainmatter, Mounttech Growth Fund, Grand Anicut Angel Fund, Navam Venture Fund, Faad Capital, LV Angel Fund, among others The startup claims to be building the world’s first multi-sensor earth",
+        "Mela Ventures": "US * Added to Saved Stories in Login Spacetech startup GalaxEye has raised about ₹44.2 Cr (about $4.8 Mn) as part of its extended Series A funding round from its existing investors. The round saw participation from a host of investors like Speciale Invest, Mela Venture, Rainmatter, Mounttech Growth Fund, Anicut Capital, Navam Venture Fund, Faad Capital, LV Angel Fund, and Eraya Capital, along with a few individual investors. Among institutional investors, Mela Venture inv",
+        "Rainmatter": "Advanced Hardware & Technology SUMMARY GalaxEye has raised about ₹44.2 Cr (about $4.8 Mn) as part of its ongoing Series A funding round The round saw participation from a host of investors like Speciale Invest, MV Core, Rainmatter, Mounttech Growth Fund, Grand Anicut Angel Fund, Navam Venture Fund, Faad Capital, LV Angel Fund, among others The startup claims to be building the world’s first multi-sensor earth observation satellite * F",
+        "Mounttech Growth Fund": "Advanced Hardware & Technology SUMMARY GalaxEye has raised about ₹44.2 Cr (about $4.8 Mn) as part of its ongoing Series A funding round The round saw participation from a host of investors like Speciale Invest, MV Core, Rainmatter, Mounttech Growth Fund, Grand Anicut Angel Fund, Navam Venture Fund, Faad Capital, LV Angel Fund, among others The startup claims to be building the world’s first multi-sensor earth observation satellite * FOLLOW US * F",
+        "Anicut Capital": "startup GalaxEye has raised about ₹44.2 Cr (about $4.8 Mn) as part of its extended Series A funding round from its existing investors. The round saw participation from a host of investors like Speciale Invest, Mela Venture, Rainmatter, Mounttech Growth Fund, Anicut Capital, Navam Venture Fund, Faad Capital, LV Angel Fund, and Eraya Capital, along with a few individual investors. Among institutional investors, Mela Venture invested about ₹12 Cr, Rainmatter invested about ₹13",
+        "Navam Venture Fund": "hnology SUMMARY GalaxEye has raised about ₹44.2 Cr (about $4.8 Mn) as part of its ongoing Series A funding round The round saw participation from a host of investors like Speciale Invest, MV Core, Rainmatter, Mounttech Growth Fund, Grand Anicut Angel Fund, Navam Venture Fund, Faad Capital, LV Angel Fund, among others The startup claims to be building the world’s first multi-sensor earth observation satellite * FOLLOW US * FOLLOW US * Added to Saved Stories in Login Spa",
+        "Faad Capital": "laxEye has raised about ₹44.2 Cr (about $4.8 Mn) as part of its ongoing Series A funding round The round saw participation from a host of investors like Speciale Invest, MV Core, Rainmatter, Mounttech Growth Fund, Grand Anicut Angel Fund, Navam Venture Fund, Faad Capital, LV Angel Fund, among others The startup claims to be building the world’s first multi-sensor earth observation satellite * FOLLOW US * FOLLOW US * Added to Saved Stories in Login Spacetech startup Galax",
+        "LV Angel Fund": "sed about ₹44.2 Cr (about $4.8 Mn) as part of its ongoing Series A funding round The round saw participation from a host of investors like Speciale Invest, MV Core, Rainmatter, Mounttech Growth Fund, Grand Anicut Angel Fund, Navam Venture Fund, Faad Capital, LV Angel Fund, among others The startup claims to be building the world’s first multi-sensor earth observation satellite * FOLLOW US * FOLLOW US * Added to Saved Stories in Login Spacetech startup GalaxEye has raised",
+        "Eraya Capital": "its extended Series A funding round from its existing investors. The round saw participation from a host of investors like Speciale Invest, Mela Venture, Rainmatter, Mounttech Growth Fund, Anicut Capital, Navam Venture Fund, Faad Capital, LV Angel Fund, and Eraya Capital, along with a few individual investors. Among institutional investors, Mela Venture invested about ₹12 Cr, Rainmatter invested about ₹13.5 Cr, Mounttech put in ₹18 Cr, while Speciale Invest poured in aroun",
+        "Grand Anicut Angel Fund": "Advanced Hardware & Technology SUMMARY GalaxEye has raised about ₹44.2 Cr (about $4.8 Mn) as part of its ongoing Series A funding round The round saw participation from a host of investors like Speciale Invest, MV Core, Rainmatter, Mounttech Growth Fund, Grand Anicut Angel Fund, Navam Venture Fund, Faad Capital, LV Angel Fund, among others The startup claims to be building the world’s first multi-sensor earth observation satellite * FOLLOW US * FOLLOW US * Added to Sa"
+      },
+      "proofUrl": "https://inc42.com/buzz/exclusive-galaxeye-raises-%E2%82%B944-cr-in-ongoing-series-a-funding-round/",
+      "proofExcerpt": "Advanced Hardware & Technology SUMMARY GalaxEye has raised about ₹44.2 Cr (about $4.8 Mn) as part of its ongoing Series A funding round The round saw participation from a host of investors like Speciale Invest, MV Core, Rainmatter, Mounttech Growth Fund, Grand Anicut Angel Fund, Navam Venture Fund, Faad Capital, LV Angel Fund, among others The startup claims to be building the world’s first multi-sensor earth"
+    },
+    {
+      "id": "ts-86fad17f-6c68-4f8b-85bd-3e734ce74cb3",
+      "company": "SORA Technology",
+      "website": "https://sora-technology.com/en",
+      "description": "Uses satellite imagery, drones and AI for agriculture, environmental monitoring and public-health solutions across Africa.",
+      "hq": "Japan",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 2500000,
+      "date": "2025-11-30",
+      "leadInvestor": "Daiwa House Group Investment",
+      "investors": [
+        "Daiwa House Group Investment",
+        "Daiwa House Group Investment Limited Partnership",
+        "Central Japan Innovative Research Fund I",
+        "UNERI Capital Fund Series 1"
+      ],
+      "sourceUrl": "https://techafricanews.com/2026/01/06/sora-technology-raises-2-5m-to-scale-drone-satellite-ai-solutions-across-africa",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Daiwa House Group Investment",
+        "Daiwa House Group Investment Limited Partnership",
+        "Central Japan Innovative Research Fund I",
+        "UNERI Capital Fund Series 1"
+      ],
+      "similarityReason": "Uses satellite and drone data for agriculture, but lacks the specific irrigation focus.",
+      "evidence": {
+        "Daiwa House Group Investment": "ocused on tackling infectious diseases and climate change, has raised approximately JPY 400 million (about USD 2.5 million) following the second close of its late seed funding round in November 2025. Headquartered in Nagoya, the company welcomed new investors Daiwa House Group Investment Limited Partnership, Central Japan Innovative Research Fund I, and UNERI Capital Fund Series 1, alongside existing shareholders. The funding will support the acceleration of SORA Technology’s",
+        "Daiwa House Group Investment Limited Partnership": "ocused on tackling infectious diseases and climate change, has raised approximately JPY 400 million (about USD 2.5 million) following the second close of its late seed funding round in November 2025. Headquartered in Nagoya, the company welcomed new investors Daiwa House Group Investment Limited Partnership, Central Japan Innovative Research Fund I, and UNERI Capital Fund Series 1, alongside existing shareholders. The funding will support the acceleration of SORA Technology’s",
+        "Central Japan Innovative Research Fund I": "change, has raised approximately JPY 400 million (about USD 2.5 million) following the second close of its late seed funding round in November 2025. Headquartered in Nagoya, the company welcomed new investors Daiwa House Group Investment Limited Partnership, Central Japan Innovative Research Fund I, and UNERI Capital Fund Series 1, alongside existing shareholders. The funding will support the acceleration of SORA Technology’s satellite-, drone-, and AI-powered initiatives ai",
+        "UNERI Capital Fund Series 1": "ion (about USD 2.5 million) following the second close of its late seed funding round in November 2025. Headquartered in Nagoya, the company welcomed new investors Daiwa House Group Investment Limited Partnership, Central Japan Innovative Research Fund I, and UNERI Capital Fund Series 1, alongside existing shareholders. The funding will support the acceleration of SORA Technology’s satellite-, drone-, and AI-powered initiatives aimed at addressing major global public health a"
+      },
+      "proofUrl": "https://techafricanews.com/2026/01/06/sora-technology-raises-2-5m-to-scale-drone-satellite-ai-solutions-across-africa/",
+      "proofExcerpt": "ocused on tackling infectious diseases and climate change, has raised approximately JPY 400 million (about USD 2.5 million) following the second close of its late seed funding round in November 2025. Headquartered in Nagoya, the company welcomed new investors Daiwa House Group Investment Limited Partnership, Central Japan Innovative Research Fund I, and UNERI Capital Fund Series 1, alongside existing shareholders. The funding will support the acceleration of SORA Technology’s"
+    },
+    {
+      "id": "ts-622e8c17-9e70-424f-b470-7f5ea3590302",
+      "company": "Farmatic",
+      "description": "Develops AI-driven agricultural data platforms for farmers covering predictive yield analytics and climate risk mitigation.",
+      "hq": "India",
+      "stage": "series-a",
+      "roundLabel": "series-a",
+      "amountUsd": 15000000,
+      "date": "2026-09-26",
+      "leadInvestor": "SeedSpark Ventures",
+      "investors": [
+        "SeedSpark Ventures"
+      ],
+      "sourceUrl": "https://af.net/realtime/indian-ai-startup-farmatic-raises-15m-series-a-to-advance-agricultural-data-systems",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "SeedSpark Ventures"
+      ],
+      "similarityReason": "General agricultural data platform, lacks the specific irrigation and hardware-enabled focus.",
+      "evidence": {
+        "SeedSpark Ventures": "Investment India # Indian AI Startup Farmatic Raises $15M Series A to Advance Agricultural Data Systems India Times Tech Published Sep 26, 2026 Farmatic, an AI startup from Bengaluru, India, has secured $15 million in Series A funding led by SeedSpark Ventures. The company aims to enhance agricultural data systems with AI-powered platforms to assist farmers in yield prediction and climate risk mitigation. Gate 01, Bagmane Tech Park, Byrasandra, C. V. Raman"
+      },
+      "proofUrl": "https://af.net/realtime/indian-ai-startup-farmatic-raises-15m-series-a-to-advance-agricultural-data-systems/",
+      "proofExcerpt": "Investment India # Indian AI Startup Farmatic Raises $15M Series A to Advance Agricultural Data Systems India Times Tech Published Sep 26, 2026 Farmatic, an AI startup from Bengaluru, India, has secured $15 million in Series A funding led by SeedSpark Ventures. The company aims to enhance agricultural data systems with AI-powered platforms to assist farmers in yield prediction and climate risk mitigation. Gate 01, Bagmane Tech Park, Byrasandra, C. V. Raman"
+    },
+    {
+      "id": "ts-65ae989b-3964-4c77-a8dd-334d2f5b6ff3",
+      "company": "TerraBlaster",
+      "website": "https://terrablaster.com/",
+      "description": "Builds a Mars-derived laser soil sensor that replaces lab cores with 0.15-acre real-time nutrient prescription maps.",
+      "hq": "United States",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 12500000,
+      "date": "2026-08-25",
+      "leadInvestor": "Ulu Ventures",
+      "investors": [
+        "Ulu Ventures",
+        "Khosla Ventures",
+        "Trailhead Capital",
+        "Builders Vision",
+        "Bidra",
+        "Ag Startup Engine",
+        "Reservoir",
+        "Sunna",
+        "Plug",
+        "Play",
+        "GrainInnovate",
+        "Hort Innovation Venture Fund (managed by Artesian)"
+      ],
+      "sourceUrl": "https://agfundernews.com/terrablaster-raises-12-5m-for-real-time-npk-soil-mapping-at-tractor-speed",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Ulu Ventures",
+        "Khosla Ventures",
+        "Trailhead Capital",
+        "Builders Vision",
+        "Bidra",
+        "Ag Startup Engine",
+        "Reservoir",
+        "Sunna",
+        "Plug",
+        "Play",
+        "GrainInnovate"
+      ],
+      "similarityReason": "Hardware-enabled precision agriculture, but focuses on soil nutrients rather than irrigation.",
+      "evidence": {
+        "Ulu Ventures": "g tech first deployed on the Mars rover to determine levels of key nutrients in the soil—has raised a $12.5 million seed round as it gears up for commercial operations in 2027. The round, which takes the firm’s cumulative funding to $16.5 million, was led by Ulu Ventures with participation from Khosla Ventures, Trailhead Capital, Builders Vision, Bidra, Ag Startup Engine, Reservoir, Sunna, Plug and Play, GrainInnovate and the Hort Innovation Venture Fund managed by Artesian",
+        "Khosla Ventures": "er to determine levels of key nutrients in the soil—has raised a $12.5 million seed round as it gears up for commercial operations in 2027. The round, which takes the firm’s cumulative funding to $16.5 million, was led by Ulu Ventures with participation from Khosla Ventures, Trailhead Capital, Builders Vision, Bidra, Ag Startup Engine, Reservoir, Sunna, Plug and Play, GrainInnovate and the Hort Innovation Venture Fund managed by Artesian “With our technology, there’s no rea",
+        "Trailhead Capital": "evels of key nutrients in the soil—has raised a $12.5 million seed round as it gears up for commercial operations in 2027. The round, which takes the firm’s cumulative funding to $16.5 million, was led by Ulu Ventures with participation from Khosla Ventures, Trailhead Capital, Builders Vision, Bidra, Ag Startup Engine, Reservoir, Sunna, Plug and Play, GrainInnovate and the Hort Innovation Venture Fund managed by Artesian “With our technology, there’s no reason to suffer sub",
+        "Builders Vision": "nts in the soil—has raised a $12.5 million seed round as it gears up for commercial operations in 2027. The round, which takes the firm’s cumulative funding to $16.5 million, was led by Ulu Ventures with participation from Khosla Ventures, Trailhead Capital, Builders Vision, Bidra, Ag Startup Engine, Reservoir, Sunna, Plug and Play, GrainInnovate and the Hort Innovation Venture Fund managed by Artesian “With our technology, there’s no reason to suffer suboptimal yields by a",
+        "Bidra": "as raised a $12.5 million seed round as it gears up for commercial operations in 2027. The round, which takes the firm’s cumulative funding to $16.5 million, was led by Ulu Ventures with participation from Khosla Ventures, Trailhead Capital, Builders Vision, Bidra, Ag Startup Engine, Reservoir, Sunna, Plug and Play, GrainInnovate and the Hort Innovation Venture Fund managed by Artesian “With our technology, there’s no reason to suffer suboptimal yields by applying nutrients",
+        "Ag Startup Engine": "ed a $12.5 million seed round as it gears up for commercial operations in 2027. The round, which takes the firm’s cumulative funding to $16.5 million, was led by Ulu Ventures with participation from Khosla Ventures, Trailhead Capital, Builders Vision, Bidra, Ag Startup Engine, Reservoir, Sunna, Plug and Play, GrainInnovate and the Hort Innovation Venture Fund managed by Artesian “With our technology, there’s no reason to suffer suboptimal yields by applying nutrients to a f",
+        "Reservoir": "seed round as it gears up for commercial operations in 2027. The round, which takes the firm’s cumulative funding to $16.5 million, was led by Ulu Ventures with participation from Khosla Ventures, Trailhead Capital, Builders Vision, Bidra, Ag Startup Engine, Reservoir, Sunna, Plug and Play, GrainInnovate and the Hort Innovation Venture Fund managed by Artesian “With our technology, there’s no reason to suffer suboptimal yields by applying nutrients to a field based on low-r",
+        "Sunna": "as it gears up for commercial operations in 2027. The round, which takes the firm’s cumulative funding to $16.5 million, was led by Ulu Ventures with participation from Khosla Ventures, Trailhead Capital, Builders Vision, Bidra, Ag Startup Engine, Reservoir, Sunna, Plug and Play, GrainInnovate and the Hort Innovation Venture Fund managed by Artesian “With our technology, there’s no reason to suffer suboptimal yields by applying nutrients to a field based on low-resolution o",
+        "Plug": "ears up for commercial operations in 2027. The round, which takes the firm’s cumulative funding to $16.5 million, was led by Ulu Ventures with participation from Khosla Ventures, Trailhead Capital, Builders Vision, Bidra, Ag Startup Engine, Reservoir, Sunna, Plug and Play, GrainInnovate and the Hort Innovation Venture Fund managed by Artesian “With our technology, there’s no reason to suffer suboptimal yields by applying nutrients to a field based on low-resolution or old m",
+        "Play": "or commercial operations in 2027. The round, which takes the firm’s cumulative funding to $16.5 million, was led by Ulu Ventures with participation from Khosla Ventures, Trailhead Capital, Builders Vision, Bidra, Ag Startup Engine, Reservoir, Sunna, Plug and Play, GrainInnovate and the Hort Innovation Venture Fund managed by Artesian “With our technology, there’s no reason to suffer suboptimal yields by applying nutrients to a field based on low-resolution or old measuremen",
+        "GrainInnovate": "mercial operations in 2027. The round, which takes the firm’s cumulative funding to $16.5 million, was led by Ulu Ventures with participation from Khosla Ventures, Trailhead Capital, Builders Vision, Bidra, Ag Startup Engine, Reservoir, Sunna, Plug and Play, GrainInnovate and the Hort Innovation Venture Fund managed by Artesian “With our technology, there’s no reason to suffer suboptimal yields by applying nutrients to a field based on low-resolution or old measurements,” s"
+      },
+      "proofUrl": "https://agfundernews.com/terrablaster-raises-12-5m-for-real-time-npk-soil-mapping-at-tractor-speed",
+      "proofExcerpt": "g tech first deployed on the Mars rover to determine levels of key nutrients in the soil—has raised a $12.5 million seed round as it gears up for commercial operations in 2027. The round, which takes the firm’s cumulative funding to $16.5 million, was led by Ulu Ventures with participation from Khosla Ventures, Trailhead Capital, Builders Vision, Bidra, Ag Startup Engine, Reservoir, Sunna, Plug and Play, GrainInnovate and the Hort Innovation Venture Fund managed by Artesian"
+    },
+    {
+      "id": "ts-7bf5b3b4-4858-4ec9-9b7c-52e496dd8266",
+      "company": "Stenon",
+      "website": "https://stenon.io/",
+      "description": "Makes a portable real-time soil-analysis sensor to fight fertilizer price shocks.",
+      "hq": "Germany",
+      "stage": "series-b+",
+      "roundLabel": "series-b+",
+      "amountUsd": 20500000,
+      "date": "2026-07-01",
+      "leadInvestor": "Pymwymic",
+      "investors": [
+        "Pymwymic",
+        "DeepTech & Climate Fonds",
+        "Atlantic",
+        "Oyster Bay",
+        "Founders Fund",
+        "TIME Ventures",
+        "Bernd Hoffmann"
+      ],
+      "sourceUrl": "https://blog.stenon.io/2026/07/01/stenon-raises-18-million-in-series-b-financing-to-scale-real-time-nitrogen-and-soil-data-management",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Pymwymic",
+        "DeepTech & Climate Fonds",
+        "Atlantic",
+        "Oyster Bay",
+        "Founders Fund",
+        "TIME Ventures",
+        "Bernd Hoffmann"
+      ],
+      "similarityReason": "Hardware-enabled precision agriculture, but focuses on soil analysis rather than irrigation.",
+      "evidence": {
+        "Pymwymic": "*European specialist investors Pymwymic and DTCF back Stenon’s nitrogen and soil organic carbon capabilities, international growth and a new technology platform.* **Potsdam, Germany, July 1, 2026** –Stenon, the German AgTech company enabling efficien",
+        "DeepTech & Climate Fonds": "sion in markets where Stenon already has commercial operations, with a clear focus on real-time nitrogen management and soil organic carbon (SOC). The round was led by **Pymwymic**, a pioneering European impact investor focused on food and agriculture. The **DeepTech & Climate Fonds (DTCF)** also joined as a new investor, bringing specialist experience in scaling capital-intensive European deep-tech companies. Existing investors **Atlantic**, **Oyster Bay**, **Founders Fund*",
+        "Atlantic": "mic**, a pioneering European impact investor focused on food and agriculture. The **DeepTech & Climate Fonds (DTCF)** also joined as a new investor, bringing specialist experience in scaling capital-intensive European deep-tech companies. Existing investors **Atlantic**, **Oyster Bay**, **Founders Fund**, **TIME Ventures** (Marc Benioff’s investment firm) and Bernd Hoffmann (former VP at AGCO and Claas KGaA) also participated. Read this announcement in your preferred languag",
+        "Oyster Bay": "ering European impact investor focused on food and agriculture. The **DeepTech & Climate Fonds (DTCF)** also joined as a new investor, bringing specialist experience in scaling capital-intensive European deep-tech companies. Existing investors **Atlantic**, **Oyster Bay**, **Founders Fund**, **TIME Ventures** (Marc Benioff’s investment firm) and Bernd Hoffmann (former VP at AGCO and Claas KGaA) also participated. Read this announcement in your preferred language: German | P",
+        "Founders Fund": "mpact investor focused on food and agriculture. The **DeepTech & Climate Fonds (DTCF)** also joined as a new investor, bringing specialist experience in scaling capital-intensive European deep-tech companies. Existing investors **Atlantic**, **Oyster Bay**, **Founders Fund**, **TIME Ventures** (Marc Benioff’s investment firm) and Bernd Hoffmann (former VP at AGCO and Claas KGaA) also participated. Read this announcement in your preferred language: German | Portuguese | Russ",
+        "TIME Ventures": "sed on food and agriculture. The **DeepTech & Climate Fonds (DTCF)** also joined as a new investor, bringing specialist experience in scaling capital-intensive European deep-tech companies. Existing investors **Atlantic**, **Oyster Bay**, **Founders Fund**, **TIME Ventures** (Marc Benioff’s investment firm) and Bernd Hoffmann (former VP at AGCO and Claas KGaA) also participated. Read this announcement in your preferred language: German | Portuguese | Russian ## **Nitrogen",
+        "Bernd Hoffmann": "Fonds (DTCF)** also joined as a new investor, bringing specialist experience in scaling capital-intensive European deep-tech companies. Existing investors **Atlantic**, **Oyster Bay**, **Founders Fund**, **TIME Ventures** (Marc Benioff’s investment firm) and Bernd Hoffmann (former VP at AGCO and Claas KGaA) also participated. Read this announcement in your preferred language: German | Portuguese | Russian ## **Nitrogen management at a critical moment** Nitrogen supply an"
+      },
+      "proofUrl": "https://blog.stenon.io/2026/07/01/stenon-raises-18-million-in-series-b-financing-to-scale-real-time-nitrogen-and-soil-data-management/",
+      "proofExcerpt": "*European specialist investors Pymwymic and DTCF back Stenon’s nitrogen and soil organic carbon capabilities, international growth and a new technology platform.* **Potsdam, Germany, July 1, 2026** –Stenon, the German AgTech company enabling efficien",
+      "people": [
+        {
+          "investor": "Pymwymic",
+          "name": "Rogier Pieterse",
+          "role": "Managing Partner"
+        }
+      ]
+    },
+    {
+      "id": "ts-e40db0fe-5112-48a9-b4a4-b9418536f235",
+      "company": "Ranchbot",
+      "website": "https://ranch-bot.com/",
+      "description": "Provides remote livestock water monitoring for farms.",
+      "hq": "United States",
+      "stage": "series-b+",
+      "roundLabel": "series-b+",
+      "amountUsd": 15000000,
+      "date": "2026-08-13",
+      "leadInvestor": "Lewis & Clark Partners",
+      "investors": [
+        "Lewis & Clark Partners",
+        "Fulcrum Global Capital",
+        "Builders VC",
+        "The Cultiv8 Livestock Technology Fund",
+        "Lever VC",
+        "Macdoch Ventures"
+      ],
+      "sourceUrl": "https://lewisandclarkpartners.com/news/ranchbot-raises-over-us15-million-series-b",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Lewis & Clark Partners",
+        "Fulcrum Global Capital",
+        "Builders VC",
+        "The Cultiv8 Livestock Technology Fund",
+        "Lever VC",
+        "Macdoch Ventures"
+      ],
+      "similarityReason": "Focuses on water monitoring, but for livestock rather than crop irrigation.",
+      "evidence": {
+        "Lewis & Clark Partners": "# Ranchbot Raises Over US$15 Million Series B and establishes U.S. Holding Company to Accelerate Global Growth Aug 10 Written by John Ferrari **Round led by Lewis & Clark Partners and Fulcrum Global Capital cements Fort Worth as global headquarters and fuels Ranchbot’s drive to lead ranch technology while continuing to evolve broader agriculture and water management solution",
+        "Fulcrum Global Capital": "# Ranchbot Raises Over US$15 Million Series B and establishes U.S. Holding Company to Accelerate Global Growth Aug 10 Written by John Ferrari **Round led by Lewis & Clark Partners and Fulcrum Global Capital cements Fort Worth as global headquarters and fuels Ranchbot’s drive to lead ranch technology while continuing to evolve broader agriculture and water management solutions for the managers of lives",
+        "Builders VC": "olutions with its worldwide headquarters now based in Fort Worth, Texas. The financing brings together one of the strongest investor syndicates in global agricultural technology, led by Lewis & Clark Partners, with participation from Fulcrum Global Capital, Builders VC, The Cultiv8 Livestock Technology Fund, Lever VC and Macdoch Ventures. \"This raise is an important milestone for our company and our dedicated team, who have worked for more than a decade to deliver solution",
+        "The Cultiv8 Livestock Technology Fund": "its worldwide headquarters now based in Fort Worth, Texas. The financing brings together one of the strongest investor syndicates in global agricultural technology, led by Lewis & Clark Partners, with participation from Fulcrum Global Capital, Builders VC, The Cultiv8 Livestock Technology Fund, Lever VC and Macdoch Ventures. \"This raise is an important milestone for our company and our dedicated team, who have worked for more than a decade to deliver solutions for the ran",
+        "Lever VC": "n Fort Worth, Texas. The financing brings together one of the strongest investor syndicates in global agricultural technology, led by Lewis & Clark Partners, with participation from Fulcrum Global Capital, Builders VC, The Cultiv8 Livestock Technology Fund, Lever VC and Macdoch Ventures. \"This raise is an important milestone for our company and our dedicated team, who have worked for more than a decade to deliver solutions for the ranching and farming communities of the Un",
+        "Macdoch Ventures": "Texas. The financing brings together one of the strongest investor syndicates in global agricultural technology, led by Lewis & Clark Partners, with participation from Fulcrum Global Capital, Builders VC, The Cultiv8 Livestock Technology Fund, Lever VC and Macdoch Ventures. \"This raise is an important milestone for our company and our dedicated team, who have worked for more than a decade to deliver solutions for the ranching and farming communities of the United States a"
+      },
+      "proofUrl": "https://lewisandclarkpartners.com/news/ranchbot-raises-over-us15-million-series-b",
+      "proofExcerpt": "# Ranchbot Raises Over US$15 Million Series B and establishes U.S. Holding Company to Accelerate Global Growth Aug 10 Written by John Ferrari **Round led by Lewis & Clark Partners and Fulcrum Global Capital cements Fort Worth as global headquarters and fuels Ranchbot’s drive to lead ranch technology while continuing to evolve broader agriculture and water management solution",
+      "people": [
+        {
+          "investor": "Lewis & Clark Partners",
+          "name": "Chuck Warta",
+          "role": "Operating Partner"
+        },
+        {
+          "investor": "Fulcrum Global Capital",
+          "name": "Duane Cantrell",
+          "role": "Managing Partner"
+        },
+        {
+          "investor": "Lever VC",
+          "name": "James Caffyn",
+          "role": "Partner"
+        }
+      ]
+    },
+    {
+      "id": "ts-45e77373-d450-499a-9851-c1471a0c334d",
+      "company": "Tomorrow.io",
+      "website": "https://tomorrow.io/",
+      "description": "Runs a weather-intelligence platform powered by its own satellite constellation serving agriculture and other industries.",
+      "hq": "United States",
+      "stage": "series-b+",
+      "roundLabel": "series-b+",
+      "amountUsd": 175000000,
+      "date": "2026-06-29",
+      "leadInvestor": "Stonecourt Capital, HarbourVest Partners",
+      "investors": [
+        "Stonecourt Capital, HarbourVest Partners",
+        "Stonecourt Capital",
+        "HarbourVest Partners",
+        "Square Peg"
+      ],
+      "sourceUrl": "https://tomorrow.io/blog/tomorrow-io-announces-175m-financing-to-deploy-deepsky-the-worlds-first-ai-native-weather-satellite-constellation",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Stonecourt Capital",
+        "HarbourVest Partners",
+        "Square Peg"
+      ],
+      "similarityReason": "Satellite-based weather intelligence for agriculture, but lacks the specific irrigation control focus.",
+      "evidence": {
+        "Stonecourt Capital": "**BOSTON, MA – February 3, 2026** –Tomorrow.io announced today a $175M equity financing led by Stonecourt Capital and HarbourVest to accelerate the deployment of **DeepSky**, the world’s first AI-native weather satellite constellation. The funding is intended to support the rapid expansion of Tomorrow.io’s space i",
+        "HarbourVest Partners": "**BOSTON, MA – February 3, 2026** –Tomorrow.io announced today a $175M equity financing led by Stonecourt Capital and HarbourVest to accelerate the deployment of **DeepSky**, the world’s first AI-native weather satellite constellation. The funding is intended to support the rapid expansion of Tomorrow.io’s space infrastructure and intel",
+        "Square Peg": "ther modeling to deliver unmatched forecasting and decision-making capabilities. Trusted by more than half of the top ten Fortune 500 companies, Tomorrow.io enables predictive, impact-based action for a safer, more resilient future. Existing investors include Square Peg, Canaan, Activate, Pitango, ClearVision, and Fontinalis. Learn more at tomorrow.io. ## See Tomorrow.io in Action! This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service appl"
+      },
+      "proofUrl": "https://www.tomorrow.io/blog/tomorrow-io-announces-175m-financing-to-deploy-deepsky-the-worlds-first-ai-native-weather-satellite-constellation/",
+      "proofExcerpt": "**BOSTON, MA – February 3, 2026** –Tomorrow.io announced today a $175M equity financing led by Stonecourt Capital and HarbourVest to accelerate the deployment of **DeepSky**, the world’s first AI-native weather satellite constellation. The funding is intended to support the rapid expansion of Tomorrow.io’s space i",
+      "people": [
+        {
+          "investor": "Stonecourt Capital",
+          "name": "Eric Gribetz",
+          "role": "Managing Director"
+        },
+        {
+          "investor": "HarbourVest Partners",
+          "name": "Peter Lipson",
+          "role": "Managing Director"
+        },
+        {
+          "investor": "Square Peg",
+          "name": "Philippe Schwartz",
+          "role": "Partner"
+        }
+      ]
+    },
+    {
+      "id": "ts-57b1e8d6-55ac-4f1f-955d-f563e4747d94",
+      "company": "SUIND",
+      "website": "https://suind.com/",
+      "description": "Develops DGCA type-certified autonomous agriculture drones (Bumblebee) that use vision-first autonomy to spray and inspect farms in GPS-denied environments.",
+      "hq": "India",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 2400000,
+      "date": "2026-08-14",
+      "leadInvestor": "Transition VC",
+      "investors": [
+        "Transition VC",
+        "IIMA Ventures"
+      ],
+      "sourceUrl": "https://theheadandtale.com/ai-emerging-tech/drone-startup-suind-bags-seed-funding-led-by-transition-vc",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Transition VC",
+        "IIMA Ventures"
+      ],
+      "similarityReason": "Hardware-enabled precision agriculture, but focuses on drone spraying rather than irrigation.",
+      "evidence": {
+        "Transition VC": "1 min read Autonomous drone startup SUIND has raised Rs 20.5 crore in a seed funding round led by Transition VC. The funding round saw participation from IIMA Ventures. The Bengaluru-based startup will use the fresh capital to scale commercial deployment of Bumblebee, the company's DGCA type-certified autonomous ag",
+        "IIMA Ventures": "1 min read Autonomous drone startup SUIND has raised Rs 20.5 crore in a seed funding round led by Transition VC. The funding round saw participation from IIMA Ventures. The Bengaluru-based startup will use the fresh capital to scale commercial deployment of Bumblebee, the company's DGCA type-certified autonomous agriculture drone, accelerate development of Wasp, its aeri"
+      },
+      "proofUrl": "https://theheadandtale.com/ai-emerging-tech/drone-startup-suind-bags-seed-funding-led-by-transition-vc/",
+      "proofExcerpt": "1 min read Autonomous drone startup SUIND has raised Rs 20.5 crore in a seed funding round led by Transition VC. The funding round saw participation from IIMA Ventures. The Bengaluru-based startup will use the fresh capital to scale commercial deployment of Bumblebee, the company's DGCA type-certified autonomous ag"
+    },
+    {
+      "id": "ts-a963bd00-de34-4dcb-ba50-5a2c8fb1871f",
+      "company": "Antonie",
+      "website": "https://antonie.nl/",
+      "description": "Provides AI-based soil-biology and crop-health monitoring using laboratory imaging, drones and satellite data.",
+      "hq": "Netherlands",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 2360000,
+      "date": "2026-02-24",
+      "leadInvestor": "Bejo",
+      "investors": [
+        "Bejo"
+      ],
+      "sourceUrl": "https://igrownews.com/antonie-latest-news",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Bejo"
+      ],
+      "similarityReason": "Crop health monitoring using satellite/drones, but lacks the specific irrigation focus.",
+      "evidence": {
+        "Bejo": "## Key Takeaways * Antonie raised €2 million in a Seed round, with Bejo taking an equity stake. * The investment builds on collaboration around CROP Monitor™, Antonie’s AI-driven crop monitoring platform. * AI models are used to track growth stages, diseases, weeds, and yield in seed pr"
+      },
+      "proofUrl": "https://igrownews.com/antonie-latest-news/",
+      "proofExcerpt": "## Key Takeaways * Antonie raised €2 million in a Seed round, with Bejo taking an equity stake. * The investment builds on collaboration around CROP Monitor™, Antonie’s AI-driven crop monitoring platform. * AI models are used to track growth stages, diseases, weeds, and yield in seed pr",
+      "people": [
+        {
+          "investor": "Bejo",
+          "name": "John-Pieter Schipper",
+          "role": "Managing Director"
+        }
+      ]
+    },
+    {
+      "id": "ts-bc60be13-3670-43f4-bbc4-5b9c568e1e56",
+      "company": "BemAgro",
+      "website": "https://bemagro.com/",
+      "description": "Provides an AI and geospatial platform for crop monitoring, field planning and precision-agriculture operations.",
+      "hq": "Brazil",
+      "stage": "series-a",
+      "roundLabel": "series-a",
+      "amountUsd": 5830000,
+      "date": "2026-02-12",
+      "leadInvestor": "The Yield Lab LATAM",
+      "investors": [
+        "The Yield Lab LATAM",
+        "Grupo Colorado",
+        "CNH",
+        "Atvos",
+        "AgroVen",
+        "Rural Ventures",
+        "MM. Agro",
+        "Positive Investimentos e Participações",
+        "Suzano"
+      ],
+      "sourceUrl": "https://igrownews.com/bemagro-latest-news",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "The Yield Lab LATAM",
+        "Grupo Colorado",
+        "CNH",
+        "Atvos",
+        "AgroVen",
+        "Rural Ventures",
+        "MM. Agro",
+        "Positive Investimentos e Participações",
+        "Suzano"
+      ],
+      "similarityReason": "Geospatial platform for precision agriculture, but lacks the specific irrigation focus.",
+      "evidence": {
+        "The Yield Lab LATAM": "## Key Takeaways * BemAgro S.A raises approximately US$5.83 million (R$30.3 million) in Series A funding * Round backed entirely by agriculture-focused investors and industry leaders * New investors include The Yield Lab LATAM and Grupo Colorado * Existing shareholders CNH and Atvos expand their participation * Funding supports AI and computer vision solutions for agricultural productivity --- ## BemAgro S.A Secures US$5.",
+        "Grupo Colorado": "## Key Takeaways * BemAgro S.A raises approximately US$5.83 million (R$30.3 million) in Series A funding * Round backed entirely by agriculture-focused investors and industry leaders * New investors include The Yield Lab LATAM and Grupo Colorado * Existing shareholders CNH and Atvos expand their participation * Funding supports AI and computer vision solutions for agricultural productivity --- ## BemAgro S.A Secures US$5.83 Million to Scale AI S",
+        "CNH": "aways * BemAgro S.A raises approximately US$5.83 million (R$30.3 million) in Series A funding * Round backed entirely by agriculture-focused investors and industry leaders * New investors include The Yield Lab LATAM and Grupo Colorado * Existing shareholders CNH and Atvos expand their participation * Funding supports AI and computer vision solutions for agricultural productivity --- ## BemAgro S.A Secures US$5.83 Million to Scale AI Solutions BemAgro S.A has concluded its",
+        "Atvos": "BemAgro S.A raises approximately US$5.83 million (R$30.3 million) in Series A funding * Round backed entirely by agriculture-focused investors and industry leaders * New investors include The Yield Lab LATAM and Grupo Colorado * Existing shareholders CNH and Atvos expand their participation * Funding supports AI and computer vision solutions for agricultural productivity --- ## BemAgro S.A Secures US$5.83 Million to Scale AI Solutions BemAgro S.A has concluded its Series",
+        "AgroVen": "ain producer participating through Colorado Ventures. Strategic shareholders CNH, a global agricultural machinery and embedded technology company, and Atvos, one of Brazil’s largest biofuel producers, also increased their stakes. Additional investors include AgroVen, Rural Ventures, MM. Agro, and Positive Investimentos e Participações, alongside Suzano, the world’s largest pulp producer, and the company’s executive partners. According to BemAgro S.A, the investor compositio",
+        "Rural Ventures": "cer participating through Colorado Ventures. Strategic shareholders CNH, a global agricultural machinery and embedded technology company, and Atvos, one of Brazil’s largest biofuel producers, also increased their stakes. Additional investors include AgroVen, Rural Ventures, MM. Agro, and Positive Investimentos e Participações, alongside Suzano, the world’s largest pulp producer, and the company’s executive partners. According to BemAgro S.A, the investor composition contrib",
+        "MM. Agro": "g through Colorado Ventures. Strategic shareholders CNH, a global agricultural machinery and embedded technology company, and Atvos, one of Brazil’s largest biofuel producers, also increased their stakes. Additional investors include AgroVen, Rural Ventures, MM. Agro, and Positive Investimentos e Participações, alongside Suzano, the world’s largest pulp producer, and the company’s executive partners. According to BemAgro S.A, the investor composition contributes operational",
+        "Positive Investimentos e Participações": "rado Ventures. Strategic shareholders CNH, a global agricultural machinery and embedded technology company, and Atvos, one of Brazil’s largest biofuel producers, also increased their stakes. Additional investors include AgroVen, Rural Ventures, MM. Agro, and Positive Investimentos e Participações, alongside Suzano, the world’s largest pulp producer, and the company’s executive partners. According to BemAgro S.A, the investor composition contributes operational expertise and",
+        "Suzano": "l agricultural machinery and embedded technology company, and Atvos, one of Brazil’s largest biofuel producers, also increased their stakes. Additional investors include AgroVen, Rural Ventures, MM. Agro, and Positive Investimentos e Participações, alongside Suzano, the world’s largest pulp producer, and the company’s executive partners. According to BemAgro S.A, the investor composition contributes operational expertise and sector-specific knowledge, supporting the develop"
+      },
+      "proofUrl": "https://igrownews.com/bemagro-latest-news/",
+      "proofExcerpt": "## Key Takeaways * BemAgro S.A raises approximately US$5.83 million (R$30.3 million) in Series A funding * Round backed entirely by agriculture-focused investors and industry leaders * New investors include The Yield Lab LATAM and Grupo Colorado * Existing shareholders CNH and Atvos expand their participation * Funding supports AI and computer vision solutions for agricultural productivity --- ## BemAgro S.A Secures US$5."
+    },
+    {
+      "id": "ts-59b36751-7a40-43d0-ba96-0411baadcf2b",
+      "company": "Satellites on Fire",
+      "website": "https://satellitesonfire.com/",
+      "description": "Uses satellite imagery, AI and complementary sensor data to detect wildfires early and predict their spread, serving customers in forestry, agriculture, energy, insurance and emergency response across Latin America.",
+      "hq": "Argentina",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 2700000,
+      "date": "2026-04-09",
+      "leadInvestor": "Dalus Capital",
+      "investors": [
+        "Dalus Capital",
+        "Draper Associates",
+        "Draper Cygnus",
+        "Savia Ventures"
+      ],
+      "sourceUrl": "https://thenextweb.com/news/satellites-on-fire-wildfire-ai-raises-2-7m",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Dalus Capital",
+        "Draper Associates",
+        "Draper Cygnus",
+        "Savia Ventures"
+      ],
+      "similarityReason": "Uses satellite imagery for agriculture, but focuses on wildfire detection.",
+      "evidence": {
+        "Dalus Capital": "nly platform integrates satellite data from multiple agencies and detects fires faster than NASA’s FIRMS system by avoiding the gaps between satellite passes.* --- Argentine climate-tech startup Satellites on Fire has closed a $2.7 million seed round led by Dalus Capital, with participation from Draper Associates, Draper Cygnus, VitaminC, Savia Ventures, Avesta Fund, Reciprocal, Zenani Capital, Innventure, Air Capital, Gain VC, Antom VC, and Embarca Tech. The company build",
+        "Draper Associates": "from multiple agencies and detects fires faster than NASA’s FIRMS system by avoiding the gaps between satellite passes.* --- Argentine climate-tech startup Satellites on Fire has closed a $2.7 million seed round led by Dalus Capital, with participation from Draper Associates, Draper Cygnus, VitaminC, Savia Ventures, Avesta Fund, Reciprocal, Zenani Capital, Innventure, Air Capital, Gain VC, Antom VC, and Embarca Tech. The company builds an AI-powered wildfire detection plat",
+        "Draper Cygnus": "ies and detects fires faster than NASA’s FIRMS system by avoiding the gaps between satellite passes.* --- Argentine climate-tech startup Satellites on Fire has closed a $2.7 million seed round led by Dalus Capital, with participation from Draper Associates, Draper Cygnus, VitaminC, Savia Ventures, Avesta Fund, Reciprocal, Zenani Capital, Innventure, Air Capital, Gain VC, Antom VC, and Embarca Tech. The company builds an AI-powered wildfire detection platform that integrate",
+        "Savia Ventures": "ter than NASA’s FIRMS system by avoiding the gaps between satellite passes.* --- Argentine climate-tech startup Satellites on Fire has closed a $2.7 million seed round led by Dalus Capital, with participation from Draper Associates, Draper Cygnus, VitaminC, Savia Ventures, Avesta Fund, Reciprocal, Zenani Capital, Innventure, Air Capital, Gain VC, Antom VC, and Embarca Tech. The company builds an AI-powered wildfire detection platform that integrates satellite imagery, towe"
+      },
+      "proofUrl": "https://thenextweb.com/news/satellites-on-fire-wildfire-ai-raises-2-7m",
+      "proofExcerpt": "nly platform integrates satellite data from multiple agencies and detects fires faster than NASA’s FIRMS system by avoiding the gaps between satellite passes.* --- Argentine climate-tech startup Satellites on Fire has closed a $2.7 million seed round led by Dalus Capital, with participation from Draper Associates, Draper Cygnus, VitaminC, Savia Ventures, Avesta Fund, Reciprocal, Zenani Capital, Innventure, Air Capital, Gain VC, Antom VC, and Embarca Tech. The company build",
+      "people": [
+        {
+          "investor": "Dalus Capital",
+          "name": "Diego Serebrisky",
+          "role": "co-founder and managing partner"
+        }
+      ]
+    },
+    {
+      "id": "ts-5188c51e-7f67-4cf1-b8f9-49ff1d3f7ece",
+      "company": "Aonic",
+      "website": "https://aonic.com/",
+      "description": "Malaysia-founded drone technology company providing end-to-end agricultural drone solutions, including spraying drones, software, financing and training, across Southeast Asia.",
+      "hq": "Malaysia",
+      "stage": "series-a",
+      "roundLabel": "series-a",
+      "amountUsd": 10000000,
+      "date": "2026-03-03",
+      "leadInvestor": "Kairous Capital",
+      "investors": [
+        "Kairous Capital"
+      ],
+      "sourceUrl": "https://prnewswire.com/apac/news-releases/malaysias-aonic-secures-usd-10-million-to-take-home-grown-drone-technology-global-302700759.html",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Kairous Capital"
+      ],
+      "similarityReason": "Hardware-enabled precision agriculture, but focuses on drone spraying.",
+      "evidence": {
+        "Kairous Capital": "KUALA LUMPUR, Malaysia, March 3, 2026 /PRNewswire/ -- Aonic, a Malaysia-founded drone technology company operating across Southeast Asia, today announced that it has secured USD 10 million in new funding. The Series A funding round is led by Kairous Capital, a regional private equity and venture capital firm backed by Jelawang Capital, Malaysia's National Fund-of-Funds through its Emerging Fund Managers' Programme. The investment will accelerate Aonic's regi"
+      },
+      "proofUrl": "https://www.prnewswire.com/apac/news-releases/malaysias-aonic-secures-usd-10-million-to-take-home-grown-drone-technology-global-302700759.html",
+      "proofExcerpt": "KUALA LUMPUR, Malaysia, March 3, 2026 /PRNewswire/ -- Aonic, a Malaysia-founded drone technology company operating across Southeast Asia, today announced that it has secured USD 10 million in new funding. The Series A funding round is led by Kairous Capital, a regional private equity and venture capital firm backed by Jelawang Capital, Malaysia's National Fund-of-Funds through its Emerging Fund Managers' Programme. The investment will accelerate Aonic's regi",
+      "people": [
+        {
+          "investor": "Kairous Capital",
+          "name": "Adrian Hia",
+          "role": "Partner"
+        }
+      ]
+    },
+    {
+      "id": "ts-44017056-7557-4c1a-909d-53d8271c8f2b",
+      "company": "Agovor",
+      "website": "https://agovor.com/",
+      "description": "Agovor builds a compact, fully electric autonomous eTractor with interchangeable smart towed attachments for vineyards, orchards and berry farms.",
+      "hq": "New Zealand",
+      "stage": "pre-seed",
+      "roundLabel": "pre-seed",
+      "amountUsd": 1950000,
+      "date": "2026-02-12",
+      "leadInvestor": "Tenacious Ventures",
+      "investors": [
+        "Tenacious Ventures",
+        "Hort Innovation Investment Fund",
+        "Artesian",
+        "Invest New Zealand"
+      ],
+      "sourceUrl": "https://startupdaily.net/topic/funding/kiwi-agtech-robotics-startup-agovor-plants-3-million-in-pre-seed",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Tenacious Ventures",
+        "Hort Innovation Investment Fund",
+        "Artesian",
+        "Invest New Zealand"
+      ],
+      "similarityReason": "Hardware-enabled precision agriculture, but focuses on autonomous tractors.",
+      "evidence": {
+        "Tenacious Ventures": "in read Share 0 Prefer Startup Daily Agovor founders Richard Beaumont and Simon Carroll ##### New Zealand horticultural robotics startup Agovor, has raised A$3 million in a pre-Seed funding. The round has been led by Australian agriculture-focused VC Tenacious Ventures with co-investment from the Hort Innovation Investment Fund, managed by Artesian, and a Kiwi investor via Invest New Zealand’s Active Investor Plus scheme. Agovor combines an electric, autonomous eTra",
+        "Hort Innovation Investment Fund": "vor founders Richard Beaumont and Simon Carroll ##### New Zealand horticultural robotics startup Agovor, has raised A$3 million in a pre-Seed funding. The round has been led by Australian agriculture-focused VC Tenacious Ventures with co-investment from the Hort Innovation Investment Fund, managed by Artesian, and a Kiwi investor via Invest New Zealand’s Active Investor Plus scheme. Agovor combines an electric, autonomous eTractor with a range of smart towed attachments, i",
+        "Artesian": "oll ##### New Zealand horticultural robotics startup Agovor, has raised A$3 million in a pre-Seed funding. The round has been led by Australian agriculture-focused VC Tenacious Ventures with co-investment from the Hort Innovation Investment Fund, managed by Artesian, and a Kiwi investor via Invest New Zealand’s Active Investor Plus scheme. Agovor combines an electric, autonomous eTractor with a range of smart towed attachments, including mowers and sprayers. The small, lig",
+        "Invest New Zealand": "al robotics startup Agovor, has raised A$3 million in a pre-Seed funding. The round has been led by Australian agriculture-focused VC Tenacious Ventures with co-investment from the Hort Innovation Investment Fund, managed by Artesian, and a Kiwi investor via Invest New Zealand’s Active Investor Plus scheme. Agovor combines an electric, autonomous eTractor with a range of smart towed attachments, including mowers and sprayers. The small, lightweight tractor-and-trailer units"
+      },
+      "proofUrl": "https://www.startupdaily.net/topic/funding/kiwi-agtech-robotics-startup-agovor-plants-3-million-in-pre-seed/",
+      "proofExcerpt": "in read Share 0 Prefer Startup Daily Agovor founders Richard Beaumont and Simon Carroll ##### New Zealand horticultural robotics startup Agovor, has raised A$3 million in a pre-Seed funding. The round has been led by Australian agriculture-focused VC Tenacious Ventures with co-investment from the Hort Innovation Investment Fund, managed by Artesian, and a Kiwi investor via Invest New Zealand’s Active Investor Plus scheme. Agovor combines an electric, autonomous eTra",
+      "people": [
+        {
+          "investor": "Hort Innovation Investment Fund",
+          "name": "Anthony Kachenko",
+          "role": "Hort Innovation production and sustainability GM"
+        }
+      ]
+    },
+    {
+      "id": "ts-0368046d-51be-40be-a546-7768b17eb8c4",
+      "company": "AgriPass",
+      "website": "https://agripass.co/",
+      "description": "Tel Aviv-based agtech company developing AI and robotics for adaptive field operations, using its RHIC platform to enable human-inspired, real-time AI decision-making for precise mechanical weed control.",
+      "hq": "Israel",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 7500000,
+      "date": "2026-03-05",
+      "leadInvestor": "Harbor Venture Consulting",
+      "investors": [
+        "Harbor Venture Consulting",
+        "E44 Climate Ventures"
+      ],
+      "sourceUrl": "https://finsmes.com/2026/03/agripass-raises-7-5m-in-seed-funding.html",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Harbor Venture Consulting",
+        "E44 Climate Ventures"
+      ],
+      "similarityReason": "AI and robotics for precision agriculture, but focuses on weed control.",
+      "evidence": {
+        "Harbor Venture Consulting": "el # AgriPass Raises $7.5M in Seed Funding By FinSMEs - March 5, 2026 Facebook Twitter WhatsApp Linkedin **AgriPass**, a Tel Aviv, Israel-based agtech company developing AI and robotics solutions, raised $7.5M in Seed funding. The round was led by Harbor Venture Consulting, with participation from existing investors including E44 Climate Ventures, and strategic ecosystem partners. The company intends to use the funds to support manufacturing readiness, expansion",
+        "E44 Climate Ventures": "ook Twitter WhatsApp Linkedin **AgriPass**, a Tel Aviv, Israel-based agtech company developing AI and robotics solutions, raised $7.5M in Seed funding. The round was led by Harbor Venture Consulting, with participation from existing investors including E44 Climate Ventures, and strategic ecosystem partners. The company intends to use the funds to support manufacturing readiness, expansion of commercial field operations, and continued development of the AI-driven culti"
+      },
+      "proofUrl": "https://www.finsmes.com/2026/03/agripass-raises-7-5m-in-seed-funding.html",
+      "proofExcerpt": "el # AgriPass Raises $7.5M in Seed Funding By FinSMEs - March 5, 2026 Facebook Twitter WhatsApp Linkedin **AgriPass**, a Tel Aviv, Israel-based agtech company developing AI and robotics solutions, raised $7.5M in Seed funding. The round was led by Harbor Venture Consulting, with participation from existing investors including E44 Climate Ventures, and strategic ecosystem partners. The company intends to use the funds to support manufacturing readiness, expansion"
+    },
+    {
+      "id": "ts-fd2b6b7b-e099-41b9-8e6f-4d3e72ef899c",
+      "company": "DataFarming",
+      "website": "https://datafarming.com/",
+      "description": "Satellite-imagery precision agriculture platform that helps agronomists and farmers monitor crops, map soils and apply variable-rate inputs.",
+      "hq": "Australia",
+      "amountUsd": 2500000,
+      "date": "2026-05-12",
+      "investors": [
+        "GrainCorp Ventures",
+        "GrainInnovate"
+      ],
+      "sourceUrl": "https://graincentral.com/ag-tech/datafarming-raises-2-5m-to-accelerate-tech-deployment",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": false,
+      "verifiedInvestors": [],
+      "similarityReason": "Satellite-based precision agriculture platform, lacks the specific irrigation focus."
+    },
+    {
+      "id": "ts-973d182c-2a86-4885-9f6f-2075bebf5f83",
+      "company": "Marble Imaging",
+      "website": "https://marble-imaging.de/",
+      "description": "Builds a constellation of very-high-resolution multispectral Earth-observation satellites and analytics services for land monitoring including agriculture.",
+      "hq": "Germany",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 6200000,
+      "date": "2025-12-01",
+      "leadInvestor": "High-Tech Gründerfonds (HTGF)",
+      "investors": [
+        "High-Tech Gründerfonds (HTGF)",
+        "BAB Beteiligungs- und Managementgesellschaft Bremen mbH (BBM)",
+        "Lightfield Equity",
+        "Oslo Venture Company",
+        "nwk",
+        "nwu Beteiligungsgesellschaften der Sparkasse Bremen",
+        "Sentris Capital",
+        "Auxxo Female Catalyst Fund",
+        "SpaceFounders"
+      ],
+      "sourceUrl": "https://htgf.de/en/marble-imaging-seed-funding-round",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "BAB Beteiligungs- und Managementgesellschaft Bremen mbH (BBM)",
+        "Lightfield Equity",
+        "Oslo Venture Company",
+        "nwk",
+        "nwu Beteiligungsgesellschaften der Sparkasse Bremen",
+        "Sentris Capital",
+        "Auxxo Female Catalyst Fund",
+        "SpaceFounders"
+      ],
+      "similarityReason": "Satellite imaging for agriculture, but lacks the specific irrigation application.",
+      "evidence": {
+        "BAB Beteiligungs- und Managementgesellschaft Bremen mbH (BBM)": "illion euros. Fund investors in the public-private partnership include the Federal Ministry for Economic Affairs and Energy, KfW Capital as well as 45 companies and family offices. For more information, please visit HTGF.de or follow us on LinkedIn. **About BAB Beteiligungs- und Managementgesellschaft Bremen mbH (BBM)** In order to promote the innovative strength of the Bremen economy, the Senator for Economics, Ports and Transformation has set up the “EFRE Beteiligungsf",
+        "Lightfield Equity": "es, as well as the German Federal Ministry for Economic Affairs and Energy and KfW Capital. In addition, Marble has attracted a strong group of further investors who share the mission, including BAB Beteiligungs- und Management-gesellschaft Bremen mbH (BBM), Lightfield Equity, Oslo Venture Company, nwk | nwu Beteiligungsgesellschaften der Sparkasse Bremen, Sentris Capital, Auxxo Female Catalyst Fund and SpaceFounders. The investment will enable Marble to significantly scale",
+        "Oslo Venture Company": "German Federal Ministry for Economic Affairs and Energy and KfW Capital. In addition, Marble has attracted a strong group of further investors who share the mission, including BAB Beteiligungs- und Management-gesellschaft Bremen mbH (BBM), Lightfield Equity, Oslo Venture Company, nwk | nwu Beteiligungsgesellschaften der Sparkasse Bremen, Sentris Capital, Auxxo Female Catalyst Fund and SpaceFounders. The investment will enable Marble to significantly scale its development te",
+        "nwk": "y for Economic Affairs and Energy and KfW Capital. In addition, Marble has attracted a strong group of further investors who share the mission, including BAB Beteiligungs- und Management-gesellschaft Bremen mbH (BBM), Lightfield Equity, Oslo Venture Company, nwk | nwu Beteiligungsgesellschaften der Sparkasse Bremen, Sentris Capital, Auxxo Female Catalyst Fund and SpaceFounders. The investment will enable Marble to significantly scale its development team and accelerate comp",
+        "nwu Beteiligungsgesellschaften der Sparkasse Bremen": "Economic Affairs and Energy and KfW Capital. In addition, Marble has attracted a strong group of further investors who share the mission, including BAB Beteiligungs- und Management-gesellschaft Bremen mbH (BBM), Lightfield Equity, Oslo Venture Company, nwk | nwu Beteiligungsgesellschaften der Sparkasse Bremen, Sentris Capital, Auxxo Female Catalyst Fund and SpaceFounders. The investment will enable Marble to significantly scale its development team and accelerate completion",
+        "Sentris Capital": "tion, Marble has attracted a strong group of further investors who share the mission, including BAB Beteiligungs- und Management-gesellschaft Bremen mbH (BBM), Lightfield Equity, Oslo Venture Company, nwk | nwu Beteiligungsgesellschaften der Sparkasse Bremen, Sentris Capital, Auxxo Female Catalyst Fund and SpaceFounders. The investment will enable Marble to significantly scale its development team and accelerate completion of its intelligence, maritime, and trafficability to",
+        "Auxxo Female Catalyst Fund": "attracted a strong group of further investors who share the mission, including BAB Beteiligungs- und Management-gesellschaft Bremen mbH (BBM), Lightfield Equity, Oslo Venture Company, nwk | nwu Beteiligungsgesellschaften der Sparkasse Bremen, Sentris Capital, Auxxo Female Catalyst Fund and SpaceFounders. The investment will enable Marble to significantly scale its development team and accelerate completion of its intelligence, maritime, and trafficability tools – solutions t",
+        "SpaceFounders": "ther investors who share the mission, including BAB Beteiligungs- und Management-gesellschaft Bremen mbH (BBM), Lightfield Equity, Oslo Venture Company, nwk | nwu Beteiligungsgesellschaften der Sparkasse Bremen, Sentris Capital, Auxxo Female Catalyst Fund and SpaceFounders. The investment will enable Marble to significantly scale its development team and accelerate completion of its intelligence, maritime, and trafficability tools – solutions that already serve early custome"
+      },
+      "proofUrl": "https://www.htgf.de/en/marble-imaging-seed-funding-round/",
+      "proofExcerpt": "illion euros. Fund investors in the public-private partnership include the Federal Ministry for Economic Affairs and Energy, KfW Capital as well as 45 companies and family offices. For more information, please visit HTGF.de or follow us on LinkedIn. **About BAB Beteiligungs- und Managementgesellschaft Bremen mbH (BBM)** In order to promote the innovative strength of the Bremen economy, the Senator for Economics, Ports and Transformation has set up the “EFRE Beteiligungsf"
+    }
+  ],
+  "meta": {
+    "tinyfishCalls": {
+      "tinyset": 1,
+      "search": 31,
+      "fetch": 18,
+      "agent": 5
+    },
+    "tinysetDatasetId": "ee5b366c-e4ec-4902-aa2d-5b3e2cf9ff8d"
+  }
+}

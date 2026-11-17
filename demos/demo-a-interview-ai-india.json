@@ -1,0 +1,2809 @@
+{
+  "id": "3qkf2j3se1r2",
+  "generatedAt": "2026-11-10T14:51:38.352Z",
+  "startup": {
+    "description": "AI-powered interview automation platform that helps mid-market HR teams screen and shortlist candidates",
+    "stage": "pre-seed",
+    "country": "India",
+    "windowMonths": 12,
+    "industry": "HR tech and AI recruitment",
+    "businessModel": "B2B SaaS",
+    "customer": "mid-market HR teams and talent acquisition leaders",
+    "keywords": [
+      "AI interviews",
+      "candidate screening",
+      "recruitment automation",
+      "HR tech",
+      "shortlisting",
+      "talent acquisition"
+    ],
+    "searchQueries": [
+      "AI recruitment startup raises seed India",
+      "HR tech SaaS platform raises pre seed funding",
+      "automated candidate screening startup raises seed",
+      "AI interview platform funding round",
+      "recruitment automation startup seed round",
+      "HR tech startup raises pre-seed round India"
+    ]
+  },
+  "investors": [
+    {
+      "id": "ajvc",
+      "rank": 1,
+      "name": "AJVC",
+      "kind": "fund",
+      "website": "https://www.ajuniorvc.com/",
+      "score": 63,
+      "breakdown": {
+        "similarDeals": 10.1,
+        "stageFit": 20,
+        "geoFit": 15,
+        "recency": 9.3,
+        "chequeFit": 3.1,
+        "reachability": 5
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months, leading 1 — closest: Scooter (pre-seed, $180K). Scooter is close to you: Scenario-based sales hiring and assessment platform delivering curated candidate shortlists. Already invests at pre-seed. Deals concentrate in India.",
+      "stages": [
+        "pre-seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 180000,
+        "medianUsd": 180000,
+        "maxUsd": 180000
+      },
+      "typicalCheque": "Joins $180K rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "high",
+      "leadCount": 1,
+      "backed": [
+        {
+          "dealId": "ts-74c5affb-6154-49b9-96ce-8134f4a30bce",
+          "company": "Scooter",
+          "website": "https://thescooter.ai/",
+          "stage": "pre-seed",
+          "roundLabel": "pre-seed",
+          "amountUsd": 180000,
+          "date": "2026-10-05",
+          "role": "lead",
+          "similarity": 0.7,
+          "similarityReason": "Scenario-based sales hiring and assessment platform delivering curated candidate shortlists.",
+          "proofUrl": "https://www.thesaasnews.com/news/scooter-raises-180k-pre-seed/",
+          "proofExcerpt": "ogy and recruitment software startup, has raised approximately $180,000 in pre-seed funding. The company, which specializes in sales hiring and recruitment technology, plans to use the capital to further its growth. ## Investors The funding round was led by AJVC. ## Scooter Use of Funds The company will use the capital to strengthen its core recruitment software platform, expand its internal product development, and build its team across India. ## About Scooter Founded"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "application_form",
+          "url": "https://ajuniorvc.typeform.com/phase1",
+          "detail": "AJuniorVC provides an open online pitch submission form for startup founders. On their Apply page, founders are instructed to follow a 3-step process: (1) Fill out a short form via https://ajuniorvc.typeform.com/phase1, (2) Participate in a follow-up if potential is identified, and (3) Attend an interview if selected. The fund emphasizes a technology-first, data-driven evaluation process with a 3-week timeline from initial form submission to final decision. No warm intro is required, and no pitch email address is listed.",
+          "source": "agent"
+        }
+      ]
+    },
+    {
+      "id": "antler",
+      "rank": 2,
+      "name": "Antler",
+      "kind": "fund",
+      "website": "https://www.antler.co/",
+      "score": 52,
+      "breakdown": {
+        "similarDeals": 20.4,
+        "stageFit": 6.7,
+        "geoFit": 7.8,
+        "recency": 6.8,
+        "chequeFit": 8.2,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 3 verified companies like yours in the last 12 months — closest: HireBound (seed, $2M) and Jack & Jill (series-a, $40M). HireBound is close to you: AI-powered recruitment platform automating candidate screening and evaluation. Invests at seed/series-a, not directly pre-seed, so stage fit is partial.",
+      "stages": [
+        "seed",
+        "series-a"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1600000,
+        "medianUsd": 2000000,
+        "maxUsd": 40000000
+      },
+      "typicalCheque": "Joins $1.6M–$40M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "high",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-85b26e82-9d67-4f1c-83ea-d649e1177a1e",
+          "company": "HireBound",
+          "website": "https://hirebound.io/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 2000000,
+          "date": "2026-02-24",
+          "role": "participant",
+          "similarity": 1,
+          "similarityReason": "AI-powered recruitment platform automating candidate screening and evaluation.",
+          "proofUrl": "https://www.thesaasnews.com/news/hirebound-raises-2-million-in-seed-funding",
+          "proofExcerpt": "HireBound, a Gurgaon, India-based HR technology startup, has raised $2 million in Seed funding. **Investors** The round was led by Kalaari Capital, with participation from Antler, Infinyte Club, and CareerNet. Kalaari Capital is an early-stage venture capital (VC) firm based in Bengaluru, India, focused on investing in technology-driven startups. It partners with entrepreneurs at the Se"
+        },
+        {
+          "dealId": "ts-bf1eac66-886e-4b25-bf39-93f2fe1e1e0f",
+          "company": "Jack & Jill",
+          "website": "https://jackandjill.ai/",
+          "stage": "series-a",
+          "roundLabel": "series-a",
+          "amountUsd": 40000000,
+          "date": "2026-09-15",
+          "role": "participant",
+          "similarity": 0.7,
+          "similarityReason": "AI recruiting platform focused on matching candidates rather than specifically automating mid-market HR interview workflows.",
+          "proofUrl": "https://techfundingnews.com/jack-and-jill-raises-40m-series-a-air-street-capital-ai-recruiting/",
+          "proofExcerpt": "ilson, a co-founder, previously sold his final startup, Omnipresent, to Deel for a reported $15 million. The AI recruiting platform Jack & Jill, based in London, just raised $40 million in a Series A funding round, led by Air Street Capital, with Madrona and Antler joining as new investors, while Creandum, Ada Ventures, Entrepreneurs First, Expedite Capital, and Repeat.vc were among the previous investors. This financing comes after Jack & Jill raised $20 million in its see"
+        },
+        {
+          "dealId": "ts-c381cf22-7670-4f5b-8675-bdd1eeeba931",
+          "company": "Gyver",
+          "website": "https://gyver.work/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1600000,
+          "date": "2026-05-13",
+          "role": "participant",
+          "similarity": 0.4,
+          "similarityReason": "Conversational hiring platform and talent network matching skilled tradespeople.",
+          "proofUrl": "https://aipressroom.com/gyver-1m-electrician-hiring/",
+          "proofExcerpt": "rrals, while also contending with potential new entrants or existing players adapting AI solutions. ### Key Facts * **Company:** Gyver * **Amount:** €1.4M * **Round:** Pre-seed * **Investors:** Brighteye (lead), āltitude, Vento Ventures, Zanichelli Venture, Antler, several business angels * **Founders:** Francesco Defendi, Leo Acciarri, Mattia Zarrelli * **Sector:** Workforce Tech * **Headquarters:** Brescia, Italy ## AIPressRoom Weekly Every round we reported this week,"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of HireBound, Jack & Jill, Gyver for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "kalaari",
+      "rank": 3,
+      "name": "Kalaari Capital",
+      "kind": "fund",
+      "website": "https://kalaari.com/",
+      "score": 51,
+      "breakdown": {
+        "similarDeals": 8.6,
+        "stageFit": 10,
+        "geoFit": 15,
+        "recency": 5.3,
+        "chequeFit": 6.6,
+        "reachability": 5
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months, leading 1 — closest: HireBound (seed, $2M). HireBound is close to you: AI-powered recruitment platform automating candidate screening and evaluation. Invests at seed, not directly pre-seed, so stage fit is partial. Deals concentrate in India.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 2000000,
+        "medianUsd": 2000000,
+        "maxUsd": 2000000
+      },
+      "typicalCheque": "Joins $2M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "high",
+      "leadCount": 1,
+      "backed": [
+        {
+          "dealId": "ts-85b26e82-9d67-4f1c-83ea-d649e1177a1e",
+          "company": "HireBound",
+          "website": "https://hirebound.io/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 2000000,
+          "date": "2026-02-24",
+          "role": "lead",
+          "similarity": 1,
+          "similarityReason": "AI-powered recruitment platform automating candidate screening and evaluation.",
+          "proofUrl": "https://www.thesaasnews.com/news/hirebound-raises-2-million-in-seed-funding",
+          "proofExcerpt": "HireBound, a Gurgaon, India-based HR technology startup, has raised $2 million in Seed funding. **Investors** The round was led by Kalaari Capital, with participation from Antler, Infinyte Club, and CareerNet. Kalaari Capital is an early-stage venture capital (VC) firm based in Bengaluru, India, focused on investing in technology-driven startups."
+        }
+      ],
+      "outreach": [
+        {
+          "type": "application_form",
+          "url": "https://kalaari.com/seek-funding-form",
+          "detail": "Kalaari Capital accepts founder pitches through two channels: (1) An online application form at https://kalaari.com/seek-funding-form (a multi-step form covering Business Overview, Performance & Growth, and Founder Credentials). The page states: 'We review every application carefully. Our team will respond within 2 weeks.' (2) A stated open-intake email for pitches: investments@kalaari.com. They do not state that they only accept warm intros; they have both an open web application form and a dedicated open email for founder pitches.",
+          "source": "agent"
+        }
+      ]
+    },
+    {
+      "id": "a16z-speedrun",
+      "rank": 4,
+      "name": "a16z Speedrun",
+      "kind": "fund",
+      "website": "https://speedrun.a16z.com/",
+      "score": 50,
+      "breakdown": {
+        "similarDeals": 25.7,
+        "stageFit": 10,
+        "geoFit": 2.4,
+        "recency": 7,
+        "chequeFit": 3.2,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 3 verified companies like yours in the last 12 months — closest: Ezra (seed, $3.2M) and Dex (seed, $5.3M). Ezra is close to you: Voice AI interviewing platform that automates candidate screening and shortlisting for hiring teams. Invests at seed, not directly pre-seed, so stage fit is partial.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 3200000,
+        "medianUsd": 4000000,
+        "maxUsd": 5300000
+      },
+      "typicalCheque": "Joins $3.2M–$5.3M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "high",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-7e5365e7-3c8d-4eee-ae6e-310b1f63deeb",
+          "company": "Ezra",
+          "website": "https://ezrarecruiting.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 3200000,
+          "date": "2026-03-18",
+          "role": "participant",
+          "similarity": 1,
+          "similarityReason": "Voice AI interviewing platform that automates candidate screening and shortlisting for hiring teams.",
+          "proofUrl": "https://hrtechfeed.com/voice-ai-interview-platform-lands-3-2m-seed-round/",
+          "proofExcerpt": "viewing platform built for recruiting teams looking for reliable signals to assess talent, and candidates who want to be heard, announced today that it has raised a $3.2 million seed round co-led by Penny Jar Capital and LMNT Ventures, with participation from a16z Speedrun and Telegraph Hill Capital. The funding comes as recruiting teams face a worsening hiring crisis as technology advances. Application volume has nearly tripled since 2021. Recruiters are now screening 1,000"
+        },
+        {
+          "dealId": "ts-35f9a021-4ba6-4e16-9afc-f1f2fb644a0f",
+          "company": "Dex",
+          "website": "https://meetdex.ai/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 5300000,
+          "date": "2026-04-27",
+          "role": "participant",
+          "similarity": 0.7,
+          "similarityReason": "AI talent agent representing software engineers and matching them with roles.",
+          "proofUrl": "https://fortune.com/2026/04/28/exclusive-dex-ai-powered-recruiting-startup-raises-seed-round-notion-capital/",
+          "proofExcerpt": "ld grind to a halt. Recommended Video --- That observation became the genesis of Dex, an AI-powered recruiting startup Lambros founded in early 2025. On Monday, Dex said it had raised a $5.3 million seed round led by Notion Capital, with participation from a16z Speedrun, Concept Ventures and angel investors from OpenAI and other firms. The new funding brings the total Dex has raised to $8.4 million, including a $3.1 million pre-seed last year. Lambros declined to comment"
+        },
+        {
+          "dealId": "se-o6b58aq",
+          "company": "Jooba",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 4000000,
+          "date": "2026-10-20",
+          "role": "participant",
+          "similarity": 0.7,
+          "similarityReason": "Employs custom AI agents alongside human reviewers to help companies hire faster.",
+          "proofUrl": "https://techfundingnews.com/pitch-deck-ai-recruiting-startup-jooba-raises-4m-seed-from-a16z-speedrun-scribble-ventures-and-genius-ventures/",
+          "proofExcerpt": "# Pitch deck: AI recruiting startup Jooba raises $4M seed from a16z speedrun, Scribble Ventures, and Genius Ventures bySofia Chesnokova October 20, 2026 3 minute read Image credits: Jooba Total 0 Shares 0 0 0 0 Jooba secured $4 million in seed funding from a16z speed"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of Ezra, Dex, Jooba for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "careernet",
+      "rank": 5,
+      "name": "CareerNet",
+      "kind": "fund",
+      "score": 45,
+      "breakdown": {
+        "similarDeals": 6.5,
+        "stageFit": 10,
+        "geoFit": 15,
+        "recency": 5.3,
+        "chequeFit": 6.6,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: HireBound (seed, $2M). HireBound is close to you: AI-powered recruitment platform automating candidate screening and evaluation. Invests at seed, not directly pre-seed, so stage fit is partial. Deals concentrate in India.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 2000000,
+        "medianUsd": 2000000,
+        "maxUsd": 2000000
+      },
+      "typicalCheque": "Joins $2M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "medium",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-85b26e82-9d67-4f1c-83ea-d649e1177a1e",
+          "company": "HireBound",
+          "website": "https://hirebound.io/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 2000000,
+          "date": "2026-02-24",
+          "role": "participant",
+          "similarity": 1,
+          "similarityReason": "AI-powered recruitment platform automating candidate screening and evaluation.",
+          "proofUrl": "https://www.thesaasnews.com/news/hirebound-raises-2-million-in-seed-funding",
+          "proofExcerpt": "HireBound, a Gurgaon, India-based HR technology startup, has raised $2 million in Seed funding. **Investors** The round was led by Kalaari Capital, with participation from Antler, Infinyte Club, and CareerNet. Kalaari Capital is an early-stage venture capital (VC) firm based in Bengaluru, India, focused on investing in technology-driven startups. It partners with entrepreneurs at the Seed and Series A stages to h"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of HireBound for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "anf",
+      "rank": 6,
+      "name": "ANF Investment",
+      "kind": "fund",
+      "score": 36,
+      "breakdown": {
+        "similarDeals": 8.6,
+        "stageFit": 10,
+        "geoFit": 1.5,
+        "recency": 4.3,
+        "chequeFit": 10,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months, leading 1 — closest: Meet Caria (seed, $1M). Meet Caria is close to you: Automates candidate screening, interviews, and evaluations through AI-powered software. Invests at seed, not directly pre-seed, so stage fit is partial.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1000000,
+        "medianUsd": 1000000,
+        "maxUsd": 1000000
+      },
+      "typicalCheque": "Joins $1M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "high",
+      "leadCount": 1,
+      "backed": [
+        {
+          "dealId": "ts-7edc0d6c-3781-4363-b74b-865152e1e5b3",
+          "company": "Meet Caria",
+          "website": "https://meetcaria.ai/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1000000,
+          "date": "2026-01-01",
+          "role": "lead",
+          "similarity": 1,
+          "similarityReason": "Automates candidate screening, interviews, and evaluations through AI-powered software.",
+          "proofUrl": "https://www.finsmes.com/2026/01/meet-caria-raises-1m-in-pre-seed-funding.html",
+          "proofExcerpt": "USA # Meet Caria Raises $1M in Pre-Seed Funding By FinSMEs - January 14, 2026 Facebook Twitter WhatsApp Linkedin **Meet Caria**, a NYC-based AI-native recruitment software company, raised $1M in Pre-Seed funding. The round was led by ANF Investment. The company intends to use the funds to further develop Caria, its AI-based recruitment platform, which supports hiring workflows including job creation, candidate sourcing, interviewing, and candidate e"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of Meet Caria for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "firstdegree",
+      "rank": 7,
+      "name": "FirstDegree",
+      "kind": "fund",
+      "score": 36,
+      "breakdown": {
+        "similarDeals": 4.5,
+        "stageFit": 10,
+        "geoFit": 1.5,
+        "recency": 8.2,
+        "chequeFit": 9.7,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: Alfa AI (seed, $1.3M). Alfa AI is close to you: Automates candidate discovery and evaluation without emphasizing interview automation. Invests at seed, not directly pre-seed, so stage fit is partial.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1300000,
+        "medianUsd": 1300000,
+        "maxUsd": 1300000
+      },
+      "typicalCheque": "Joins $1.3M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "medium",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-235b0368-fbc2-4967-817f-28fd1cfc0e6b",
+          "company": "Alfa AI",
+          "website": "https://welovealfa.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1300000,
+          "date": "2026-08-05",
+          "role": "participant",
+          "similarity": 0.7,
+          "similarityReason": "Automates candidate discovery and evaluation without emphasizing interview automation.",
+          "proofUrl": "https://businesscloud.co.uk/news/former-dragons-den-star-joins-alfa-ai-following-1m-investment/",
+          "proofExcerpt": "y Alfie Whattam, Ed Godshaw and Dr Linda Yu in 2025. Its AI-powered tool automates the hiring process by finding and screening top candidates and connecting them with employers. The latest £1m seed funding round was led by Sake Bosch, with participation from FirstDegree, Golden Egg Check and Black Green Capital. The funding will be used to accelerate product development and support the company’s expansion. Caan’s appointment comes at a pivotal moment for the technology star"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of Alfa AI for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "black-green",
+      "rank": 8,
+      "name": "Black Green Capital",
+      "kind": "fund",
+      "website": "https://www.nber.org/",
+      "score": 36,
+      "breakdown": {
+        "similarDeals": 4.5,
+        "stageFit": 10,
+        "geoFit": 1.5,
+        "recency": 8.2,
+        "chequeFit": 9.7,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: Alfa AI (seed, $1.3M). Alfa AI is close to you: Automates candidate discovery and evaluation without emphasizing interview automation. Invests at seed, not directly pre-seed, so stage fit is partial.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1300000,
+        "medianUsd": 1300000,
+        "maxUsd": 1300000
+      },
+      "typicalCheque": "Joins $1.3M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "medium",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-235b0368-fbc2-4967-817f-28fd1cfc0e6b",
+          "company": "Alfa AI",
+          "website": "https://welovealfa.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1300000,
+          "date": "2026-08-05",
+          "role": "participant",
+          "similarity": 0.7,
+          "similarityReason": "Automates candidate discovery and evaluation without emphasizing interview automation.",
+          "proofUrl": "https://businesscloud.co.uk/news/former-dragons-den-star-joins-alfa-ai-following-1m-investment/",
+          "proofExcerpt": "Linda Yu in 2025. Its AI-powered tool automates the hiring process by finding and screening top candidates and connecting them with employers. The latest £1m seed funding round was led by Sake Bosch, with participation from FirstDegree, Golden Egg Check and Black Green Capital. The funding will be used to accelerate product development and support the company’s expansion. Caan’s appointment comes at a pivotal moment for the technology start-up as organisations increasingly"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of Alfa AI for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "sabah",
+      "rank": 9,
+      "name": "SABAH.fund",
+      "kind": "fund",
+      "website": "https://sabahhub.com/",
+      "score": 35,
+      "breakdown": {
+        "similarDeals": 8.6,
+        "stageFit": 10,
+        "geoFit": 1.5,
+        "recency": 3.2,
+        "chequeFit": 10,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months, leading 1 — closest: Helio AI (seed, $1M). Helio AI is close to you: Provides AI recruiting agents for candidate screening, ranking, and assessments. Invests at seed, not directly pre-seed, so stage fit is partial.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1000000,
+        "medianUsd": 1000000,
+        "maxUsd": 1000000
+      },
+      "typicalCheque": "Joins $1M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "high",
+      "leadCount": 1,
+      "backed": [
+        {
+          "dealId": "ts-13087a9a-5e07-4d4a-9e7b-c4939a5f4753",
+          "company": "Helio AI",
+          "website": "https://helio-ai.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1000000,
+          "date": "2025-11-01",
+          "role": "lead",
+          "similarity": 1,
+          "similarityReason": "Provides AI recruiting agents for candidate screening, ranking, and assessments.",
+          "proofUrl": "https://helio-ai.com/blog-posts/helio-ai-secures-1m-seed-round-to-scale-its-ai-recruiting-agent-globally",
+          "proofExcerpt": "Nov 25, 2025 # Helio AI Secures $1M Seed Round to Scale Its AI Recruiting Agent Globally Helio AI, the US based AI-powered recruiting platform for high-volume and frontline hiring built by its Georgian team, has secured a **$1M seed round led by SABAH.fund**, joined by **DOMiNO Ventures, Axiom, Tetrad VC and Angel investor Bas Godska**. The new funding will be used to scale Helio’s AI Recruiting Agent globally, expand product capabilities, and transform how comp"
+        }
+      ],
+      "leadPartner": {
+        "name": "Abbas Kazmi",
+        "role": "Managing Partner",
+        "evidenceUrl": "https://helio-ai.com/blog-posts/helio-ai-secures-1m-seed-round-to-scale-its-ai-recruiting-agent-globally",
+        "dealCompany": "Helio AI",
+        "basis": "deal_page"
+      },
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of Helio AI for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "srg",
+      "rank": 10,
+      "name": "SRG Group",
+      "kind": "fund",
+      "score": 35,
+      "breakdown": {
+        "similarDeals": 8.6,
+        "stageFit": 10,
+        "geoFit": 1.5,
+        "recency": 4.6,
+        "chequeFit": 8.7,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months, leading 1 — closest: Resquad AI (seed, $1.5M). Resquad AI is close to you: Technical recruitment platform that automates candidate screening and matching. Invests at seed, not directly pre-seed, so stage fit is partial.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1500000,
+        "medianUsd": 1500000,
+        "maxUsd": 1500000
+      },
+      "typicalCheque": "Joins $1.5M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "high",
+      "leadCount": 1,
+      "backed": [
+        {
+          "dealId": "ts-8e1e376b-f7ca-428a-8e9e-36d7adcf2813",
+          "company": "Resquad AI",
+          "website": "https://resquad.ai/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1500000,
+          "date": "2026-01-18",
+          "role": "lead",
+          "similarity": 1,
+          "similarityReason": "Technical recruitment platform that automates candidate screening and matching.",
+          "proofUrl": "https://cairoscene.com/Business/Resquad-AI-Raises-1-5M-Ahead-of-KSA-AI-Recruitment-Platform-Launch",
+          "proofExcerpt": "026 Eats Nov 09, 2026 Noise ## Rap of the Week | Nov 3 - Nov 9 Nov 09, 2026 Styled ## Monochrome Monday: Winter White Nov 09, 2026 Business Nov 09, 2026 Business Copied # Resquad AI Raises $1.5M Ahead of KSA AI Recruitment Platform Launch Led by SRG, the seed round will support Resquad AI’s official launch and expansion across the GCC and international markets. Startup Scene Jan 18, 2026 Saudi Arabia–based talent management startup Resquad AI has raised $1.5"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of Resquad AI for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "sake-bosch",
+      "rank": 11,
+      "name": "Sake Bosch",
+      "kind": "fund",
+      "score": 35,
+      "breakdown": {
+        "similarDeals": 6,
+        "stageFit": 10,
+        "geoFit": 1.5,
+        "recency": 8.2,
+        "chequeFit": 9.7,
+        "reachability": 0
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months, leading 1 — closest: Alfa AI (seed, $1.3M). Alfa AI is close to you: Automates candidate discovery and evaluation without emphasizing interview automation. Invests at seed, not directly pre-seed, so stage fit is partial. No public intake route found — needs a warm intro.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1300000,
+        "medianUsd": 1300000,
+        "maxUsd": 1300000
+      },
+      "typicalCheque": "Joins $1.3M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "high",
+      "leadCount": 1,
+      "backed": [
+        {
+          "dealId": "ts-235b0368-fbc2-4967-817f-28fd1cfc0e6b",
+          "company": "Alfa AI",
+          "website": "https://welovealfa.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1300000,
+          "date": "2026-08-05",
+          "role": "lead",
+          "similarity": 0.7,
+          "similarityReason": "Automates candidate discovery and evaluation without emphasizing interview automation.",
+          "proofUrl": "https://businesscloud.co.uk/news/former-dragons-den-star-joins-alfa-ai-following-1m-investment/",
+          "proofExcerpt": "London-based Alfa AI was founded by Alfie Whattam, Ed Godshaw and Dr Linda Yu in 2025. Its AI-powered tool automates the hiring process by finding and screening top candidates and connecting them with employers. The latest £1m seed funding round was led by Sake Bosch, with participation from FirstDegree, Golden Egg Check and Black Green Capital. The funding will be used to accelerate product development and support the company’s expansion. Caan’s appointment comes at a pi"
+        }
+      ],
+      "outreach": []
+    },
+    {
+      "id": "earlybird",
+      "rank": 12,
+      "name": "Earlybird Venture Capital",
+      "kind": "fund",
+      "website": "https://earlybird.com/",
+      "score": 34,
+      "breakdown": {
+        "similarDeals": 15.1,
+        "stageFit": 7,
+        "geoFit": 1.5,
+        "recency": 7.8,
+        "chequeFit": 0.8,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 2 verified companies like yours in the last 12 months, leading 2 — closest: MONA AI (seed, $4.5M) and Firstwork (series-a, $15M). MONA AI is close to you: Provides AI recruiting agents that automate routine hiring workflows including interviews. Invests at seed/series-a, not directly pre-seed, so stage fit is partial.",
+      "stages": [
+        "seed",
+        "series-a"
+      ],
+      "roundSizeRange": {
+        "minUsd": 4500000,
+        "medianUsd": 15000000,
+        "maxUsd": 15000000
+      },
+      "typicalCheque": "Joins $4.5M–$15M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "high",
+      "leadCount": 2,
+      "backed": [
+        {
+          "dealId": "ts-6fea6c0e-4c0a-45e2-afbc-104e7f347a9e",
+          "company": "MONA AI",
+          "website": "https://mona-ai.de/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 4500000,
+          "date": "2026-06-01",
+          "role": "lead",
+          "similarity": 1,
+          "similarityReason": "Provides AI recruiting agents that automate routine hiring workflows including interviews.",
+          "proofUrl": "https://www.trysignalbase.com/news/funding/mona-ai-secures-44",
+          "proofExcerpt": "Earlybird Venture Capital has led a $4.4M seed funding round for MONA AI, the German startup developing an AI-powered suite designed to liberate HR teams from manual recruiting tasks. The investment will bolster MONA AI'"
+        },
+        {
+          "dealId": "ts-b4f3cc07-aca7-43c0-b688-0025206de819",
+          "company": "Firstwork",
+          "website": "https://firstwork.com/",
+          "stage": "series-a",
+          "roundLabel": "series-a",
+          "amountUsd": 15000000,
+          "date": "2026-10-21",
+          "role": "lead",
+          "similarity": 0.4,
+          "similarityReason": "Automates frontline workforce onboarding and hiring workflows rather than mid-market interviews.",
+          "proofUrl": "https://techfundingnews.com/firstwork-raises-15m-series-a-earlybird-frontline-workforce-onboarding/",
+          "proofExcerpt": "n took delivery shifts himself to better understand the role. He told *Tech Funding News* that the experience showed him there was room for improvement. Kapoor founded Firstwork in 2024, and the company has since raised $15 million in a Series A round led by Earlybird Venture Capital. Legion VC, Deel Ventures, and existing investors Gradient and Y Combinator joined the round, bringing Firstwork’s total funding to $20M. SOMA Capital, 468 Capital, and Houghton Street Ventures"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of MONA AI, Firstwork for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "golden-egg-check",
+      "rank": 13,
+      "name": "Golden Egg Check",
+      "kind": "fund",
+      "score": 34,
+      "breakdown": {
+        "similarDeals": 4.5,
+        "stageFit": 10,
+        "geoFit": 1.5,
+        "recency": 8.2,
+        "chequeFit": 9.7,
+        "reachability": 0
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: Alfa AI (seed, $1.3M). Alfa AI is close to you: Automates candidate discovery and evaluation without emphasizing interview automation. Invests at seed, not directly pre-seed, so stage fit is partial. No public intake route found — needs a warm intro.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1300000,
+        "medianUsd": 1300000,
+        "maxUsd": 1300000
+      },
+      "typicalCheque": "Joins $1.3M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "medium",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-235b0368-fbc2-4967-817f-28fd1cfc0e6b",
+          "company": "Alfa AI",
+          "website": "https://welovealfa.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1300000,
+          "date": "2026-08-05",
+          "role": "participant",
+          "similarity": 0.7,
+          "similarityReason": "Automates candidate discovery and evaluation without emphasizing interview automation.",
+          "proofUrl": "https://businesscloud.co.uk/news/former-dragons-den-star-joins-alfa-ai-following-1m-investment/",
+          "proofExcerpt": "am, Ed Godshaw and Dr Linda Yu in 2025. Its AI-powered tool automates the hiring process by finding and screening top candidates and connecting them with employers. The latest £1m seed funding round was led by Sake Bosch, with participation from FirstDegree, Golden Egg Check and Black Green Capital. The funding will be used to accelerate product development and support the company’s expansion. Caan’s appointment comes at a pivotal moment for the technology start-up as organ"
+        }
+      ],
+      "outreach": []
+    },
+    {
+      "id": "domino",
+      "rank": 14,
+      "name": "DOMiNO Ventures",
+      "kind": "fund",
+      "website": "https://www.scalevp.com/",
+      "score": 33,
+      "breakdown": {
+        "similarDeals": 6.5,
+        "stageFit": 10,
+        "geoFit": 1.5,
+        "recency": 3.2,
+        "chequeFit": 10,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: Helio AI (seed, $1M). Helio AI is close to you: Provides AI recruiting agents for candidate screening, ranking, and assessments. Invests at seed, not directly pre-seed, so stage fit is partial.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1000000,
+        "medianUsd": 1000000,
+        "maxUsd": 1000000
+      },
+      "typicalCheque": "Joins $1M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "medium",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-13087a9a-5e07-4d4a-9e7b-c4939a5f4753",
+          "company": "Helio AI",
+          "website": "https://helio-ai.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1000000,
+          "date": "2025-11-01",
+          "role": "participant",
+          "similarity": 1,
+          "similarityReason": "Provides AI recruiting agents for candidate screening, ranking, and assessments.",
+          "proofUrl": "https://helio-ai.com/blog-posts/helio-ai-secures-1m-seed-round-to-scale-its-ai-recruiting-agent-globally",
+          "proofExcerpt": "# Helio AI Secures $1M Seed Round to Scale Its AI Recruiting Agent Globally Helio AI, the US based AI-powered recruiting platform for high-volume and frontline hiring built by its Georgian team, has secured a **$1M seed round led by SABAH.fund**, joined by **DOMiNO Ventures, Axiom, Tetrad VC and Angel investor Bas Godska**. The new funding will be used to scale Helio’s AI Recruiting Agent globally, expand product capabilities, and transform how companies hire in fast-growing"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of Helio AI for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "axiom",
+      "rank": 15,
+      "name": "Axiom",
+      "kind": "fund",
+      "score": 33,
+      "breakdown": {
+        "similarDeals": 6.5,
+        "stageFit": 10,
+        "geoFit": 1.5,
+        "recency": 3.2,
+        "chequeFit": 10,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: Helio AI (seed, $1M). Helio AI is close to you: Provides AI recruiting agents for candidate screening, ranking, and assessments. Invests at seed, not directly pre-seed, so stage fit is partial.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1000000,
+        "medianUsd": 1000000,
+        "maxUsd": 1000000
+      },
+      "typicalCheque": "Joins $1M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "medium",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-13087a9a-5e07-4d4a-9e7b-c4939a5f4753",
+          "company": "Helio AI",
+          "website": "https://helio-ai.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1000000,
+          "date": "2025-11-01",
+          "role": "participant",
+          "similarity": 1,
+          "similarityReason": "Provides AI recruiting agents for candidate screening, ranking, and assessments.",
+          "proofUrl": "https://helio-ai.com/blog-posts/helio-ai-secures-1m-seed-round-to-scale-its-ai-recruiting-agent-globally",
+          "proofExcerpt": "s $1M Seed Round to Scale Its AI Recruiting Agent Globally Helio AI, the US based AI-powered recruiting platform for high-volume and frontline hiring built by its Georgian team, has secured a **$1M seed round led by SABAH.fund**, joined by **DOMiNO Ventures, Axiom, Tetrad VC and Angel investor Bas Godska**. The new funding will be used to scale Helio’s AI Recruiting Agent globally, expand product capabilities, and transform how companies hire in fast-growing markets. Helio"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of Helio AI for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "tetrad",
+      "rank": 16,
+      "name": "Tetrad VC",
+      "kind": "fund",
+      "score": 33,
+      "breakdown": {
+        "similarDeals": 6.5,
+        "stageFit": 10,
+        "geoFit": 1.5,
+        "recency": 3.2,
+        "chequeFit": 10,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: Helio AI (seed, $1M). Helio AI is close to you: Provides AI recruiting agents for candidate screening, ranking, and assessments. Invests at seed, not directly pre-seed, so stage fit is partial.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1000000,
+        "medianUsd": 1000000,
+        "maxUsd": 1000000
+      },
+      "typicalCheque": "Joins $1M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "medium",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-13087a9a-5e07-4d4a-9e7b-c4939a5f4753",
+          "company": "Helio AI",
+          "website": "https://helio-ai.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1000000,
+          "date": "2025-11-01",
+          "role": "participant",
+          "similarity": 1,
+          "similarityReason": "Provides AI recruiting agents for candidate screening, ranking, and assessments.",
+          "proofUrl": "https://helio-ai.com/blog-posts/helio-ai-secures-1m-seed-round-to-scale-its-ai-recruiting-agent-globally",
+          "proofExcerpt": "eed Round to Scale Its AI Recruiting Agent Globally Helio AI, the US based AI-powered recruiting platform for high-volume and frontline hiring built by its Georgian team, has secured a **$1M seed round led by SABAH.fund**, joined by **DOMiNO Ventures, Axiom, Tetrad VC and Angel investor Bas Godska**. The new funding will be used to scale Helio’s AI Recruiting Agent globally, expand product capabilities, and transform how companies hire in fast-growing markets. Helio AI comb"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of Helio AI for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "likeminded",
+      "rank": 17,
+      "name": "Likeminded.vc",
+      "kind": "fund",
+      "score": 32,
+      "breakdown": {
+        "similarDeals": 4.5,
+        "stageFit": 10,
+        "geoFit": 1.5,
+        "recency": 3.7,
+        "chequeFit": 10,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: Soolv (seed, $1M). Soolv is close to you: Uses predictive analysis for candidate screening rather than direct AI interview automation. Invests at seed, not directly pre-seed, so stage fit is partial.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1000000,
+        "medianUsd": 1000000,
+        "maxUsd": 1000000
+      },
+      "typicalCheque": "Joins $1M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "medium",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-ced3ad5d-0ede-4ee3-95b6-2cac8b50e8cf",
+          "company": "Soolv",
+          "website": "https://soolv.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1000000,
+          "date": "2025-12-01",
+          "role": "participant",
+          "similarity": 0.7,
+          "similarityReason": "Uses predictive analysis for candidate screening rather than direct AI interview automation.",
+          "proofUrl": "https://nordic9.com/news/soolv-raises-1m-pre-seed-with-likeminded-arkwright-x-and-byfounders-joined-by-angel-investors-in-norway/",
+          "proofExcerpt": "ith Likeminded, Arkwright X and byFounders, joined by angel investors in Norway AI Recruiting Software Services Investments 04 December 2025 Share: Round value (USD): 1m Round investors: Arkwright X ByFounders Fredrik Thomassen Christoffer Vikersveen Herheim Likeminded.vc CTO Roundtable Invest Håkon Heir Per A Marum Olav Folkstad Tor Daneshmand Company: Soolv Industry: AI Recruiting Software Services Surfact raised NOK 20 million in a seed round led by Skagerak Capital, joi"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of Soolv for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "byfounders",
+      "rank": 18,
+      "name": "ByFounders",
+      "kind": "fund",
+      "score": 32,
+      "breakdown": {
+        "similarDeals": 4.5,
+        "stageFit": 10,
+        "geoFit": 1.5,
+        "recency": 3.7,
+        "chequeFit": 10,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: Soolv (seed, $1M). Soolv is close to you: Uses predictive analysis for candidate screening rather than direct AI interview automation. Invests at seed, not directly pre-seed, so stage fit is partial.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1000000,
+        "medianUsd": 1000000,
+        "maxUsd": 1000000
+      },
+      "typicalCheque": "Joins $1M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "medium",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-ced3ad5d-0ede-4ee3-95b6-2cac8b50e8cf",
+          "company": "Soolv",
+          "website": "https://soolv.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1000000,
+          "date": "2025-12-01",
+          "role": "participant",
+          "similarity": 0.7,
+          "similarityReason": "Uses predictive analysis for candidate screening rather than direct AI interview automation.",
+          "proofUrl": "https://nordic9.com/news/soolv-raises-1m-pre-seed-with-likeminded-arkwright-x-and-byfounders-joined-by-angel-investors-in-norway/",
+          "proofExcerpt": "Soolv raises $1M pre-seed with Likeminded, Arkwright X and byFounders, joined by angel investors in Norway AI Recruiting Software Services Investments 04 December 2025 Share: Round value (USD): 1m Round investors: Arkwright X ByFounders Fredrik Thomassen Christoffer Vikersveen Herheim Likeminded.vc CTO Roundtable Invest Håkon Heir Per A Marum Olav Folkstad Tor Daneshmand Company: Soolv Industry: AI Recruiting Software Services Surfact raised"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of Soolv for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "cto-roundtable-invest",
+      "rank": 19,
+      "name": "CTO Roundtable Invest",
+      "kind": "fund",
+      "score": 32,
+      "breakdown": {
+        "similarDeals": 4.5,
+        "stageFit": 10,
+        "geoFit": 1.5,
+        "recency": 3.7,
+        "chequeFit": 10,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: Soolv (seed, $1M). Soolv is close to you: Uses predictive analysis for candidate screening rather than direct AI interview automation. Invests at seed, not directly pre-seed, so stage fit is partial.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1000000,
+        "medianUsd": 1000000,
+        "maxUsd": 1000000
+      },
+      "typicalCheque": "Joins $1M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "medium",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-ced3ad5d-0ede-4ee3-95b6-2cac8b50e8cf",
+          "company": "Soolv",
+          "website": "https://soolv.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1000000,
+          "date": "2025-12-01",
+          "role": "participant",
+          "similarity": 0.7,
+          "similarityReason": "Uses predictive analysis for candidate screening rather than direct AI interview automation.",
+          "proofUrl": "https://nordic9.com/news/soolv-raises-1m-pre-seed-with-likeminded-arkwright-x-and-byfounders-joined-by-angel-investors-in-norway/",
+          "proofExcerpt": ", Arkwright X and byFounders, joined by angel investors in Norway AI Recruiting Software Services Investments 04 December 2025 Share: Round value (USD): 1m Round investors: Arkwright X ByFounders Fredrik Thomassen Christoffer Vikersveen Herheim Likeminded.vc CTO Roundtable Invest Håkon Heir Per A Marum Olav Folkstad Tor Daneshmand Company: Soolv Industry: AI Recruiting Software Services Surfact raised NOK 20 million in a seed round led by Skagerak Capital, joined by Farvatn"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of Soolv for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "h-kon-heir",
+      "rank": 20,
+      "name": "Håkon Heir",
+      "kind": "fund",
+      "score": 32,
+      "breakdown": {
+        "similarDeals": 4.5,
+        "stageFit": 10,
+        "geoFit": 1.5,
+        "recency": 3.7,
+        "chequeFit": 10,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: Soolv (seed, $1M). Soolv is close to you: Uses predictive analysis for candidate screening rather than direct AI interview automation. Invests at seed, not directly pre-seed, so stage fit is partial.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1000000,
+        "medianUsd": 1000000,
+        "maxUsd": 1000000
+      },
+      "typicalCheque": "Joins $1M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "medium",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-ced3ad5d-0ede-4ee3-95b6-2cac8b50e8cf",
+          "company": "Soolv",
+          "website": "https://soolv.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1000000,
+          "date": "2025-12-01",
+          "role": "participant",
+          "similarity": 0.7,
+          "similarityReason": "Uses predictive analysis for candidate screening rather than direct AI interview automation.",
+          "proofUrl": "https://nordic9.com/news/soolv-raises-1m-pre-seed-with-likeminded-arkwright-x-and-byfounders-joined-by-angel-investors-in-norway/",
+          "proofExcerpt": "unders, joined by angel investors in Norway AI Recruiting Software Services Investments 04 December 2025 Share: Round value (USD): 1m Round investors: Arkwright X ByFounders Fredrik Thomassen Christoffer Vikersveen Herheim Likeminded.vc CTO Roundtable Invest Håkon Heir Per A Marum Olav Folkstad Tor Daneshmand Company: Soolv Industry: AI Recruiting Software Services Surfact raised NOK 20 million in a seed round led by Skagerak Capital, joined by Farvatn Venture and angel inv"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of Soolv for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "nexus",
+      "rank": 21,
+      "name": "Nexus Venture Partners",
+      "kind": "fund",
+      "score": 32,
+      "breakdown": {
+        "similarDeals": 6,
+        "stageFit": 10,
+        "geoFit": 1.5,
+        "recency": 6.8,
+        "chequeFit": 5.6,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months, leading 1 — closest: Contrario (seed, $2.3M). Contrario is close to you: Pairs human recruiters with AI agents handling candidate research and sourcing. Invests at seed, not directly pre-seed, so stage fit is partial.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 2300000,
+        "medianUsd": 2300000,
+        "maxUsd": 2300000
+      },
+      "typicalCheque": "Joins $2.3M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "high",
+      "leadCount": 1,
+      "backed": [
+        {
+          "dealId": "ts-1c4c7079-4752-43c4-9bf2-bb54117b62b3",
+          "company": "Contrario",
+          "website": "https://contrario.ai/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 2300000,
+          "date": "2026-05-20",
+          "role": "lead",
+          "similarity": 0.7,
+          "similarityReason": "Pairs human recruiters with AI agents handling candidate research and sourcing.",
+          "proofUrl": "https://www.citybiz.co/article/850778/contrario-raises-2-3m-seed-round-to-expand-ai-powered-recruiting-platform/",
+          "proofExcerpt": "Arya Marwaha San Francisco-based **Contrario** has **raised $2.3 million** in a **seed round** led by **Nexus Venture Partners**, with participation from **Inventum Ventures, Goodwater Capital**, and other angel investors. The company said it has reached $6 million in annual revenue and has paid out over $1 million to its"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of Contrario for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "scribble",
+      "rank": 22,
+      "name": "Scribble Ventures",
+      "kind": "fund",
+      "score": 32,
+      "breakdown": {
+        "similarDeals": 4.5,
+        "stageFit": 10,
+        "geoFit": 4.5,
+        "recency": 9.6,
+        "chequeFit": 1.6,
+        "reachability": 2
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: Jooba (seed, $4M). Jooba is close to you: Employs custom AI agents alongside human reviewers to help companies hire faster. Invests at seed, not directly pre-seed, so stage fit is partial.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 4000000,
+        "medianUsd": 4000000,
+        "maxUsd": 4000000
+      },
+      "typicalCheque": "Joins $4M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "medium",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "se-o6b58aq",
+          "company": "Jooba",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 4000000,
+          "date": "2026-10-20",
+          "role": "participant",
+          "similarity": 0.7,
+          "similarityReason": "Employs custom AI agents alongside human reviewers to help companies hire faster.",
+          "proofUrl": "https://techfundingnews.com/pitch-deck-ai-recruiting-startup-jooba-raises-4m-seed-from-a16z-speedrun-scribble-ventures-and-genius-ventures/",
+          "proofExcerpt": "# Pitch deck: AI recruiting startup Jooba raises $4M seed from a16z speedrun, Scribble Ventures, and Genius Ventures bySofia Chesnokova October 20, 2026 3 minute read Image credits: Jooba Total 0 Shares 0 0 0 0 Jooba secured $4 million in seed funding from a16z speedrun, Scribble V"
+        }
+      ],
+      "outreach": [
+        {
+          "type": "warm_intro",
+          "detail": "No public intake found. Ask the founders of Jooba for an introduction.",
+          "source": "derived"
+        }
+      ]
+    },
+    {
+      "id": "bas-godska",
+      "rank": 23,
+      "name": "Bas Godska",
+      "kind": "fund",
+      "score": 31,
+      "breakdown": {
+        "similarDeals": 6.5,
+        "stageFit": 10,
+        "geoFit": 1.5,
+        "recency": 3.2,
+        "chequeFit": 10,
+        "reachability": 0
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: Helio AI (seed, $1M). Helio AI is close to you: Provides AI recruiting agents for candidate screening, ranking, and assessments. Invests at seed, not directly pre-seed, so stage fit is partial. No public intake route found — needs a warm intro.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1000000,
+        "medianUsd": 1000000,
+        "maxUsd": 1000000
+      },
+      "typicalCheque": "Joins $1M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "medium",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-13087a9a-5e07-4d4a-9e7b-c4939a5f4753",
+          "company": "Helio AI",
+          "website": "https://helio-ai.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1000000,
+          "date": "2025-11-01",
+          "role": "participant",
+          "similarity": 1,
+          "similarityReason": "Provides AI recruiting agents for candidate screening, ranking, and assessments.",
+          "proofUrl": "https://helio-ai.com/blog-posts/helio-ai-secures-1m-seed-round-to-scale-its-ai-recruiting-agent-globally",
+          "proofExcerpt": "ruiting Agent Globally Helio AI, the US based AI-powered recruiting platform for high-volume and frontline hiring built by its Georgian team, has secured a **$1M seed round led by SABAH.fund**, joined by **DOMiNO Ventures, Axiom, Tetrad VC and Angel investor Bas Godska**. The new funding will be used to scale Helio’s AI Recruiting Agent globally, expand product capabilities, and transform how companies hire in fast-growing markets. Helio AI combines an intelligent recruitin"
+        }
+      ],
+      "outreach": []
+    },
+    {
+      "id": "arkwright-x",
+      "rank": 24,
+      "name": "Arkwright X",
+      "kind": "fund",
+      "score": 30,
+      "breakdown": {
+        "similarDeals": 4.5,
+        "stageFit": 10,
+        "geoFit": 1.5,
+        "recency": 3.7,
+        "chequeFit": 10,
+        "reachability": 0
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: Soolv (seed, $1M). Soolv is close to you: Uses predictive analysis for candidate screening rather than direct AI interview automation. Invests at seed, not directly pre-seed, so stage fit is partial. No public intake route found — needs a warm intro.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1000000,
+        "medianUsd": 1000000,
+        "maxUsd": 1000000
+      },
+      "typicalCheque": "Joins $1M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "medium",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-ced3ad5d-0ede-4ee3-95b6-2cac8b50e8cf",
+          "company": "Soolv",
+          "website": "https://soolv.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1000000,
+          "date": "2025-12-01",
+          "role": "participant",
+          "similarity": 0.7,
+          "similarityReason": "Uses predictive analysis for candidate screening rather than direct AI interview automation.",
+          "proofUrl": "https://nordic9.com/news/soolv-raises-1m-pre-seed-with-likeminded-arkwright-x-and-byfounders-joined-by-angel-investors-in-norway/",
+          "proofExcerpt": "Soolv raises $1M pre-seed with Likeminded, Arkwright X and byFounders, joined by angel investors in Norway AI Recruiting Software Services Investments 04 December 2025 Share: Round value (USD): 1m Round investors: Arkwright X ByFounders Fredrik Thomassen Christo"
+        }
+      ],
+      "outreach": []
+    },
+    {
+      "id": "fredrik-thomassen",
+      "rank": 25,
+      "name": "Fredrik Thomassen",
+      "kind": "fund",
+      "score": 30,
+      "breakdown": {
+        "similarDeals": 4.5,
+        "stageFit": 10,
+        "geoFit": 1.5,
+        "recency": 3.7,
+        "chequeFit": 10,
+        "reachability": 0
+      },
+      "whyRanked": "Backed 1 verified company like yours in the last 12 months — closest: Soolv (seed, $1M). Soolv is close to you: Uses predictive analysis for candidate screening rather than direct AI interview automation. Invests at seed, not directly pre-seed, so stage fit is partial. No public intake route found — needs a warm intro.",
+      "stages": [
+        "seed"
+      ],
+      "roundSizeRange": {
+        "minUsd": 1000000,
+        "medianUsd": 1000000,
+        "maxUsd": 1000000
+      },
+      "typicalCheque": "Joins $1M rounds; own cheque not disclosed",
+      "chequeBasis": "round-sizes",
+      "confidence": "medium",
+      "leadCount": 0,
+      "backed": [
+        {
+          "dealId": "ts-ced3ad5d-0ede-4ee3-95b6-2cac8b50e8cf",
+          "company": "Soolv",
+          "website": "https://soolv.com/",
+          "stage": "seed",
+          "roundLabel": "seed",
+          "amountUsd": 1000000,
+          "date": "2025-12-01",
+          "role": "participant",
+          "similarity": 0.7,
+          "similarityReason": "Uses predictive analysis for candidate screening rather than direct AI interview automation.",
+          "proofUrl": "https://nordic9.com/news/soolv-raises-1m-pre-seed-with-likeminded-arkwright-x-and-byfounders-joined-by-angel-investors-in-norway/",
+          "proofExcerpt": "Soolv raises $1M pre-seed with Likeminded, Arkwright X and byFounders, joined by angel investors in Norway AI Recruiting Software Services Investments 04 December 2025 Share: Round value (USD): 1m Round investors: Arkwright X ByFounders Fredrik Thomassen Christoffer Vikersveen Herheim Likeminded.vc CTO Roundtable Invest Håkon Heir Per A Marum Olav Folkstad Tor Daneshmand Company: Soolv Industry: AI Recruiting Software Services Surfact raised NOK 20 mil"
+        }
+      ],
+      "outreach": []
+    }
+  ],
+  "companies": [
+    {
+      "id": "ts-7e5365e7-3c8d-4eee-ae6e-310b1f63deeb",
+      "company": "Ezra",
+      "website": "https://ezrarecruiting.com/",
+      "description": "Voice AI interviewing platform that automates candidate screening and shortlisting through structured voice conversations with scoring and ATS integration.",
+      "hq": "United States",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 3200000,
+      "date": "2026-03-18",
+      "leadInvestor": "Penny Jar Capital and LMNT Ventures (co-led)",
+      "investors": [
+        "LMNT Ventures (co-led)",
+        "Penny Jar Capital",
+        "LMNT Ventures",
+        "a16z Speedrun",
+        "Telegraph Hill Capital"
+      ],
+      "sourceUrl": "https://hrtechfeed.com/voice-ai-interview-platform-lands-3-2m-seed-round",
+      "origin": "tinyset",
+      "similarity": 1,
+      "verified": true,
+      "verifiedInvestors": [
+        "Penny Jar Capital",
+        "LMNT Ventures",
+        "a16z Speedrun",
+        "Telegraph Hill Capital"
+      ],
+      "similarityReason": "Voice AI interviewing platform that automates candidate screening and shortlisting for hiring teams.",
+      "evidence": {
+        "Penny Jar Capital": "me3 Minute, 26 Second SAN FRANCISCO — Ezra, a voice AI interviewing platform built for recruiting teams looking for reliable signals to assess talent, and candidates who want to be heard, announced today that it has raised a $3.2 million seed round co-led by Penny Jar Capital and LMNT Ventures, with participation from a16z Speedrun and Telegraph Hill Capital. The funding comes as recruiting teams face a worsening hiring crisis as technology advances. Application volume has",
+        "LMNT Ventures": "SAN FRANCISCO — Ezra, a voice AI interviewing platform built for recruiting teams looking for reliable signals to assess talent, and candidates who want to be heard, announced today that it has raised a $3.2 million seed round co-led by Penny Jar Capital and LMNT Ventures, with participation from a16z Speedrun and Telegraph Hill Capital. The funding comes as recruiting teams face a worsening hiring crisis as technology advances. Application volume has nearly tripled since 2",
+        "a16z Speedrun": "viewing platform built for recruiting teams looking for reliable signals to assess talent, and candidates who want to be heard, announced today that it has raised a $3.2 million seed round co-led by Penny Jar Capital and LMNT Ventures, with participation from a16z Speedrun and Telegraph Hill Capital. The funding comes as recruiting teams face a worsening hiring crisis as technology advances. Application volume has nearly tripled since 2021. Recruiters are now screening 1,000",
+        "Telegraph Hill Capital": "uilt for recruiting teams looking for reliable signals to assess talent, and candidates who want to be heard, announced today that it has raised a $3.2 million seed round co-led by Penny Jar Capital and LMNT Ventures, with participation from a16z Speedrun and Telegraph Hill Capital. The funding comes as recruiting teams face a worsening hiring crisis as technology advances. Application volume has nearly tripled since 2021. Recruiters are now screening 1,000+ applications per"
+      },
+      "proofUrl": "https://hrtechfeed.com/voice-ai-interview-platform-lands-3-2m-seed-round/",
+      "proofExcerpt": "me3 Minute, 26 Second SAN FRANCISCO — Ezra, a voice AI interviewing platform built for recruiting teams looking for reliable signals to assess talent, and candidates who want to be heard, announced today that it has raised a $3.2 million seed round co-led by Penny Jar Capital and LMNT Ventures, with participation from a16z Speedrun and Telegraph Hill Capital. The funding comes as recruiting teams face a worsening hiring crisis as technology advances. Application volume has",
+      "people": [
+        {
+          "investor": "Penny Jar Capital",
+          "name": "Bryant Barr",
+          "role": "Founding Partner"
+        },
+        {
+          "investor": "LMNT Ventures",
+          "name": "Jeff Miller",
+          "role": "Founding Partner"
+        }
+      ]
+    },
+    {
+      "id": "ts-e457b1b5-e280-4da8-876e-750ead58d0b1",
+      "company": "HeyMilo",
+      "website": "https://heymilo.ai/",
+      "description": "AI-powered candidate screening platform whose agents automate initial interview screening and shortlisting for high-volume hiring teams.",
+      "hq": "United States",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 6000000,
+      "date": "2026-06-16",
+      "leadInvestor": "Category Ventures",
+      "investors": [
+        "Category Ventures",
+        "Canaan Partners",
+        "Alumni Ventures",
+        "Remarkable Ventures",
+        "ERA"
+      ],
+      "sourceUrl": "https://blog.heymilo.ai/heymilo-raises-6-million",
+      "origin": "tinyset",
+      "similarity": 1,
+      "verified": true,
+      "verifiedInvestors": [
+        "Category Ventures",
+        "Canaan Partners",
+        "Alumni Ventures",
+        "Remarkable Ventures"
+      ],
+      "similarityReason": "AI-powered screening platform automating initial interview screening and shortlisting.",
+      "evidence": {
+        "Category Ventures": "News Funding Product Launch # HeyMilo Raises $6 Million to Scale Agentic Recruiting for High-Volume Hiring Sabashan Ragavan June 16, 2026 3 min read Jump to TL;DR Today we’re announcing **$6 million in total funding** for HeyMilo, led by Category Ventures with participation from Canaan Partners, Alumni Ventures, and Remarkable Ventures. We’re also launching three new agent types that bring deeper capabilities to our customers: **Candidate Recommendations",
+        "Canaan Partners": "ch # HeyMilo Raises $6 Million to Scale Agentic Recruiting for High-Volume Hiring Sabashan Ragavan June 16, 2026 3 min read Jump to TL;DR Today we’re announcing **$6 million in total funding** for HeyMilo, led by Category Ventures with participation from Canaan Partners, Alumni Ventures, and Remarkable Ventures. We’re also launching three new agent types that bring deeper capabilities to our customers: **Candidate Recommendations**, **AI Scenario Assessment**, and **Note",
+        "Alumni Ventures": "ses $6 Million to Scale Agentic Recruiting for High-Volume Hiring Sabashan Ragavan June 16, 2026 3 min read Jump to TL;DR Today we’re announcing **$6 million in total funding** for HeyMilo, led by Category Ventures with participation from Canaan Partners, Alumni Ventures, and Remarkable Ventures. We’re also launching three new agent types that bring deeper capabilities to our customers: **Candidate Recommendations**, **AI Scenario Assessment**, and **Notetaker**. Together",
+        "Remarkable Ventures": "le Agentic Recruiting for High-Volume Hiring Sabashan Ragavan June 16, 2026 3 min read Jump to TL;DR Today we’re announcing **$6 million in total funding** for HeyMilo, led by Category Ventures with participation from Canaan Partners, Alumni Ventures, and Remarkable Ventures. We’re also launching three new agent types that bring deeper capabilities to our customers: **Candidate Recommendations**, **AI Scenario Assessment**, and **Notetaker**. Together they extend our agen"
+      },
+      "proofUrl": "https://blog.heymilo.ai/heymilo-raises-6-million",
+      "proofExcerpt": "News Funding Product Launch # HeyMilo Raises $6 Million to Scale Agentic Recruiting for High-Volume Hiring Sabashan Ragavan June 16, 2026 3 min read Jump to TL;DR Today we’re announcing **$6 million in total funding** for HeyMilo, led by Category Ventures with participation from Canaan Partners, Alumni Ventures, and Remarkable Ventures. We’re also launching three new agent types that bring deeper capabilities to our customers: **Candidate Recommendations"
+    },
+    {
+      "id": "ts-8f530307-8113-40e1-9bc3-9f918d9079ce",
+      "company": "lizzyAI",
+      "website": "https://lizzy-ai.com/",
+      "description": "Conducts adaptive, structured AI interviews to evaluate candidates and help employers make hiring decisions.",
+      "hq": "United States",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 5000000,
+      "date": "2025-12-01",
+      "leadInvestor": "New Enterprise Associates (NEA)",
+      "investors": [
+        "New Enterprise Associates (NEA)",
+        "Speedinvest",
+        "Zero Prime Ventures"
+      ],
+      "sourceUrl": "https://finsmes.com/2025/12/lizzyai-raises-5m-in-seed-funding.html",
+      "origin": "tinyset",
+      "similarity": 1,
+      "verified": true,
+      "verifiedInvestors": [
+        "Speedinvest",
+        "Zero Prime Ventures"
+      ],
+      "similarityReason": "Conducts structured AI interviews to evaluate candidates and assist employer hiring decisions.",
+      "evidence": {
+        "Speedinvest": "zzyAI Raises $5M in Seed Funding By FinSMEs - December 2, 2025 Facebook Twitter WhatsApp Linkedin **LizzyAI**, a NYC-based provider of an AI-native interviewing platform, raised $5M in Seed funding. The round was led by NEA, with participation from Speedinvest and Zero Prime Ventures. The company intends to use the funds to grow its engineering and go-to-market teams, expand integrations, and deepen its AI-powered interview engine. Founded by CEO Yannis Niebelsch",
+        "Zero Prime Ventures": "in Seed Funding By FinSMEs - December 2, 2025 Facebook Twitter WhatsApp Linkedin **LizzyAI**, a NYC-based provider of an AI-native interviewing platform, raised $5M in Seed funding. The round was led by NEA, with participation from Speedinvest and Zero Prime Ventures. The company intends to use the funds to grow its engineering and go-to-market teams, expand integrations, and deepen its AI-powered interview engine. Founded by CEO Yannis Niebelschuetz, LizzyAI an"
+      },
+      "proofUrl": "https://www.finsmes.com/2025/12/lizzyai-raises-5m-in-seed-funding.html",
+      "proofExcerpt": "zzyAI Raises $5M in Seed Funding By FinSMEs - December 2, 2025 Facebook Twitter WhatsApp Linkedin **LizzyAI**, a NYC-based provider of an AI-native interviewing platform, raised $5M in Seed funding. The round was led by NEA, with participation from Speedinvest and Zero Prime Ventures. The company intends to use the funds to grow its engineering and go-to-market teams, expand integrations, and deepen its AI-powered interview engine. Founded by CEO Yannis Niebelsch"
+    },
+    {
+      "id": "ts-13087a9a-5e07-4d4a-9e7b-c4939a5f4753",
+      "company": "Helio AI",
+      "website": "https://helio-ai.com/",
+      "description": "Provides an AI recruiting agent that automates candidate communication, screening, ranking and assessments for high-volume hiring.",
+      "hq": "United States",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 1000000,
+      "date": "2025-11-01",
+      "leadInvestor": "SABAH.fund",
+      "investors": [
+        "SABAH.fund",
+        "DOMiNO Ventures",
+        "Axiom",
+        "Tetrad VC",
+        "Bas Godska"
+      ],
+      "sourceUrl": "https://helio-ai.com/blog-posts/helio-ai-secures-1m-seed-round-to-scale-its-ai-recruiting-agent-globally",
+      "origin": "tinyset",
+      "similarity": 1,
+      "verified": true,
+      "verifiedInvestors": [
+        "SABAH.fund",
+        "DOMiNO Ventures",
+        "Axiom",
+        "Tetrad VC",
+        "Bas Godska"
+      ],
+      "similarityReason": "Provides AI recruiting agents for candidate screening, ranking, and assessments.",
+      "evidence": {
+        "SABAH.fund": "Nov 25, 2025 # Helio AI Secures $1M Seed Round to Scale Its AI Recruiting Agent Globally Helio AI, the US based AI-powered recruiting platform for high-volume and frontline hiring built by its Georgian team, has secured a **$1M seed round led by SABAH.fund**, joined by **DOMiNO Ventures, Axiom, Tetrad VC and Angel investor Bas Godska**. The new funding will be used to scale Helio’s AI Recruiting Agent globally, expand product capabilities, and transform how comp",
+        "DOMiNO Ventures": "# Helio AI Secures $1M Seed Round to Scale Its AI Recruiting Agent Globally Helio AI, the US based AI-powered recruiting platform for high-volume and frontline hiring built by its Georgian team, has secured a **$1M seed round led by SABAH.fund**, joined by **DOMiNO Ventures, Axiom, Tetrad VC and Angel investor Bas Godska**. The new funding will be used to scale Helio’s AI Recruiting Agent globally, expand product capabilities, and transform how companies hire in fast-growing",
+        "Axiom": "s $1M Seed Round to Scale Its AI Recruiting Agent Globally Helio AI, the US based AI-powered recruiting platform for high-volume and frontline hiring built by its Georgian team, has secured a **$1M seed round led by SABAH.fund**, joined by **DOMiNO Ventures, Axiom, Tetrad VC and Angel investor Bas Godska**. The new funding will be used to scale Helio’s AI Recruiting Agent globally, expand product capabilities, and transform how companies hire in fast-growing markets. Helio",
+        "Tetrad VC": "eed Round to Scale Its AI Recruiting Agent Globally Helio AI, the US based AI-powered recruiting platform for high-volume and frontline hiring built by its Georgian team, has secured a **$1M seed round led by SABAH.fund**, joined by **DOMiNO Ventures, Axiom, Tetrad VC and Angel investor Bas Godska**. The new funding will be used to scale Helio’s AI Recruiting Agent globally, expand product capabilities, and transform how companies hire in fast-growing markets. Helio AI comb",
+        "Bas Godska": "ruiting Agent Globally Helio AI, the US based AI-powered recruiting platform for high-volume and frontline hiring built by its Georgian team, has secured a **$1M seed round led by SABAH.fund**, joined by **DOMiNO Ventures, Axiom, Tetrad VC and Angel investor Bas Godska**. The new funding will be used to scale Helio’s AI Recruiting Agent globally, expand product capabilities, and transform how companies hire in fast-growing markets. Helio AI combines an intelligent recruitin"
+      },
+      "proofUrl": "https://helio-ai.com/blog-posts/helio-ai-secures-1m-seed-round-to-scale-its-ai-recruiting-agent-globally",
+      "proofExcerpt": "Nov 25, 2025 # Helio AI Secures $1M Seed Round to Scale Its AI Recruiting Agent Globally Helio AI, the US based AI-powered recruiting platform for high-volume and frontline hiring built by its Georgian team, has secured a **$1M seed round led by SABAH.fund**, joined by **DOMiNO Ventures, Axiom, Tetrad VC and Angel investor Bas Godska**. The new funding will be used to scale Helio’s AI Recruiting Agent globally, expand product capabilities, and transform how comp",
+      "people": [
+        {
+          "investor": "SABAH.fund",
+          "name": "Abbas Kazmi",
+          "role": "Managing Partner"
+        }
+      ]
+    },
+    {
+      "id": "ts-79c56a47-0b39-456b-8050-75ce516b9fea",
+      "company": "NovaHiring",
+      "website": "https://novahiring.com/en",
+      "description": "Deploys AI recruiting agents to automate candidate sourcing, qualification, interviewing and hiring workflows.",
+      "hq": "Spain",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 414000,
+      "date": "2026-01-01",
+      "leadInvestor": "Solvo Global, Angels Capital",
+      "investors": [
+        "Solvo Global",
+        "Angels Capital"
+      ],
+      "sourceUrl": "https://capital-riesgo.es/en/articles/novahiring-closes-350-000-pre-seed-round-with-participation-from-angels",
+      "origin": "tinyset",
+      "similarity": 1,
+      "verified": false,
+      "verifiedInvestors": [],
+      "similarityReason": "Deploys AI recruiting agents to automate interviewing and qualification workflows."
+    },
+    {
+      "id": "ts-7edc0d6c-3781-4363-b74b-865152e1e5b3",
+      "company": "Meet Caria",
+      "website": "https://meetcaria.ai/",
+      "description": "Provides AI-powered recruiting software that automates job creation, candidate sourcing, screening, interviews and evaluations.",
+      "hq": "United States",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 1000000,
+      "date": "2026-01-01",
+      "leadInvestor": "ANF Investment",
+      "investors": [
+        "ANF Investment"
+      ],
+      "sourceUrl": "https://finsmes.com/2026/01/meet-caria-raises-1m-in-pre-seed-funding.html",
+      "origin": "tinyset",
+      "similarity": 1,
+      "verified": true,
+      "verifiedInvestors": [
+        "ANF Investment"
+      ],
+      "similarityReason": "Automates candidate screening, interviews, and evaluations through AI-powered software.",
+      "evidence": {
+        "ANF Investment": "USA # Meet Caria Raises $1M in Pre-Seed Funding By FinSMEs - January 14, 2026 Facebook Twitter WhatsApp Linkedin **Meet Caria**, a NYC-based AI-native recruitment software company, raised $1M in Pre-Seed funding. The round was led by ANF Investment. The company intends to use the funds to further develop Caria, its AI-based recruitment platform, which supports hiring workflows including job creation, candidate sourcing, interviewing, and candidate e"
+      },
+      "proofUrl": "https://www.finsmes.com/2026/01/meet-caria-raises-1m-in-pre-seed-funding.html",
+      "proofExcerpt": "USA # Meet Caria Raises $1M in Pre-Seed Funding By FinSMEs - January 14, 2026 Facebook Twitter WhatsApp Linkedin **Meet Caria**, a NYC-based AI-native recruitment software company, raised $1M in Pre-Seed funding. The round was led by ANF Investment. The company intends to use the funds to further develop Caria, its AI-based recruitment platform, which supports hiring workflows including job creation, candidate sourcing, interviewing, and candidate e"
+    },
+    {
+      "id": "ts-83dfd7fc-cf9b-4485-ae81-a34263afc431",
+      "company": "Elly",
+      "website": "https://elly.ai/",
+      "description": "Provides an AI-native recruiting platform combining candidate sourcing, interviewing and applicant tracking.",
+      "hq": "United States",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 8000000,
+      "date": "2026-02-01",
+      "leadInvestor": "Sorenson Capital",
+      "investors": [
+        "Sorenson Capital",
+        "Atomic",
+        "Next Wave Capital"
+      ],
+      "sourceUrl": "https://prnewswire.com/news-releases/elly-debuts-ai-native-hiring-platform-and-raises-funding-led-by-sorenson-capital-302696511.html",
+      "origin": "tinyset",
+      "similarity": 1,
+      "verified": true,
+      "verifiedInvestors": [
+        "Sorenson Capital",
+        "Atomic",
+        "Next Wave Capital"
+      ],
+      "similarityReason": "AI-native recruiting platform combining candidate sourcing, interviewing, and tracking.",
+      "evidence": {
+        "Sorenson Capital": "Elly Adapts to Your Recruiting Workflow, Bringing Clarity and Focus in High-Volume Hiring NEW YORK, Feb. 25, 2026 /PRNewswire/ -- Elly today announced the launch of its AI-native hiring platform along with $8 million in funding led by Sorenson Capital, with participation from Atomic and Next Wave Capital. Rob Rueckert, partner at Sorenson Capital's venture and growth funds, will join Elly's board of directors. Rather than stitching together standalon",
+        "Atomic": "r Recruiting Workflow, Bringing Clarity and Focus in High-Volume Hiring NEW YORK, Feb. 25, 2026 /PRNewswire/ -- Elly today announced the launch of its AI-native hiring platform along with $8 million in funding led by Sorenson Capital, with participation from Atomic and Next Wave Capital. Rob Rueckert, partner at Sorenson Capital's venture and growth funds, will join Elly's board of directors. Rather than stitching together standalone tools or asking recruiters to maintain r",
+        "Next Wave Capital": "g Workflow, Bringing Clarity and Focus in High-Volume Hiring NEW YORK, Feb. 25, 2026 /PRNewswire/ -- Elly today announced the launch of its AI-native hiring platform along with $8 million in funding led by Sorenson Capital, with participation from Atomic and Next Wave Capital. Rob Rueckert, partner at Sorenson Capital's venture and growth funds, will join Elly's board of directors. Rather than stitching together standalone tools or asking recruiters to maintain rigid workfl"
+      },
+      "proofUrl": "https://www.prnewswire.com/news-releases/elly-debuts-ai-native-hiring-platform-and-raises-funding-led-by-sorenson-capital-302696511.html",
+      "proofExcerpt": "Elly Adapts to Your Recruiting Workflow, Bringing Clarity and Focus in High-Volume Hiring NEW YORK, Feb. 25, 2026 /PRNewswire/ -- Elly today announced the launch of its AI-native hiring platform along with $8 million in funding led by Sorenson Capital, with participation from Atomic and Next Wave Capital. Rob Rueckert, partner at Sorenson Capital's venture and growth funds, will join Elly's board of directors. Rather than stitching together standalon",
+      "people": [
+        {
+          "investor": "Sorenson Capital",
+          "name": "Rob Rueckert",
+          "role": "partner"
+        }
+      ]
+    },
+    {
+      "id": "ts-da264add-b67d-446e-bb13-fd1914e26dc1",
+      "company": "Qureos",
+      "website": "https://qureos.com/",
+      "description": "Provides an AI recruiting platform that automates candidate sourcing, matching, screening and interviewing for employers.",
+      "hq": "United Arab Emirates",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 5000000,
+      "date": "2026-02-01",
+      "leadInvestor": "Prosus Ventures",
+      "investors": [
+        "Prosus Ventures",
+        "Salica Oryx Fund",
+        "Oraseya Capital",
+        "Plus VC",
+        "F6 Ventures",
+        "BDev Ventures",
+        "Sunny Side Venture Partners",
+        "Daniel Tyre",
+        "COTU Ventures",
+        "Globivest"
+      ],
+      "sourceUrl": "https://finsmes.com/2026/02/queros-raises-5m-in-seed-funding.html",
+      "origin": "tinyset",
+      "similarity": 1,
+      "verified": true,
+      "verifiedInvestors": [
+        "Prosus Ventures",
+        "Salica Oryx Fund",
+        "Oraseya Capital",
+        "Plus VC",
+        "F6 Ventures",
+        "BDev Ventures",
+        "Sunny Side Venture Partners",
+        "Daniel Tyre",
+        "COTU Ventures",
+        "Globivest"
+      ],
+      "similarityReason": "AI recruiting platform automating screening and interviewing for employers.",
+      "evidence": {
+        "Prosus Ventures": "UAE # Queros Raises $5M in Seed Funding By FinSMEs - February 4, 2026 Facebook Twitter WhatsApp Linkedin **Qureos**, a Dubai, UAE-based provider of an AI driven hiring platform, raised US$5M in Seed funding. The round was led by Prosus Ventures and Salica Oryx Fund, with participation from Oraseya Capital, Plus VC, F6 Ventures, BDev Ventures, Sunny Side Venture Partners, Daniel Tyre, COTU Ventures and Globivest. The company intends to use the f",
+        "Salica Oryx Fund": "AE # Queros Raises $5M in Seed Funding By FinSMEs - February 4, 2026 Facebook Twitter WhatsApp Linkedin **Qureos**, a Dubai, UAE-based provider of an AI driven hiring platform, raised US$5M in Seed funding. The round was led by Prosus Ventures and Salica Oryx Fund, with participation from Oraseya Capital, Plus VC, F6 Ventures, BDev Ventures, Sunny Side Venture Partners, Daniel Tyre, COTU Ventures and Globivest. The company intends to use the funds to further deve",
+        "Oraseya Capital": "y FinSMEs - February 4, 2026 Facebook Twitter WhatsApp Linkedin **Qureos**, a Dubai, UAE-based provider of an AI driven hiring platform, raised US$5M in Seed funding. The round was led by Prosus Ventures and Salica Oryx Fund, with participation from Oraseya Capital, Plus VC, F6 Ventures, BDev Ventures, Sunny Side Venture Partners, Daniel Tyre, COTU Ventures and Globivest. The company intends to use the funds to further develop its AI capabilities, expand its go to",
+        "Plus VC": "ruary 4, 2026 Facebook Twitter WhatsApp Linkedin **Qureos**, a Dubai, UAE-based provider of an AI driven hiring platform, raised US$5M in Seed funding. The round was led by Prosus Ventures and Salica Oryx Fund, with participation from Oraseya Capital, Plus VC, F6 Ventures, BDev Ventures, Sunny Side Venture Partners, Daniel Tyre, COTU Ventures and Globivest. The company intends to use the funds to further develop its AI capabilities, expand its go to market team, and",
+        "F6 Ventures": "2026 Facebook Twitter WhatsApp Linkedin **Qureos**, a Dubai, UAE-based provider of an AI driven hiring platform, raised US$5M in Seed funding. The round was led by Prosus Ventures and Salica Oryx Fund, with participation from Oraseya Capital, Plus VC, F6 Ventures, BDev Ventures, Sunny Side Venture Partners, Daniel Tyre, COTU Ventures and Globivest. The company intends to use the funds to further develop its AI capabilities, expand its go to market team, and accelerat",
+        "BDev Ventures": "k Twitter WhatsApp Linkedin **Qureos**, a Dubai, UAE-based provider of an AI driven hiring platform, raised US$5M in Seed funding. The round was led by Prosus Ventures and Salica Oryx Fund, with participation from Oraseya Capital, Plus VC, F6 Ventures, BDev Ventures, Sunny Side Venture Partners, Daniel Tyre, COTU Ventures and Globivest. The company intends to use the funds to further develop its AI capabilities, expand its go to market team, and accelerate geographic",
+        "Sunny Side Venture Partners": "tsApp Linkedin **Qureos**, a Dubai, UAE-based provider of an AI driven hiring platform, raised US$5M in Seed funding. The round was led by Prosus Ventures and Salica Oryx Fund, with participation from Oraseya Capital, Plus VC, F6 Ventures, BDev Ventures, Sunny Side Venture Partners, Daniel Tyre, COTU Ventures and Globivest. The company intends to use the funds to further develop its AI capabilities, expand its go to market team, and accelerate geographic expansion throu",
+        "Daniel Tyre": "a Dubai, UAE-based provider of an AI driven hiring platform, raised US$5M in Seed funding. The round was led by Prosus Ventures and Salica Oryx Fund, with participation from Oraseya Capital, Plus VC, F6 Ventures, BDev Ventures, Sunny Side Venture Partners, Daniel Tyre, COTU Ventures and Globivest. The company intends to use the funds to further develop its AI capabilities, expand its go to market team, and accelerate geographic expansion through enterprise and agency part",
+        "COTU Ventures": "based provider of an AI driven hiring platform, raised US$5M in Seed funding. The round was led by Prosus Ventures and Salica Oryx Fund, with participation from Oraseya Capital, Plus VC, F6 Ventures, BDev Ventures, Sunny Side Venture Partners, Daniel Tyre, COTU Ventures and Globivest. The company intends to use the funds to further develop its AI capabilities, expand its go to market team, and accelerate geographic expansion through enterprise and agency partnerships. Fo",
+        "Globivest": "an AI driven hiring platform, raised US$5M in Seed funding. The round was led by Prosus Ventures and Salica Oryx Fund, with participation from Oraseya Capital, Plus VC, F6 Ventures, BDev Ventures, Sunny Side Venture Partners, Daniel Tyre, COTU Ventures and Globivest. The company intends to use the funds to further develop its AI capabilities, expand its go to market team, and accelerate geographic expansion through enterprise and agency partnerships. Founded by Alexander"
+      },
+      "proofUrl": "https://www.finsmes.com/2026/02/queros-raises-5m-in-seed-funding.html",
+      "proofExcerpt": "UAE # Queros Raises $5M in Seed Funding By FinSMEs - February 4, 2026 Facebook Twitter WhatsApp Linkedin **Qureos**, a Dubai, UAE-based provider of an AI driven hiring platform, raised US$5M in Seed funding. The round was led by Prosus Ventures and Salica Oryx Fund, with participation from Oraseya Capital, Plus VC, F6 Ventures, BDev Ventures, Sunny Side Venture Partners, Daniel Tyre, COTU Ventures and Globivest. The company intends to use the f"
+    },
+    {
+      "id": "ts-85b26e82-9d67-4f1c-83ea-d649e1177a1e",
+      "company": "HireBound",
+      "website": "https://hirebound.io/",
+      "description": "AI-powered recruitment platform whose agents automate candidate sourcing, screening, and evaluation across the hiring lifecycle.",
+      "hq": "India",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 2000000,
+      "date": "2026-02-24",
+      "leadInvestor": "Kalaari Capital",
+      "investors": [
+        "Kalaari Capital",
+        "Antler",
+        "Infinyte Club",
+        "CareerNet"
+      ],
+      "sourceUrl": "https://thesaasnews.com/news/hirebound-raises-2-million-in-seed-funding",
+      "origin": "tinyset",
+      "similarity": 1,
+      "verified": true,
+      "verifiedInvestors": [
+        "Kalaari Capital",
+        "Antler",
+        "CareerNet"
+      ],
+      "similarityReason": "AI-powered recruitment platform automating candidate screening and evaluation.",
+      "evidence": {
+        "Kalaari Capital": "HireBound, a Gurgaon, India-based HR technology startup, has raised $2 million in Seed funding. **Investors** The round was led by Kalaari Capital, with participation from Antler, Infinyte Club, and CareerNet. Kalaari Capital is an early-stage venture capital (VC) firm based in Bengaluru, India, focused on investing in technology-driven startups.",
+        "Antler": "HireBound, a Gurgaon, India-based HR technology startup, has raised $2 million in Seed funding. **Investors** The round was led by Kalaari Capital, with participation from Antler, Infinyte Club, and CareerNet. Kalaari Capital is an early-stage venture capital (VC) firm based in Bengaluru, India, focused on investing in technology-driven startups. It partners with entrepreneurs at the Se",
+        "CareerNet": "HireBound, a Gurgaon, India-based HR technology startup, has raised $2 million in Seed funding. **Investors** The round was led by Kalaari Capital, with participation from Antler, Infinyte Club, and CareerNet. Kalaari Capital is an early-stage venture capital (VC) firm based in Bengaluru, India, focused on investing in technology-driven startups. It partners with entrepreneurs at the Seed and Series A stages to h"
+      },
+      "proofUrl": "https://www.thesaasnews.com/news/hirebound-raises-2-million-in-seed-funding",
+      "proofExcerpt": "HireBound, a Gurgaon, India-based HR technology startup, has raised $2 million in Seed funding. **Investors** The round was led by Kalaari Capital, with participation from Antler, Infinyte Club, and CareerNet. Kalaari Capital is an early-stage venture capital (VC) firm based in Bengaluru, India, focused on investing in technology-driven startups."
+    },
+    {
+      "id": "ts-6fea6c0e-4c0a-45e2-afbc-104e7f347a9e",
+      "company": "MONA AI",
+      "website": "https://mona-ai.de/",
+      "description": "Provides AI recruiting agents that automate sourcing, applicant processing and routine hiring workflows, including interviews.",
+      "hq": "Germany",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 4500000,
+      "date": "2026-06-01",
+      "leadInvestor": "Earlybird Venture Capital",
+      "investors": [
+        "Earlybird Venture Capital"
+      ],
+      "sourceUrl": "https://trysignalbase.com/news/funding/mona-ai-secures-44",
+      "origin": "tinyset",
+      "similarity": 1,
+      "verified": true,
+      "verifiedInvestors": [
+        "Earlybird Venture Capital"
+      ],
+      "similarityReason": "Provides AI recruiting agents that automate routine hiring workflows including interviews.",
+      "evidence": {
+        "Earlybird Venture Capital": "Earlybird Venture Capital has led a $4.4M seed funding round for MONA AI, the German startup developing an AI-powered suite designed to liberate HR teams from manual recruiting tasks. The investment will bolster MONA AI'"
+      },
+      "proofUrl": "https://www.trysignalbase.com/news/funding/mona-ai-secures-44",
+      "proofExcerpt": "Earlybird Venture Capital has led a $4.4M seed funding round for MONA AI, the German startup developing an AI-powered suite designed to liberate HR teams from manual recruiting tasks. The investment will bolster MONA AI'"
+    },
+    {
+      "id": "ts-c96b39ad-6b9d-417c-847b-defb2e5c977b",
+      "company": "Fika Jobs",
+      "website": "https://fikajobs.ai/",
+      "description": "Operates a video-first recruitment platform where AI agents interview candidates and create profiles for employers to evaluate.",
+      "hq": "Sweden",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 4000000,
+      "date": "2026-06-01",
+      "leadInvestor": "Luminar Ventures",
+      "investors": [
+        "Luminar Ventures",
+        "Alliance VC and other investors"
+      ],
+      "sourceUrl": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates",
+      "origin": "tinyset",
+      "similarity": 1,
+      "verified": true,
+      "verifiedInvestors": [
+        "Luminar Ventures"
+      ],
+      "similarityReason": "Video-first recruitment platform utilizing AI agents to interview candidates.",
+      "evidence": {
+        "Luminar Ventures": "loyers pay nothing up front, but Fika takes 10% of a candidate’s first-year salary upon a successful hire. (The company notes that this is lower than the 20% to 30% placement fees often charged by traditional recruiters and headhunters.) The round was led by Luminar Ventures, with participation from Alliance VC and King co-founders Sebastian Knutsson and Riccardo Zacconi, the duo best known for creating the hit mobile game Candy Crush. Topics *When you purchase through lin"
+      },
+      "proofUrl": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "proofExcerpt": "loyers pay nothing up front, but Fika takes 10% of a candidate’s first-year salary upon a successful hire. (The company notes that this is lower than the 20% to 30% placement fees often charged by traditional recruiters and headhunters.) The round was led by Luminar Ventures, with participation from Alliance VC and King co-founders Sebastian Knutsson and Riccardo Zacconi, the duo best known for creating the hit mobile game Candy Crush. Topics *When you purchase through lin"
+    },
+    {
+      "id": "ts-50d19686-a8fa-4483-b0d5-9d693f79cc03",
+      "company": "Wamly",
+      "website": "https://wamly.io/",
+      "description": "Provides an AI-enabled recruitment platform combining applicant screening, video interviews, skills assessments and candidate evaluation.",
+      "hq": "South Africa",
+      "stage": "series-a",
+      "roundLabel": "series-a",
+      "amountUsd": 3100000,
+      "date": "2026-07-01",
+      "leadInvestor": "Hlayisani Capital",
+      "investors": [
+        "Hlayisani Capital",
+        "Knife Capital"
+      ],
+      "sourceUrl": "https://au-startups.com/news/wamly-raises-3-05m-series-a",
+      "origin": "tinyset",
+      "similarity": 1,
+      "verified": true,
+      "verifiedInvestors": [
+        "Hlayisani Capital",
+        "Knife Capital"
+      ],
+      "similarityReason": "Combines applicant screening, video interviews, and candidate evaluation into a platform.",
+      "evidence": {
+        "Hlayisani Capital": "South African HRTech firm closes R50 million equity round led by Hlayisani Capital, targeting AI expansion and international markets as broader venture capital tightens across the continent. The deal structure for Wamly's Series A is a priced equity round, with Hlayisani Capital's Hl",
+        "Knife Capital": "expansion and international markets as broader venture capital tightens across the continent. The deal structure for Wamly's Series A is a priced equity round, with Hlayisani Capital's Hlayisani Venture Fund II acting as the lead investor. Existing investor Knife Capital also participated, indicating continued confidence in the company's trajectory. While pre-money valuation was not disclosed, the capital injection marks a substantial step up from Wamly's previous undisclos"
+      },
+      "proofUrl": "https://au-startups.com/news/wamly-raises-3-05m-series-a",
+      "proofExcerpt": "South African HRTech firm closes R50 million equity round led by Hlayisani Capital, targeting AI expansion and international markets as broader venture capital tightens across the continent. The deal structure for Wamly's Series A is a priced equity round, with Hlayisani Capital's Hl"
+    },
+    {
+      "id": "ts-85a50d21-f282-4e82-b1d4-e278a8099321",
+      "company": "Metaview",
+      "website": "https://metaview.ai/",
+      "description": "Provides an agentic recruiting platform for candidate sourcing, application review, AI screening and interview intelligence.",
+      "hq": "United Kingdom",
+      "stage": "series-b+",
+      "roundLabel": "series-b+",
+      "amountUsd": 60000000,
+      "date": "2026-09-01",
+      "leadInvestor": "Insight Partners",
+      "investors": [
+        "Insight Partners",
+        "GV",
+        "Intrepid Growth Partners and other investors"
+      ],
+      "sourceUrl": "https://eu-startups.com/2026/10/londons-metaview-raises-e53-1-million-series-c-led-by-insight-partners-to-scale-its-agentic-recruiting-platform",
+      "origin": "tinyset",
+      "similarity": 1,
+      "verified": true,
+      "verifiedInvestors": [
+        "Insight Partners"
+      ],
+      "similarityReason": "Agentic recruiting platform featuring AI screening and interview intelligence.",
+      "evidence": {
+        "Insight Partners": "FundingUK-Startups # London’s Metaview raises €53.1 million Series C led by Insight Partners to scale its agentic recruiting platform By Rahul Raj October 1, 2026 Facebook X WhatsApp Linkedin **Metaview**, a London-based agentic recruiting platform that automates sourcing, application rev"
+      },
+      "proofUrl": "https://www.eu-startups.com/2026/10/londons-metaview-raises-e53-1-million-series-c-led-by-insight-partners-to-scale-its-agentic-recruiting-platform/",
+      "proofExcerpt": "FundingUK-Startups # London’s Metaview raises €53.1 million Series C led by Insight Partners to scale its agentic recruiting platform By Rahul Raj October 1, 2026 Facebook X WhatsApp Linkedin **Metaview**, a London-based agentic recruiting platform that automates sourcing, application rev",
+      "people": [
+        {
+          "investor": "Insight Partners",
+          "name": "Ryan Hinkle",
+          "role": "Managing Director"
+        }
+      ]
+    },
+    {
+      "id": "ts-4459fc2e-0e6d-4b2c-ac17-4bb3a392a1a1",
+      "company": "Humanly",
+      "website": "https://humanly.io/",
+      "description": "Provides AI recruiters and interviewers that screen, engage, interview and schedule candidates for high-volume hiring.",
+      "hq": "United States",
+      "stage": "series-b+",
+      "roundLabel": "series-b+",
+      "amountUsd": 25000000,
+      "date": "2026-04-01",
+      "leadInvestor": "SEEK Investments",
+      "investors": [
+        "SEEK Investments",
+        "MassMutual Catalyst Fund",
+        "Drive Capital",
+        "Zeal Capital Partners",
+        "Converge"
+      ],
+      "sourceUrl": "https://geekwire.com/2026/humanly-raises-25m-to-put-ai-to-work-for-job-seekers-not-just-the-companies-hiring-them",
+      "origin": "tinyset",
+      "similarity": 1,
+      "verified": true,
+      "verifiedInvestors": [
+        "SEEK Investments",
+        "Drive Capital",
+        "Zeal Capital Partners",
+        "Converge"
+      ],
+      "similarityReason": "Provides AI recruiters and interviewers that screen and interview candidates.",
+      "evidence": {
+        "SEEK Investments": "vice-as-a-software” company — one that doesn’t just give recruiters tools to find candidates, but delivers pre-vetted, ready-to-hire job seekers on demand. It’s less recruiting software, more staffing agency replacement. The round included participation from SEEK Investments, Drive Capital, Zeal Capital Partners, Converge and others. Humanly has raised $52 million to date. “I wouldn’t call it pivoting, but we’re reinventing ourselves,” Kumar said. “Instead of a tool to go o",
+        "Drive Capital": "” company — one that doesn’t just give recruiters tools to find candidates, but delivers pre-vetted, ready-to-hire job seekers on demand. It’s less recruiting software, more staffing agency replacement. The round included participation from SEEK Investments, Drive Capital, Zeal Capital Partners, Converge and others. Humanly has raised $52 million to date. “I wouldn’t call it pivoting, but we’re reinventing ourselves,” Kumar said. “Instead of a tool to go out and find profil",
+        "Zeal Capital Partners": "that doesn’t just give recruiters tools to find candidates, but delivers pre-vetted, ready-to-hire job seekers on demand. It’s less recruiting software, more staffing agency replacement. The round included participation from SEEK Investments, Drive Capital, Zeal Capital Partners, Converge and others. Humanly has raised $52 million to date. “I wouldn’t call it pivoting, but we’re reinventing ourselves,” Kumar said. “Instead of a tool to go out and find profiles of job seeke",
+        "Converge": "recruiters tools to find candidates, but delivers pre-vetted, ready-to-hire job seekers on demand. It’s less recruiting software, more staffing agency replacement. The round included participation from SEEK Investments, Drive Capital, Zeal Capital Partners, Converge and others. Humanly has raised $52 million to date. “I wouldn’t call it pivoting, but we’re reinventing ourselves,” Kumar said. “Instead of a tool to go out and find profiles of job seekers, we’re just giving y"
+      },
+      "proofUrl": "https://www.geekwire.com/2026/humanly-raises-25m-to-put-ai-to-work-for-job-seekers-not-just-the-companies-hiring-them/",
+      "proofExcerpt": "vice-as-a-software” company — one that doesn’t just give recruiters tools to find candidates, but delivers pre-vetted, ready-to-hire job seekers on demand. It’s less recruiting software, more staffing agency replacement. The round included participation from SEEK Investments, Drive Capital, Zeal Capital Partners, Converge and others. Humanly has raised $52 million to date. “I wouldn’t call it pivoting, but we’re reinventing ourselves,” Kumar said. “Instead of a tool to go o"
+    },
+    {
+      "id": "ts-62b2c0b5-06b3-41cd-b390-17e0f8e693d0",
+      "company": "Metix AI",
+      "website": "https://metix.ai/",
+      "description": "Automates candidate sourcing, outreach, screening and interview scheduling through an autonomous AI recruiting agent.",
+      "hq": "United States",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 3000000,
+      "date": "2026-07-01",
+      "leadInvestor": "Rsquared Investment Pte. Ltd.",
+      "investors": [
+        "Rsquared Investment Pte. Ltd.",
+        "Rsquared Investment"
+      ],
+      "sourceUrl": "https://trysignalbase.com/news/funding/metix-ai-raises-55m-seed",
+      "origin": "tinyset",
+      "similarity": 1,
+      "verified": true,
+      "verifiedInvestors": [
+        "Rsquared Investment"
+      ],
+      "similarityReason": "Automates screening and interview scheduling via autonomous AI recruiting agents.",
+      "evidence": {
+        "Rsquared Investment": "Back to feed # Metix AI raises $3M seed for autonomous recruiting agent Mira ● Jul 2026 **What's the deal?** Metix AI has raised $3 million in a seed round led by Rsquared Investment, the company announced in July 2026. The San Francisco-based startup, formerly known as OpenJobs AI, builds autonomous recruiting agents, led by its main product, Mira. **What's the endgame?** Mira m"
+      },
+      "proofUrl": "https://app.dealroom.co/news/note/metix-ai-raises-3m-seed-for-autonomous-recruiting-agent-mira",
+      "proofExcerpt": "Back to feed # Metix AI raises $3M seed for autonomous recruiting agent Mira ● Jul 2026 **What's the deal?** Metix AI has raised $3 million in a seed round led by Rsquared Investment, the company announced in July 2026. The San Francisco-based startup, formerly known as OpenJobs AI, builds autonomous recruiting agents, led by its main product, Mira. **What's the endgame?** Mira m"
+    },
+    {
+      "id": "ts-22271d38-9318-4c95-a891-e8358a133e48",
+      "company": "TraqCheck",
+      "website": "https://traqcheck.com/",
+      "description": "AI agent platform that automates recruitment sourcing, outreach, screening, and background verification for hiring teams.",
+      "hq": "United Kingdom",
+      "stage": "series-a",
+      "roundLabel": "series-a",
+      "amountUsd": 8000000,
+      "date": "2026-04-14",
+      "leadInvestor": "IvyCap Ventures",
+      "investors": [
+        "IvyCap Ventures",
+        "IIFL Fintech Fund"
+      ],
+      "sourceUrl": "https://techfundingnews.com/traqcheck-8m-series-a-hr-ai-agents",
+      "origin": "tinyset",
+      "similarity": 1,
+      "verified": true,
+      "verifiedInvestors": [
+        "IvyCap Ventures"
+      ],
+      "similarityReason": "AI agent platform automating recruitment screening and sourcing for hiring teams.",
+      "evidence": {
+        "IvyCap Ventures": "e workflow using agentic AI, rather than just adding another tool. For background screening, TraqCheck’s main competitors are Checkr (US), Truework, and Certn. In agentic recruitment, rivals include TurboHire, which raised $6 million in Series A funding from IvyCap last year, and HireBound, which recently got $2 million in seed funding for a similar approach. Well-known ATS and HR platforms like Workday, Greenhouse, and Lever are adding AI features. This gives TraqCheck a l"
+      },
+      "proofUrl": "https://techfundingnews.com/traqcheck-8m-series-a-hr-ai-agents/",
+      "proofExcerpt": "e workflow using agentic AI, rather than just adding another tool. For background screening, TraqCheck’s main competitors are Checkr (US), Truework, and Certn. In agentic recruitment, rivals include TurboHire, which raised $6 million in Series A funding from IvyCap last year, and HireBound, which recently got $2 million in seed funding for a similar approach. Well-known ATS and HR platforms like Workday, Greenhouse, and Lever are adding AI features. This gives TraqCheck a l"
+    },
+    {
+      "id": "ts-8e1e376b-f7ca-428a-8e9e-36d7adcf2813",
+      "company": "Resquad AI",
+      "website": "https://resquad.ai/",
+      "description": "AI-driven technical recruitment platform and global B2B marketplace that automates candidate screening, matching, pricing, compliance, and payments for developers.",
+      "hq": "Saudi Arabia",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 1500000,
+      "date": "2026-01-18",
+      "leadInvestor": "SRG",
+      "investors": [
+        "SRG Group"
+      ],
+      "sourceUrl": "https://cairoscene.com/Business/Resquad-AI-Raises-1-5M-Ahead-of-KSA-AI-Recruitment-Platform-Launch",
+      "origin": "tinyset",
+      "similarity": 1,
+      "verified": true,
+      "verifiedInvestors": [
+        "SRG Group"
+      ],
+      "similarityReason": "Technical recruitment platform that automates candidate screening and matching.",
+      "evidence": {
+        "SRG Group": "026 Eats Nov 09, 2026 Noise ## Rap of the Week | Nov 3 - Nov 9 Nov 09, 2026 Styled ## Monochrome Monday: Winter White Nov 09, 2026 Business Nov 09, 2026 Business Copied # Resquad AI Raises $1.5M Ahead of KSA AI Recruitment Platform Launch Led by SRG, the seed round will support Resquad AI’s official launch and expansion across the GCC and international markets. Startup Scene Jan 18, 2026 Saudi Arabia–based talent management startup Resquad AI has raised $1.5"
+      },
+      "proofUrl": "https://cairoscene.com/Business/Resquad-AI-Raises-1-5M-Ahead-of-KSA-AI-Recruitment-Platform-Launch",
+      "proofExcerpt": "026 Eats Nov 09, 2026 Noise ## Rap of the Week | Nov 3 - Nov 9 Nov 09, 2026 Styled ## Monochrome Monday: Winter White Nov 09, 2026 Business Nov 09, 2026 Business Copied # Resquad AI Raises $1.5M Ahead of KSA AI Recruitment Platform Launch Led by SRG, the seed round will support Resquad AI’s official launch and expansion across the GCC and international markets. Startup Scene Jan 18, 2026 Saudi Arabia–based talent management startup Resquad AI has raised $1.5"
+    },
+    {
+      "id": "se-ef9fpci",
+      "company": "JobTwine",
+      "description": "JobTwine announced a $3 million pre-seed round to fund its AI-driven talent acquisition platform.",
+      "hq": "",
+      "stage": "pre-seed",
+      "roundLabel": "pre-seed",
+      "amountUsd": 3000000,
+      "date": "2026-07-01",
+      "leadInvestor": "",
+      "investors": [],
+      "sourceUrl": "https://www.saasrise.com/deals/jobtwine-raises-3m-preseed-round-a330ec78-dfda-4c11-96a9-7956c23db1a1",
+      "origin": "search",
+      "similarity": 1,
+      "verified": false,
+      "verifiedInvestors": [],
+      "similarityReason": "AI-driven talent acquisition platform startup."
+    },
+    {
+      "id": "ts-bf1eac66-886e-4b25-bf39-93f2fe1e1e0f",
+      "company": "Jack & Jill",
+      "website": "https://jackandjill.ai/",
+      "description": "AI recruiting platform that puts an AI agent on each side of the hiring table to match candidates with employers, bypassing traditional job applications.",
+      "hq": "United Kingdom",
+      "stage": "series-a",
+      "roundLabel": "series-a",
+      "amountUsd": 40000000,
+      "date": "2026-09-15",
+      "leadInvestor": "Air Street Capital",
+      "investors": [
+        "Air Street Capital",
+        "Madrona",
+        "Antler",
+        "Creandum",
+        "Ada Ventures",
+        "Entrepreneurs First",
+        "Expedite Capital",
+        "Repeat.vc"
+      ],
+      "sourceUrl": "https://techfundingnews.com/jack-and-jill-raises-40m-series-a-air-street-capital-ai-recruiting",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "Air Street Capital",
+        "Madrona",
+        "Antler",
+        "Creandum",
+        "Ada Ventures",
+        "Entrepreneurs First"
+      ],
+      "similarityReason": "AI recruiting platform focused on matching candidates rather than specifically automating mid-market HR interview workflows.",
+      "evidence": {
+        "Air Street Capital": "# Air Street Capital leads $40M Series A into Jack & Jill’s dual-agent hiring marketplace bySofia Chesnokova September 15, 2026 3 minute read Image credits: Jack & Jill Total 0 Shares 0 0 0 0 * The AI recru",
+        "Madrona": "on. * Matt Wilson, a co-founder, previously sold his final startup, Omnipresent, to Deel for a reported $15 million. The AI recruiting platform Jack & Jill, based in London, just raised $40 million in a Series A funding round, led by Air Street Capital, with Madrona and Antler joining as new investors, while Creandum, Ada Ventures, Entrepreneurs First, Expedite Capital, and Repeat.vc were among the previous investors. This financing comes after Jack & Jill raised $20 millio",
+        "Antler": "ilson, a co-founder, previously sold his final startup, Omnipresent, to Deel for a reported $15 million. The AI recruiting platform Jack & Jill, based in London, just raised $40 million in a Series A funding round, led by Air Street Capital, with Madrona and Antler joining as new investors, while Creandum, Ada Ventures, Entrepreneurs First, Expedite Capital, and Repeat.vc were among the previous investors. This financing comes after Jack & Jill raised $20 million in its see",
+        "Creandum": "s final startup, Omnipresent, to Deel for a reported $15 million. The AI recruiting platform Jack & Jill, based in London, just raised $40 million in a Series A funding round, led by Air Street Capital, with Madrona and Antler joining as new investors, while Creandum, Ada Ventures, Entrepreneurs First, Expedite Capital, and Repeat.vc were among the previous investors. This financing comes after Jack & Jill raised $20 million in its seed round ten months ago, bringing the to",
+        "Ada Ventures": "artup, Omnipresent, to Deel for a reported $15 million. The AI recruiting platform Jack & Jill, based in London, just raised $40 million in a Series A funding round, led by Air Street Capital, with Madrona and Antler joining as new investors, while Creandum, Ada Ventures, Entrepreneurs First, Expedite Capital, and Repeat.vc were among the previous investors. This financing comes after Jack & Jill raised $20 million in its seed round ten months ago, bringing the total amount",
+        "Entrepreneurs First": "sent, to Deel for a reported $15 million. The AI recruiting platform Jack & Jill, based in London, just raised $40 million in a Series A funding round, led by Air Street Capital, with Madrona and Antler joining as new investors, while Creandum, Ada Ventures, Entrepreneurs First, Expedite Capital, and Repeat.vc were among the previous investors. This financing comes after Jack & Jill raised $20 million in its seed round ten months ago, bringing the total amount raised so far"
+      },
+      "proofUrl": "https://techfundingnews.com/jack-and-jill-raises-40m-series-a-air-street-capital-ai-recruiting/",
+      "proofExcerpt": "# Air Street Capital leads $40M Series A into Jack & Jill’s dual-agent hiring marketplace bySofia Chesnokova September 15, 2026 3 minute read Image credits: Jack & Jill Total 0 Shares 0 0 0 0 * The AI recru",
+      "people": [
+        {
+          "investor": "Air Street Capital",
+          "name": "Nathan Benaich",
+          "role": "general partner"
+        }
+      ]
+    },
+    {
+      "id": "ts-ced3ad5d-0ede-4ee3-95b6-2cac8b50e8cf",
+      "company": "Soolv",
+      "website": "https://soolv.com/",
+      "description": "Uses AI and predictive analysis of applicant information to identify candidates likely to perform well in specific roles.",
+      "hq": "Norway",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 1000000,
+      "date": "2025-12-01",
+      "investors": [
+        "Likeminded.vc",
+        "Arkwright X",
+        "ByFounders",
+        "CTO Roundtable Invest",
+        "Fredrik Thomassen",
+        "Christoffer Vikersveen Herheim",
+        "Håkon Heir",
+        "Per A Marum",
+        "Olav Folkstad",
+        "Tor Daneshmand"
+      ],
+      "sourceUrl": "https://nordic9.com/news/soolv-raises-1m-pre-seed-with-likeminded-arkwright-x-and-byfounders-joined-by-angel-investors-in-norway",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "Likeminded.vc",
+        "Arkwright X",
+        "ByFounders",
+        "CTO Roundtable Invest",
+        "Fredrik Thomassen",
+        "Christoffer Vikersveen Herheim",
+        "Håkon Heir",
+        "Per A Marum",
+        "Olav Folkstad",
+        "Tor Daneshmand"
+      ],
+      "similarityReason": "Uses predictive analysis for candidate screening rather than direct AI interview automation.",
+      "evidence": {
+        "Likeminded.vc": "ith Likeminded, Arkwright X and byFounders, joined by angel investors in Norway AI Recruiting Software Services Investments 04 December 2025 Share: Round value (USD): 1m Round investors: Arkwright X ByFounders Fredrik Thomassen Christoffer Vikersveen Herheim Likeminded.vc CTO Roundtable Invest Håkon Heir Per A Marum Olav Folkstad Tor Daneshmand Company: Soolv Industry: AI Recruiting Software Services Surfact raised NOK 20 million in a seed round led by Skagerak Capital, joi",
+        "Arkwright X": "Soolv raises $1M pre-seed with Likeminded, Arkwright X and byFounders, joined by angel investors in Norway AI Recruiting Software Services Investments 04 December 2025 Share: Round value (USD): 1m Round investors: Arkwright X ByFounders Fredrik Thomassen Christo",
+        "ByFounders": "Soolv raises $1M pre-seed with Likeminded, Arkwright X and byFounders, joined by angel investors in Norway AI Recruiting Software Services Investments 04 December 2025 Share: Round value (USD): 1m Round investors: Arkwright X ByFounders Fredrik Thomassen Christoffer Vikersveen Herheim Likeminded.vc CTO Roundtable Invest Håkon Heir Per A Marum Olav Folkstad Tor Daneshmand Company: Soolv Industry: AI Recruiting Software Services Surfact raised",
+        "CTO Roundtable Invest": ", Arkwright X and byFounders, joined by angel investors in Norway AI Recruiting Software Services Investments 04 December 2025 Share: Round value (USD): 1m Round investors: Arkwright X ByFounders Fredrik Thomassen Christoffer Vikersveen Herheim Likeminded.vc CTO Roundtable Invest Håkon Heir Per A Marum Olav Folkstad Tor Daneshmand Company: Soolv Industry: AI Recruiting Software Services Surfact raised NOK 20 million in a seed round led by Skagerak Capital, joined by Farvatn",
+        "Fredrik Thomassen": "Soolv raises $1M pre-seed with Likeminded, Arkwright X and byFounders, joined by angel investors in Norway AI Recruiting Software Services Investments 04 December 2025 Share: Round value (USD): 1m Round investors: Arkwright X ByFounders Fredrik Thomassen Christoffer Vikersveen Herheim Likeminded.vc CTO Roundtable Invest Håkon Heir Per A Marum Olav Folkstad Tor Daneshmand Company: Soolv Industry: AI Recruiting Software Services Surfact raised NOK 20 mil",
+        "Christoffer Vikersveen Herheim": "Soolv raises $1M pre-seed with Likeminded, Arkwright X and byFounders, joined by angel investors in Norway AI Recruiting Software Services Investments 04 December 2025 Share: Round value (USD): 1m Round investors: Arkwright X ByFounders Fredrik Thomassen Christoffer Vikersveen Herheim Likeminded.vc CTO Roundtable Invest Håkon Heir Per A Marum Olav Folkstad Tor Daneshmand Company: Soolv Industry: AI Recruiting Software Services Surfact raised NOK 20 million in a seed rou",
+        "Håkon Heir": "unders, joined by angel investors in Norway AI Recruiting Software Services Investments 04 December 2025 Share: Round value (USD): 1m Round investors: Arkwright X ByFounders Fredrik Thomassen Christoffer Vikersveen Herheim Likeminded.vc CTO Roundtable Invest Håkon Heir Per A Marum Olav Folkstad Tor Daneshmand Company: Soolv Industry: AI Recruiting Software Services Surfact raised NOK 20 million in a seed round led by Skagerak Capital, joined by Farvatn Venture and angel inv",
+        "Per A Marum": "ned by angel investors in Norway AI Recruiting Software Services Investments 04 December 2025 Share: Round value (USD): 1m Round investors: Arkwright X ByFounders Fredrik Thomassen Christoffer Vikersveen Herheim Likeminded.vc CTO Roundtable Invest Håkon Heir Per A Marum Olav Folkstad Tor Daneshmand Company: Soolv Industry: AI Recruiting Software Services Surfact raised NOK 20 million in a seed round led by Skagerak Capital, joined by Farvatn Venture and angel investors in N",
+        "Olav Folkstad": "investors in Norway AI Recruiting Software Services Investments 04 December 2025 Share: Round value (USD): 1m Round investors: Arkwright X ByFounders Fredrik Thomassen Christoffer Vikersveen Herheim Likeminded.vc CTO Roundtable Invest Håkon Heir Per A Marum Olav Folkstad Tor Daneshmand Company: Soolv Industry: AI Recruiting Software Services Surfact raised NOK 20 million in a seed round led by Skagerak Capital, joined by Farvatn Venture and angel investors in Norway AI Com",
+        "Tor Daneshmand": "Norway AI Recruiting Software Services Investments 04 December 2025 Share: Round value (USD): 1m Round investors: Arkwright X ByFounders Fredrik Thomassen Christoffer Vikersveen Herheim Likeminded.vc CTO Roundtable Invest Håkon Heir Per A Marum Olav Folkstad Tor Daneshmand Company: Soolv Industry: AI Recruiting Software Services Surfact raised NOK 20 million in a seed round led by Skagerak Capital, joined by Farvatn Venture and angel investors in Norway AI Competitive Intel"
+      },
+      "proofUrl": "https://nordic9.com/news/soolv-raises-1m-pre-seed-with-likeminded-arkwright-x-and-byfounders-joined-by-angel-investors-in-norway/",
+      "proofExcerpt": "ith Likeminded, Arkwright X and byFounders, joined by angel investors in Norway AI Recruiting Software Services Investments 04 December 2025 Share: Round value (USD): 1m Round investors: Arkwright X ByFounders Fredrik Thomassen Christoffer Vikersveen Herheim Likeminded.vc CTO Roundtable Invest Håkon Heir Per A Marum Olav Folkstad Tor Daneshmand Company: Soolv Industry: AI Recruiting Software Services Surfact raised NOK 20 million in a seed round led by Skagerak Capital, joi"
+    },
+    {
+      "id": "ts-38ed0c8f-2382-445e-8187-27808520c878",
+      "company": "Take2 AI",
+      "website": "https://take2.ai/",
+      "description": "Develops autonomous AI agents for healthcare recruiting, including candidate phone screening, interviewing and assessment.",
+      "hq": "United States",
+      "stage": "series-a",
+      "roundLabel": "series-a",
+      "amountUsd": 14000000,
+      "date": "2026-02-01",
+      "leadInvestor": "Human Capital",
+      "investors": [
+        "Human Capital",
+        "Bertelsmann Healthcare Investments",
+        "Reach Capital",
+        "SemperVirens VC",
+        "Honeystone Ventures"
+      ],
+      "sourceUrl": "https://prnewswire.com/news-releases/take2-raises-14m-series-a-to-automate-healthcare-recruiting-with-autonomous-ai-agents-302685108.html",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "Human Capital",
+        "Bertelsmann Healthcare Investments",
+        "Reach Capital",
+        "SemperVirens VC",
+        "Honeystone Ventures"
+      ],
+      "similarityReason": "Autonomous AI interviewing and screening agents tailored specifically for healthcare recruiting.",
+      "evidence": {
+        "Human Capital": "NEW YORK, Feb. 11, 2026 /PRNewswire/ -- Take2, an AI agents platform purpose-built for healthcare recruiting, today announced it has raised a $14 million Series A led by Human Capital, with participation from Bertelsmann Healthcare Investments, Reach Capital, SemperVirens VC, and Honeystone Ventures. The funding announcement was first covered by Axios. Healthcare hiring has reached a br",
+        "Bertelsmann Healthcare Investments": "NEW YORK, Feb. 11, 2026 /PRNewswire/ -- Take2, an AI agents platform purpose-built for healthcare recruiting, today announced it has raised a $14 million Series A led by Human Capital, with participation from Bertelsmann Healthcare Investments, Reach Capital, SemperVirens VC, and Honeystone Ventures. The funding announcement was first covered by Axios. Healthcare hiring has reached a breaking point. One in three new jobs in",
+        "Reach Capital": "NEW YORK, Feb. 11, 2026 /PRNewswire/ -- Take2, an AI agents platform purpose-built for healthcare recruiting, today announced it has raised a $14 million Series A led by Human Capital, with participation from Bertelsmann Healthcare Investments, Reach Capital, SemperVirens VC, and Honeystone Ventures. The funding announcement was first covered by Axios. Healthcare hiring has reached a breaking point. One in three new jobs in the U.S. is in healthcare, turnover",
+        "SemperVirens VC": "NEW YORK, Feb. 11, 2026 /PRNewswire/ -- Take2, an AI agents platform purpose-built for healthcare recruiting, today announced it has raised a $14 million Series A led by Human Capital, with participation from Bertelsmann Healthcare Investments, Reach Capital, SemperVirens VC, and Honeystone Ventures. The funding announcement was first covered by Axios. Healthcare hiring has reached a breaking point. One in three new jobs in the U.S. is in healthcare, turnover often exceeds 5",
+        "Honeystone Ventures": "26 /PRNewswire/ -- Take2, an AI agents platform purpose-built for healthcare recruiting, today announced it has raised a $14 million Series A led by Human Capital, with participation from Bertelsmann Healthcare Investments, Reach Capital, SemperVirens VC, and Honeystone Ventures. The funding announcement was first covered by Axios. Healthcare hiring has reached a breaking point. One in three new jobs in the U.S. is in healthcare, turnover often exceeds 50%, and vacancy costs"
+      },
+      "proofUrl": "https://www.prnewswire.com/news-releases/take2-raises-14m-series-a-to-automate-healthcare-recruiting-with-autonomous-ai-agents-302685108.html",
+      "proofExcerpt": "NEW YORK, Feb. 11, 2026 /PRNewswire/ -- Take2, an AI agents platform purpose-built for healthcare recruiting, today announced it has raised a $14 million Series A led by Human Capital, with participation from Bertelsmann Healthcare Investments, Reach Capital, SemperVirens VC, and Honeystone Ventures. The funding announcement was first covered by Axios. Healthcare hiring has reached a br"
+    },
+    {
+      "id": "ts-74c5affb-6154-49b9-96ce-8134f4a30bce",
+      "company": "Scooter",
+      "website": "https://thescooter.ai/",
+      "description": "Scenario-based sales hiring platform that assesses sales candidates through practical simulations and delivers curated shortlists.",
+      "hq": "India",
+      "stage": "pre-seed",
+      "roundLabel": "pre-seed",
+      "amountUsd": 180000,
+      "date": "2026-10-05",
+      "leadInvestor": "AJVC",
+      "investors": [
+        "AJVC"
+      ],
+      "sourceUrl": "https://thesaasnews.com/news/scooter-raises-180k-pre-seed",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "AJVC"
+      ],
+      "similarityReason": "Scenario-based sales hiring and assessment platform delivering curated candidate shortlists.",
+      "evidence": {
+        "AJVC": "ogy and recruitment software startup, has raised approximately $180,000 in pre-seed funding. The company, which specializes in sales hiring and recruitment technology, plans to use the capital to further its growth. ## Investors The funding round was led by AJVC. ## Scooter Use of Funds The company will use the capital to strengthen its core recruitment software platform, expand its internal product development, and build its team across India. ## About Scooter Founded"
+      },
+      "proofUrl": "https://www.thesaasnews.com/news/scooter-raises-180k-pre-seed/",
+      "proofExcerpt": "ogy and recruitment software startup, has raised approximately $180,000 in pre-seed funding. The company, which specializes in sales hiring and recruitment technology, plans to use the capital to further its growth. ## Investors The funding round was led by AJVC. ## Scooter Use of Funds The company will use the capital to strengthen its core recruitment software platform, expand its internal product development, and build its team across India. ## About Scooter Founded"
+    },
+    {
+      "id": "ts-a59b637c-bc9f-4ac3-a527-2c6ce401ab3a",
+      "company": "Juicebox",
+      "website": "https://juicebox.ai/",
+      "description": "AI recruiting platform that uses natural language search and autonomous sourcing agents to help companies find and engage top talent.",
+      "hq": "United States",
+      "stage": "series-b+",
+      "roundLabel": "series-b",
+      "amountUsd": 80000000,
+      "date": "2026-03-10",
+      "leadInvestor": "DST Global",
+      "investors": [
+        "DST Global",
+        "Sequoia Capital",
+        "Verified Capital",
+        "Committed Capital",
+        "NFDG",
+        "Coatue",
+        "Y Combinator"
+      ],
+      "sourceUrl": "https://juicebox.ai/blog/series-b",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "DST Global",
+        "Sequoia Capital",
+        "Verified Capital",
+        "Committed Capital",
+        "NFDG",
+        "Coatue",
+        "Y Combinator"
+      ],
+      "similarityReason": "AI platform focused primarily on natural language search and sourcing rather than interview automation.",
+      "evidence": {
+        "DST Global": "# Juicebox raises $80M Series B at an $850M valuation # Juicebox raises $80M Series B at an $850M valuation Today, we're excited to announce Juicebox has raised an $80M Series B at an $850M valuation led by DST Global, with participation from Sequoia Capital, Coatue, and Y Combinator. David Paffenholz Co-Founder & CEO Published on Mar 10, 2026 Last Updated Apr 20, 2026 ## Announcing Juicebox’s $80M Series B Three ye",
+        "Sequoia Capital": "# Juicebox raises $80M Series B at an $850M valuation # Juicebox raises $80M Series B at an $850M valuation Today, we're excited to announce Juicebox has raised an $80M Series B at an $850M valuation led by DST Global, with participation from Sequoia Capital, Coatue, and Y Combinator. David Paffenholz Co-Founder & CEO Published on Mar 10, 2026 Last Updated Apr 20, 2026 ## Announcing Juicebox’s $80M Series B Three years ago, Juicebox became the first A",
+        "Verified Capital": "use LLMs to source talent on Juicebox. Juicebox is their way of competing in the talent war, a zero-sum game to win the best talent. To fuel what’s next, we’re excited to announce our $80M Series B led by DST Global, with participation from Sequoia Capital, Verified Capital, Committed Capital, NFDG, Coatue, and Y Combinator. The round values Juicebox at $850M, and brings the total capital raised to $116M. ## The shift to outbound recruiting Over the past two years, we’ve",
+        "Committed Capital": "e talent on Juicebox. Juicebox is their way of competing in the talent war, a zero-sum game to win the best talent. To fuel what’s next, we’re excited to announce our $80M Series B led by DST Global, with participation from Sequoia Capital, Verified Capital, Committed Capital, NFDG, Coatue, and Y Combinator. The round values Juicebox at $850M, and brings the total capital raised to $116M. ## The shift to outbound recruiting Over the past two years, we’ve seen a clear shif",
+        "NFDG": "x. Juicebox is their way of competing in the talent war, a zero-sum game to win the best talent. To fuel what’s next, we’re excited to announce our $80M Series B led by DST Global, with participation from Sequoia Capital, Verified Capital, Committed Capital, NFDG, Coatue, and Y Combinator. The round values Juicebox at $850M, and brings the total capital raised to $116M. ## The shift to outbound recruiting Over the past two years, we’ve seen a clear shift in how hiring wor",
+        "Coatue": "Juicebox raises $80M Series B at an $850M valuation # Juicebox raises $80M Series B at an $850M valuation Today, we're excited to announce Juicebox has raised an $80M Series B at an $850M valuation led by DST Global, with participation from Sequoia Capital, Coatue, and Y Combinator. David Paffenholz Co-Founder & CEO Published on Mar 10, 2026 Last Updated Apr 20, 2026 ## Announcing Juicebox’s $80M Series B Three years ago, Juicebox became the first AI-native search b",
+        "Y Combinator": "ses $80M Series B at an $850M valuation # Juicebox raises $80M Series B at an $850M valuation Today, we're excited to announce Juicebox has raised an $80M Series B at an $850M valuation led by DST Global, with participation from Sequoia Capital, Coatue, and Y Combinator. David Paffenholz Co-Founder & CEO Published on Mar 10, 2026 Last Updated Apr 20, 2026 ## Announcing Juicebox’s $80M Series B Three years ago, Juicebox became the first AI-native search built for rec"
+      },
+      "proofUrl": "https://juicebox.ai/blog/series-b",
+      "proofExcerpt": "# Juicebox raises $80M Series B at an $850M valuation # Juicebox raises $80M Series B at an $850M valuation Today, we're excited to announce Juicebox has raised an $80M Series B at an $850M valuation led by DST Global, with participation from Sequoia Capital, Coatue, and Y Combinator. David Paffenholz Co-Founder & CEO Published on Mar 10, 2026 Last Updated Apr 20, 2026 ## Announcing Juicebox’s $80M Series B Three ye"
+    },
+    {
+      "id": "ts-235b0368-fbc2-4967-817f-28fd1cfc0e6b",
+      "company": "Alfa AI",
+      "website": "https://welovealfa.com/",
+      "description": "Automates candidate discovery, early evaluation and matching for employers and recruitment agencies.",
+      "hq": "United Kingdom",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 1300000,
+      "date": "2026-08-05",
+      "leadInvestor": "Sake Bosch",
+      "investors": [
+        "Sake Bosch",
+        "FirstDegree",
+        "Golden Egg Check",
+        "Black Green Capital"
+      ],
+      "sourceUrl": "https://businesscloud.co.uk/news/former-dragons-den-star-joins-alfa-ai-following-1m-investment",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "Sake Bosch",
+        "FirstDegree",
+        "Golden Egg Check",
+        "Black Green Capital"
+      ],
+      "similarityReason": "Automates candidate discovery and evaluation without emphasizing interview automation.",
+      "evidence": {
+        "Sake Bosch": "London-based Alfa AI was founded by Alfie Whattam, Ed Godshaw and Dr Linda Yu in 2025. Its AI-powered tool automates the hiring process by finding and screening top candidates and connecting them with employers. The latest £1m seed funding round was led by Sake Bosch, with participation from FirstDegree, Golden Egg Check and Black Green Capital. The funding will be used to accelerate product development and support the company’s expansion. Caan’s appointment comes at a pi",
+        "FirstDegree": "y Alfie Whattam, Ed Godshaw and Dr Linda Yu in 2025. Its AI-powered tool automates the hiring process by finding and screening top candidates and connecting them with employers. The latest £1m seed funding round was led by Sake Bosch, with participation from FirstDegree, Golden Egg Check and Black Green Capital. The funding will be used to accelerate product development and support the company’s expansion. Caan’s appointment comes at a pivotal moment for the technology star",
+        "Golden Egg Check": "am, Ed Godshaw and Dr Linda Yu in 2025. Its AI-powered tool automates the hiring process by finding and screening top candidates and connecting them with employers. The latest £1m seed funding round was led by Sake Bosch, with participation from FirstDegree, Golden Egg Check and Black Green Capital. The funding will be used to accelerate product development and support the company’s expansion. Caan’s appointment comes at a pivotal moment for the technology start-up as organ",
+        "Black Green Capital": "Linda Yu in 2025. Its AI-powered tool automates the hiring process by finding and screening top candidates and connecting them with employers. The latest £1m seed funding round was led by Sake Bosch, with participation from FirstDegree, Golden Egg Check and Black Green Capital. The funding will be used to accelerate product development and support the company’s expansion. Caan’s appointment comes at a pivotal moment for the technology start-up as organisations increasingly"
+      },
+      "proofUrl": "https://businesscloud.co.uk/news/former-dragons-den-star-joins-alfa-ai-following-1m-investment/",
+      "proofExcerpt": "London-based Alfa AI was founded by Alfie Whattam, Ed Godshaw and Dr Linda Yu in 2025. Its AI-powered tool automates the hiring process by finding and screening top candidates and connecting them with employers. The latest £1m seed funding round was led by Sake Bosch, with participation from FirstDegree, Golden Egg Check and Black Green Capital. The funding will be used to accelerate product development and support the company’s expansion. Caan’s appointment comes at a pi"
+    },
+    {
+      "id": "ts-1c4c7079-4752-43c4-9bf2-bb54117b62b3",
+      "company": "Contrario",
+      "website": "https://contrario.ai/",
+      "description": "Pairs specialized human recruiters with AI agents that handle candidate research, sourcing and recruiting administration.",
+      "hq": "United States",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 2300000,
+      "date": "2026-05-20",
+      "leadInvestor": "Nexus Venture Partners",
+      "investors": [
+        "Nexus Venture Partners",
+        "Goodwater Capital and additional investors"
+      ],
+      "sourceUrl": "https://citybiz.co/article/850778/contrario-raises-2-3m-seed-round-to-expand-ai-powered-recruiting-platform",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "Nexus Venture Partners"
+      ],
+      "similarityReason": "Pairs human recruiters with AI agents handling candidate research and sourcing.",
+      "evidence": {
+        "Nexus Venture Partners": "Arya Marwaha San Francisco-based **Contrario** has **raised $2.3 million** in a **seed round** led by **Nexus Venture Partners**, with participation from **Inventum Ventures, Goodwater Capital**, and other angel investors. The company said it has reached $6 million in annual revenue and has paid out over $1 million to its"
+      },
+      "proofUrl": "https://www.citybiz.co/article/850778/contrario-raises-2-3m-seed-round-to-expand-ai-powered-recruiting-platform/",
+      "proofExcerpt": "Arya Marwaha San Francisco-based **Contrario** has **raised $2.3 million** in a **seed round** led by **Nexus Venture Partners**, with participation from **Inventum Ventures, Goodwater Capital**, and other angel investors. The company said it has reached $6 million in annual revenue and has paid out over $1 million to its"
+    },
+    {
+      "id": "ts-22f6fecd-1c21-4fc2-ad1e-93c211a96e18",
+      "company": "Spott",
+      "website": "https://spott.io/",
+      "description": "AI-native applicant tracking system (ATS) and CRM platform for recruitment agencies, combining candidate management, matching, outreach and automation.",
+      "hq": "Belgium",
+      "stage": "series-a",
+      "roundLabel": "series-a",
+      "amountUsd": 21000000,
+      "date": "2026-09-22",
+      "leadInvestor": "Balderton Capital",
+      "investors": [
+        "Balderton Capital",
+        "Base10 Partners",
+        "Y Combinator",
+        "Fortino"
+      ],
+      "sourceUrl": "https://tech.eu/2026/09/22/spott-secures-21m-series-a-to-expand-its-ai-platform-for-recruitment-agencies",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "Balderton Capital"
+      ],
+      "similarityReason": "AI-native ATS and CRM platform for recruitment agencies.",
+      "evidence": {
+        "Balderton Capital": "tform for recruitment agencies. Share Send email Copy link Spott, an AI-native applicant tracking system (ATS) and customer relationship management (CRM) platform for recruitment agencies, has raised $21 million in Series A funding. The round was led by Balderton Capital, with participation from Base10 Partners, Y Combinator and Fortino. Founded in Leuven in 2024 by university friends Lander Degreve, Manu Vanderveeren and Samuel Smeys, Spott emerged from the founders’"
+      },
+      "proofUrl": "https://tech.eu/2026/09/22/spott-secures-21m-series-a-to-expand-its-ai-platform-for-recruitment-agencies/",
+      "proofExcerpt": "tform for recruitment agencies. Share Send email Copy link Spott, an AI-native applicant tracking system (ATS) and customer relationship management (CRM) platform for recruitment agencies, has raised $21 million in Series A funding. The round was led by Balderton Capital, with participation from Base10 Partners, Y Combinator and Fortino. Founded in Leuven in 2024 by university friends Lander Degreve, Manu Vanderveeren and Samuel Smeys, Spott emerged from the founders’"
+    },
+    {
+      "id": "ts-c7f4e4e9-3dff-4820-864f-e85da22c6a19",
+      "company": "Refer",
+      "website": "https://tryrefer.com/",
+      "description": "Uses an AI career agent, Lia, to match candidates with suitable positions and introduce them directly to hiring teams.",
+      "hq": "United States",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 7500000,
+      "date": "2026-07-21",
+      "leadInvestor": "Canary",
+      "investors": [
+        "Canary",
+        "Goodwater Capital",
+        "Salt VC",
+        "Norte Ventures",
+        "Valutia"
+      ],
+      "sourceUrl": "https://linkedin.com/posts/canary-venture-capital_refer-has-announced-its-75m-seed-round-activity-7483217276595363840-oQLf",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "Canary",
+        "Goodwater Capital",
+        "Salt VC",
+        "Norte Ventures",
+        "Valutia"
+      ],
+      "similarityReason": "AI career agent matching candidates and introducing them directly to hiring teams.",
+      "evidence": {
+        "Canary": "# Refer Raises $7.5M Seed, Led by Canary, Totaling $10M This title was summarized by AI from the post below. Canary 35,789 followers 3mo Refer has announced its $7.5M Seed round, led by Canary, with participation from Goodwater Capital, Salt VC (ila",
+        "Goodwater Capital": "# Refer Raises $7.5M Seed, Led by Canary, Totaling $10M This title was summarized by AI from the post below. Canary 35,789 followers 3mo Refer has announced its $7.5M Seed round, led by Canary, with participation from Goodwater Capital, Salt VC (ilana stern), Norte Ventures, and Valutia, bringing total funding to $10M. Andre Hamra has been helping people find work since he was a teenager in Brazil. At Stanford, he put up flyers offeri",
+        "Salt VC": "# Refer Raises $7.5M Seed, Led by Canary, Totaling $10M This title was summarized by AI from the post below. Canary 35,789 followers 3mo Refer has announced its $7.5M Seed round, led by Canary, with participation from Goodwater Capital, Salt VC (ilana stern), Norte Ventures, and Valutia, bringing total funding to $10M. Andre Hamra has been helping people find work since he was a teenager in Brazil. At Stanford, he put up flyers offering to help people f",
+        "Norte Ventures": "er Raises $7.5M Seed, Led by Canary, Totaling $10M This title was summarized by AI from the post below. Canary 35,789 followers 3mo Refer has announced its $7.5M Seed round, led by Canary, with participation from Goodwater Capital, Salt VC (ilana stern), Norte Ventures, and Valutia, bringing total funding to $10M. Andre Hamra has been helping people find work since he was a teenager in Brazil. At Stanford, he put up flyers offering to help people find jobs, and the deman",
+        "Valutia": ", Led by Canary, Totaling $10M This title was summarized by AI from the post below. Canary 35,789 followers 3mo Refer has announced its $7.5M Seed round, led by Canary, with participation from Goodwater Capital, Salt VC (ilana stern), Norte Ventures, and Valutia, bringing total funding to $10M. Andre Hamra has been helping people find work since he was a teenager in Brazil. At Stanford, he put up flyers offering to help people find jobs, and the demand he saw led him to"
+      },
+      "proofUrl": "https://www.linkedin.com/posts/canary-venture-capital_refer-has-announced-its-75m-seed-round-activity-7483217276595363840-oQLf",
+      "proofExcerpt": "# Refer Raises $7.5M Seed, Led by Canary, Totaling $10M This title was summarized by AI from the post below. Canary 35,789 followers 3mo Refer has announced its $7.5M Seed round, led by Canary, with participation from Goodwater Capital, Salt VC (ila"
+    },
+    {
+      "id": "ts-51172b80-efbe-45f4-be3b-03f116034ac9",
+      "company": "Paraform",
+      "website": "https://paraform.com/",
+      "description": "Paraform is an AI-powered 'Agentic Hiring Platform' and recruiter marketplace that connects companies with a decentralized network of specialized recruiters to fill critical roles faster.",
+      "hq": "United States",
+      "stage": "series-b+",
+      "roundLabel": "series-b+",
+      "amountUsd": 40000000,
+      "date": "2026-03-18",
+      "leadInvestor": "Scale Venture Partners",
+      "investors": [
+        "Scale Venture Partners",
+        "Felicis",
+        "A* Capital",
+        "Liquid 2 Ventures"
+      ],
+      "sourceUrl": "https://finsmes.com/2026/03/paraform-raises-40m-in-series-b-funding.html",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "Scale Venture Partners",
+        "Felicis",
+        "Liquid 2 Ventures"
+      ],
+      "similarityReason": "AI-powered recruiter marketplace connecting companies with specialized human recruiters.",
+      "evidence": {
+        "Scale Venture Partners": "By FinSMEs - March 20, 2026 Facebook Twitter WhatsApp Linkedin Paraform, a San Francisco, CA-based AI provider of a recruitment marketplace, raised $40m in Series B funding. The round, which brought total funding raised to date to $65m, was led by Scale Venture Partners, with participation from Felicis, *A Capital*\\*, and Liquid 2 Ventures, and individuals including the CTO of Palantir, the COO of Stripe, the President of Shopify, and co-founders from Canva and Yo",
+        "Felicis": "er WhatsApp Linkedin Paraform, a San Francisco, CA-based AI provider of a recruitment marketplace, raised $40m in Series B funding. The round, which brought total funding raised to date to $65m, was led by Scale Venture Partners, with participation from Felicis, *A Capital*\\*, and Liquid 2 Ventures, and individuals including the CTO of Palantir, the COO of Stripe, the President of Shopify, and co-founders from Canva and YouTube. The company intends to use the funds to",
+        "Liquid 2 Ventures": "form, a San Francisco, CA-based AI provider of a recruitment marketplace, raised $40m in Series B funding. The round, which brought total funding raised to date to $65m, was led by Scale Venture Partners, with participation from Felicis, *A Capital*\\*, and Liquid 2 Ventures, and individuals including the CTO of Palantir, the COO of Stripe, the President of Shopify, and co-founders from Canva and YouTube. The company intends to use the funds to scale its internal team, acc"
+      },
+      "proofUrl": "https://www.finsmes.com/2026/03/paraform-raises-40m-in-series-b-funding.html",
+      "proofExcerpt": "By FinSMEs - March 20, 2026 Facebook Twitter WhatsApp Linkedin Paraform, a San Francisco, CA-based AI provider of a recruitment marketplace, raised $40m in Series B funding. The round, which brought total funding raised to date to $65m, was led by Scale Venture Partners, with participation from Felicis, *A Capital*\\*, and Liquid 2 Ventures, and individuals including the CTO of Palantir, the COO of Stripe, the President of Shopify, and co-founders from Canva and Yo"
+    },
+    {
+      "id": "ts-e803c430-c46f-4317-a921-281bb7c7aa46",
+      "company": "Clera",
+      "website": "https://getclera.com/",
+      "description": "AI talent agent that represents job candidates, learning their goals over email, iMessage and WhatsApp and introducing them directly to hiring managers at venture-backed startups instead of through job applications.",
+      "hq": "United States",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 3000000,
+      "date": "2026-04-28",
+      "leadInvestor": "1984 Ventures",
+      "investors": [
+        "1984 Ventures",
+        "Deel Ventures",
+        "Blue Wire Capital"
+      ],
+      "sourceUrl": "https://app.dealroom.co/news/feed/clera-raises-3m-to-launch-ai-talent-agent-representing-candidates-directly-to-hiring-managers",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "1984 Ventures"
+      ],
+      "similarityReason": "Candidate-facing AI talent agent introducing job seekers directly to hiring managers.",
+      "evidence": {
+        "1984 Ventures": "era raises $3M to launch AI talent agent representing candidates directly to hiring managers ● Apr 2026 Clera, a San Francisco-based startup, has launched an AI talent agent that represents job candidates and has raised $3 million in pre-seed funding led by 1984 Ventures. The platform introduces professionals directly to hiring managers at venture-backed startups via email, iMessage and WhatsApp, bypassing traditional application processes. Within months of launching, Clera"
+      },
+      "proofUrl": "https://app.dealroom.co/news/feed/clera-raises-3m-to-launch-ai-talent-agent-representing-candidates-directly-to-hiring-managers",
+      "proofExcerpt": "era raises $3M to launch AI talent agent representing candidates directly to hiring managers ● Apr 2026 Clera, a San Francisco-based startup, has launched an AI talent agent that represents job candidates and has raised $3 million in pre-seed funding led by 1984 Ventures. The platform introduces professionals directly to hiring managers at venture-backed startups via email, iMessage and WhatsApp, bypassing traditional application processes. Within months of launching, Clera"
+    },
+    {
+      "id": "ts-35f9a021-4ba6-4e16-9afc-f1f2fb644a0f",
+      "company": "Dex",
+      "website": "https://meetdex.ai/",
+      "description": "An AI 'talent agent' that holds conversations with software engineers and AI researchers to understand their experience and goals, then matches them with suitable roles and introduces them to hiring managers.",
+      "hq": "United Kingdom",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 5300000,
+      "date": "2026-04-27",
+      "leadInvestor": "Notion Capital",
+      "investors": [
+        "Notion Capital",
+        "a16z Speedrun",
+        "Concept Ventures"
+      ],
+      "sourceUrl": "https://fortune.com/2026/04/28/exclusive-dex-ai-powered-recruiting-startup-raises-seed-round-notion-capital",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "Notion Capital",
+        "a16z Speedrun",
+        "Concept Ventures"
+      ],
+      "similarityReason": "AI talent agent representing software engineers and matching them with roles.",
+      "evidence": {
+        "Notion Capital": "great candidates.” The startup charges employers between 20% and 30% of a hired candidate’s salary, the same fee structure used by traditional executive search firms. “We only earn money if we do a good job,” Lambros said. Kamil Mieczakowski, the partner at Notion Capital who led the round, pointed in a statement to the $856 billion global recruitment industry, where, he said, the cost to hire keeps rising even as candidates and hiring managers complain of a worsening exper",
+        "a16z Speedrun": "ld grind to a halt. Recommended Video --- That observation became the genesis of Dex, an AI-powered recruiting startup Lambros founded in early 2025. On Monday, Dex said it had raised a $5.3 million seed round led by Notion Capital, with participation from a16z Speedrun, Concept Ventures and angel investors from OpenAI and other firms. The new funding brings the total Dex has raised to $8.4 million, including a $3.1 million pre-seed last year. Lambros declined to comment",
+        "Concept Ventures": "alt. Recommended Video --- That observation became the genesis of Dex, an AI-powered recruiting startup Lambros founded in early 2025. On Monday, Dex said it had raised a $5.3 million seed round led by Notion Capital, with participation from a16z Speedrun, Concept Ventures and angel investors from OpenAI and other firms. The new funding brings the total Dex has raised to $8.4 million, including a $3.1 million pre-seed last year. Lambros declined to comment on the startup"
+      },
+      "proofUrl": "https://fortune.com/2026/04/28/exclusive-dex-ai-powered-recruiting-startup-raises-seed-round-notion-capital/",
+      "proofExcerpt": "great candidates.” The startup charges employers between 20% and 30% of a hired candidate’s salary, the same fee structure used by traditional executive search firms. “We only earn money if we do a good job,” Lambros said. Kamil Mieczakowski, the partner at Notion Capital who led the round, pointed in a statement to the $856 billion global recruitment industry, where, he said, the cost to hire keeps rising even as candidates and hiring managers complain of a worsening exper"
+    },
+    {
+      "id": "ts-9cf6a737-191a-4d43-8efc-e7894c006a90",
+      "company": "HrFlow.ai",
+      "website": "https://hrflow.ai/",
+      "description": "AI data and orchestration infrastructure that parses, normalizes and scores candidate profiles to power matching and recruitment workflows for staffing firms, employers and HR software providers.",
+      "hq": "France",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 7000000,
+      "date": "2026-04-23",
+      "leadInvestor": "115K",
+      "investors": [
+        "115K",
+        "EmergingTech Ventures",
+        "Xavier Niel",
+        "Jean-Baptiste Rudelle",
+        "Romain Niccoli",
+        "Franck Le Ouay",
+        "Flavien Kulawik",
+        "Allen Penn",
+        "Dominique Vidal",
+        "Thibaud Elzière"
+      ],
+      "sourceUrl": "https://finance.yahoo.com/sectors/technology/articles/hrflow-ai-secures-7-million-234000547.html",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "115K",
+        "EmergingTech Ventures",
+        "Xavier Niel",
+        "Jean-Baptiste Rudelle",
+        "Romain Niccoli",
+        "Franck Le Ouay",
+        "Flavien Kulawik",
+        "Allen Penn",
+        "Dominique Vidal",
+        "Thibaud Elzière"
+      ],
+      "similarityReason": "AI data infrastructure parsing and scoring candidate profiles to power recruitment workflows.",
+      "evidence": {
+        "115K": "pre-Series A) today.** This financing brings the company's total capital raised to $10 million. This new capital injection is designed to accelerate the company's core mission: building the Data & AI infrastructure of the labor market. The round is led by **115K**, La Banque Postale's venture capital fund, and **EmergingTech Ventures (EmTech)**, alongside the company's existing investors including **Xavier Niel** (Free, Kima, Station F), **Jean-Baptiste Rudelle** (Criteo),",
+        "EmergingTech Ventures": "y's total capital raised to $10 million. This new capital injection is designed to accelerate the company's core mission: building the Data & AI infrastructure of the labor market. The round is led by **115K**, La Banque Postale's venture capital fund, and **EmergingTech Ventures (EmTech)**, alongside the company's existing investors including **Xavier Niel** (Free, Kima, Station F), **Jean-Baptiste Rudelle** (Criteo), **Romain Niccoli** (Pigment, Criteo), **Franck Le Ouay**",
+        "Xavier Niel": "rate the company's core mission: building the Data & AI infrastructure of the labor market. The round is led by **115K**, La Banque Postale's venture capital fund, and **EmergingTech Ventures (EmTech)**, alongside the company's existing investors including **Xavier Niel** (Free, Kima, Station F), **Jean-Baptiste Rudelle** (Criteo), **Romain Niccoli** (Pigment, Criteo), **Franck Le Ouay** (LIFEN, Criteo), **Flavien Kulawik** (KLB), **Allen Penn** (Uber), **Dominique Vidal** (",
+        "Jean-Baptiste Rudelle": "the Data & AI infrastructure of the labor market. The round is led by **115K**, La Banque Postale's venture capital fund, and **EmergingTech Ventures (EmTech)**, alongside the company's existing investors including **Xavier Niel** (Free, Kima, Station F), **Jean-Baptiste Rudelle** (Criteo), **Romain Niccoli** (Pigment, Criteo), **Franck Le Ouay** (LIFEN, Criteo), **Flavien Kulawik** (KLB), **Allen Penn** (Uber), **Dominique Vidal** (Index Ventures), **Thibaud Elzière** (Hex",
+        "Romain Niccoli": "labor market. The round is led by **115K**, La Banque Postale's venture capital fund, and **EmergingTech Ventures (EmTech)**, alongside the company's existing investors including **Xavier Niel** (Free, Kima, Station F), **Jean-Baptiste Rudelle** (Criteo), **Romain Niccoli** (Pigment, Criteo), **Franck Le Ouay** (LIFEN, Criteo), **Flavien Kulawik** (KLB), **Allen Penn** (Uber), **Dominique Vidal** (Index Ventures), **Thibaud Elzière** (Hexa, Fotolia). Building on rigorous e",
+        "Franck Le Ouay": "115K**, La Banque Postale's venture capital fund, and **EmergingTech Ventures (EmTech)**, alongside the company's existing investors including **Xavier Niel** (Free, Kima, Station F), **Jean-Baptiste Rudelle** (Criteo), **Romain Niccoli** (Pigment, Criteo), **Franck Le Ouay** (LIFEN, Criteo), **Flavien Kulawik** (KLB), **Allen Penn** (Uber), **Dominique Vidal** (Index Ventures), **Thibaud Elzière** (Hexa, Fotolia). Building on rigorous execution and proven capital efficiency",
+        "Flavien Kulawik": "capital fund, and **EmergingTech Ventures (EmTech)**, alongside the company's existing investors including **Xavier Niel** (Free, Kima, Station F), **Jean-Baptiste Rudelle** (Criteo), **Romain Niccoli** (Pigment, Criteo), **Franck Le Ouay** (LIFEN, Criteo), **Flavien Kulawik** (KLB), **Allen Penn** (Uber), **Dominique Vidal** (Index Ventures), **Thibaud Elzière** (Hexa, Fotolia). Building on rigorous execution and proven capital efficiency since its first funding round of $2",
+        "Allen Penn": "gTech Ventures (EmTech)**, alongside the company's existing investors including **Xavier Niel** (Free, Kima, Station F), **Jean-Baptiste Rudelle** (Criteo), **Romain Niccoli** (Pigment, Criteo), **Franck Le Ouay** (LIFEN, Criteo), **Flavien Kulawik** (KLB), **Allen Penn** (Uber), **Dominique Vidal** (Index Ventures), **Thibaud Elzière** (Hexa, Fotolia). Building on rigorous execution and proven capital efficiency since its first funding round of $2.3M in 2018, HrFlow.ai now",
+        "Dominique Vidal": "**, alongside the company's existing investors including **Xavier Niel** (Free, Kima, Station F), **Jean-Baptiste Rudelle** (Criteo), **Romain Niccoli** (Pigment, Criteo), **Franck Le Ouay** (LIFEN, Criteo), **Flavien Kulawik** (KLB), **Allen Penn** (Uber), **Dominique Vidal** (Index Ventures), **Thibaud Elzière** (Hexa, Fotolia). Building on rigorous execution and proven capital efficiency since its first funding round of $2.3M in 2018, HrFlow.ai now generates a margin of a",
+        "Thibaud Elzière": "nvestors including **Xavier Niel** (Free, Kima, Station F), **Jean-Baptiste Rudelle** (Criteo), **Romain Niccoli** (Pigment, Criteo), **Franck Le Ouay** (LIFEN, Criteo), **Flavien Kulawik** (KLB), **Allen Penn** (Uber), **Dominique Vidal** (Index Ventures), **Thibaud Elzière** (Hexa, Fotolia). Building on rigorous execution and proven capital efficiency since its first funding round of $2.3M in 2018, HrFlow.ai now generates a margin of approximately 27%. While its cash gener"
+      },
+      "proofUrl": "https://finance.yahoo.com/sectors/technology/articles/hrflow-ai-secures-7-million-234000547.html",
+      "proofExcerpt": "pre-Series A) today.** This financing brings the company's total capital raised to $10 million. This new capital injection is designed to accelerate the company's core mission: building the Data & AI infrastructure of the labor market. The round is led by **115K**, La Banque Postale's venture capital fund, and **EmergingTech Ventures (EmTech)**, alongside the company's existing investors including **Xavier Niel** (Free, Kima, Station F), **Jean-Baptiste Rudelle** (Criteo),"
+    },
+    {
+      "id": "ts-122038da-429e-44c4-8862-fa4a1502e2b6",
+      "company": "Boomband",
+      "website": "https://boomband.com/",
+      "description": "An AI-native talent marketplace that replaces resumes with dynamic multimedia Dossiers and uses AI-powered matching to connect job seekers and employers.",
+      "hq": "United States",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 4000000,
+      "date": "2026-02-04",
+      "leadInvestor": "Boston Seed Capital",
+      "investors": [
+        "Boston Seed Capital",
+        "Slater Technology Fund",
+        "Rogue Venture Partners",
+        "Service Provider Capital"
+      ],
+      "sourceUrl": "https://pulse2.com/boomband-4-million-seed-funding-raised-for-ai-native-talent-marketplace",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "Boston Seed Capital",
+        "Slater Technology Fund",
+        "Rogue Venture Partners",
+        "Service Provider Capital"
+      ],
+      "similarityReason": "AI-native talent marketplace replacing resumes with dynamic multimedia dossiers.",
+      "evidence": {
+        "Boston Seed Capital": "mband: $4 Million Seed Funding Raised For AI-Native Talent Marketplace Boomband, an AI-native talent marketplace founded by Monster.com creator Jeff Taylor, has raised a $4 million seed round ahead of its public launch in March 2026. The financing was led by Boston Seed, with participation from Slater Technology Fund, Rogue Venture Partners, and Service Provider Capital. The company is positioning its platform as an alternative to traditional job boards and resume-driven ap",
+        "Slater Technology Fund": "For AI-Native Talent Marketplace Boomband, an AI-native talent marketplace founded by Monster.com creator Jeff Taylor, has raised a $4 million seed round ahead of its public launch in March 2026. The financing was led by Boston Seed, with participation from Slater Technology Fund, Rogue Venture Partners, and Service Provider Capital. The company is positioning its platform as an alternative to traditional job boards and resume-driven applicant tracking workflows, aiming to",
+        "Rogue Venture Partners": "rketplace Boomband, an AI-native talent marketplace founded by Monster.com creator Jeff Taylor, has raised a $4 million seed round ahead of its public launch in March 2026. The financing was led by Boston Seed, with participation from Slater Technology Fund, Rogue Venture Partners, and Service Provider Capital. The company is positioning its platform as an alternative to traditional job boards and resume-driven applicant tracking workflows, aiming to reduce high-volume appl",
+        "Service Provider Capital": "ative talent marketplace founded by Monster.com creator Jeff Taylor, has raised a $4 million seed round ahead of its public launch in March 2026. The financing was led by Boston Seed, with participation from Slater Technology Fund, Rogue Venture Partners, and Service Provider Capital. The company is positioning its platform as an alternative to traditional job boards and resume-driven applicant tracking workflows, aiming to reduce high-volume application noise while increasi"
+      },
+      "proofUrl": "https://pulse2.com/boomband-4-million-seed-funding-raised-for-ai-native-talent-marketplace/",
+      "proofExcerpt": "mband: $4 Million Seed Funding Raised For AI-Native Talent Marketplace Boomband, an AI-native talent marketplace founded by Monster.com creator Jeff Taylor, has raised a $4 million seed round ahead of its public launch in March 2026. The financing was led by Boston Seed, with participation from Slater Technology Fund, Rogue Venture Partners, and Service Provider Capital. The company is positioning its platform as an alternative to traditional job boards and resume-driven ap"
+    },
+    {
+      "id": "ts-d50a358e-64bd-467c-a7d0-e23a4ab58b5e",
+      "company": "urfuture",
+      "website": "https://urfuture.io/",
+      "description": "Hiring platform that combines a social-first Gen Z distribution engine with a behavioural science matching algorithm to connect employers with entry-level talent and replace CV-based screening.",
+      "hq": "United Kingdom",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 2300000,
+      "date": "2026-04-17",
+      "leadInvestor": "River Capital",
+      "investors": [
+        "River Capital",
+        "SyndicateRoom Access Fund",
+        "Manchester Angels",
+        "Fhunded",
+        "Solid Bond",
+        "Host Capital"
+      ],
+      "sourceUrl": "https://techfundingnews.com/urfuture-raises-1-7m-to-replace-cvs",
+      "origin": "tinyset",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "River Capital",
+        "SyndicateRoom Access Fund",
+        "Manchester Angels",
+        "Fhunded",
+        "Solid Bond",
+        "Host Capital"
+      ],
+      "similarityReason": "Hiring platform using behavioral science algorithms for entry-level talent screening.",
+      "evidence": {
+        "River Capital": "more candidates are using AI to write their CVs, making entry-level hiring harder for both job seekers and employers. Manchester startup urfuture wants to solve this problem with new hiring tools. The company just raised £1.7 million in seed funding, led by River Capital. Other investors in the round include SyndicateRoom Access Fund, Manchester Angels, Fhunded, Solid Bond, Host Capital, and several angel investors focused on the sector. Urfuture was founded in 2023 by Tom",
+        "SyndicateRoom Access Fund": "king entry-level hiring harder for both job seekers and employers. Manchester startup urfuture wants to solve this problem with new hiring tools. The company just raised £1.7 million in seed funding, led by River Capital. Other investors in the round include SyndicateRoom Access Fund, Manchester Angels, Fhunded, Solid Bond, Host Capital, and several angel investors focused on the sector. Urfuture was founded in 2023 by Tom Keighley, Jayel Williams, and Holly Hobbs. The comp",
+        "Manchester Angels": "der for both job seekers and employers. Manchester startup urfuture wants to solve this problem with new hiring tools. The company just raised £1.7 million in seed funding, led by River Capital. Other investors in the round include SyndicateRoom Access Fund, Manchester Angels, Fhunded, Solid Bond, Host Capital, and several angel investors focused on the sector. Urfuture was founded in 2023 by Tom Keighley, Jayel Williams, and Holly Hobbs. The company is building new hiring",
+        "Fhunded": "ekers and employers. Manchester startup urfuture wants to solve this problem with new hiring tools. The company just raised £1.7 million in seed funding, led by River Capital. Other investors in the round include SyndicateRoom Access Fund, Manchester Angels, Fhunded, Solid Bond, Host Capital, and several angel investors focused on the sector. Urfuture was founded in 2023 by Tom Keighley, Jayel Williams, and Holly Hobbs. The company is building new hiring tools to replace th",
+        "Solid Bond": "employers. Manchester startup urfuture wants to solve this problem with new hiring tools. The company just raised £1.7 million in seed funding, led by River Capital. Other investors in the round include SyndicateRoom Access Fund, Manchester Angels, Fhunded, Solid Bond, Host Capital, and several angel investors focused on the sector. Urfuture was founded in 2023 by Tom Keighley, Jayel Williams, and Holly Hobbs. The company is building new hiring tools to replace the traditi",
+        "Host Capital": "Manchester startup urfuture wants to solve this problem with new hiring tools. The company just raised £1.7 million in seed funding, led by River Capital. Other investors in the round include SyndicateRoom Access Fund, Manchester Angels, Fhunded, Solid Bond, Host Capital, and several angel investors focused on the sector. Urfuture was founded in 2023 by Tom Keighley, Jayel Williams, and Holly Hobbs. The company is building new hiring tools to replace the traditional CV. The"
+      },
+      "proofUrl": "https://techfundingnews.com/urfuture-raises-1-7m-to-replace-cvs/",
+      "proofExcerpt": "more candidates are using AI to write their CVs, making entry-level hiring harder for both job seekers and employers. Manchester startup urfuture wants to solve this problem with new hiring tools. The company just raised £1.7 million in seed funding, led by River Capital. Other investors in the round include SyndicateRoom Access Fund, Manchester Angels, Fhunded, Solid Bond, Host Capital, and several angel investors focused on the sector. Urfuture was founded in 2023 by Tom"
+    },
+    {
+      "id": "se-o6b58aq",
+      "company": "Jooba",
+      "description": "The startup employs custom AI agents alongside human reviewers to help rapidly growing companies hire faster.",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 4000000,
+      "date": "2026-10-20",
+      "leadInvestor": "",
+      "investors": [
+        "a16z speedrun",
+        "Scribble Ventures",
+        "Genius Ventures"
+      ],
+      "sourceUrl": "https://techfundingnews.com/pitch-deck-ai-recruiting-startup-jooba-raises-4m-seed-from-a16z-speedrun-scribble-ventures-and-genius-ventures/",
+      "origin": "search",
+      "similarity": 0.7,
+      "verified": true,
+      "verifiedInvestors": [
+        "a16z speedrun",
+        "Scribble Ventures",
+        "Genius Ventures"
+      ],
+      "similarityReason": "Employs custom AI agents alongside human reviewers to help companies hire faster.",
+      "evidence": {
+        "a16z speedrun": "# Pitch deck: AI recruiting startup Jooba raises $4M seed from a16z speedrun, Scribble Ventures, and Genius Ventures bySofia Chesnokova October 20, 2026 3 minute read Image credits: Jooba Total 0 Shares 0 0 0 0 Jooba secured $4 million in seed funding from a16z speed",
+        "Scribble Ventures": "# Pitch deck: AI recruiting startup Jooba raises $4M seed from a16z speedrun, Scribble Ventures, and Genius Ventures bySofia Chesnokova October 20, 2026 3 minute read Image credits: Jooba Total 0 Shares 0 0 0 0 Jooba secured $4 million in seed funding from a16z speedrun, Scribble V",
+        "Genius Ventures": "# Pitch deck: AI recruiting startup Jooba raises $4M seed from a16z speedrun, Scribble Ventures, and Genius Ventures bySofia Chesnokova October 20, 2026 3 minute read Image credits: Jooba Total 0 Shares 0 0 0 0 Jooba secured $4 million in seed funding from a16z speedrun, Scribble Ventures, and Genius Ven"
+      },
+      "proofUrl": "https://techfundingnews.com/pitch-deck-ai-recruiting-startup-jooba-raises-4m-seed-from-a16z-speedrun-scribble-ventures-and-genius-ventures/",
+      "proofExcerpt": "# Pitch deck: AI recruiting startup Jooba raises $4M seed from a16z speedrun, Scribble Ventures, and Genius Ventures bySofia Chesnokova October 20, 2026 3 minute read Image credits: Jooba Total 0 Shares 0 0 0 0 Jooba secured $4 million in seed funding from a16z speed"
+    },
+    {
+      "id": "ts-b4f3cc07-aca7-43c0-b688-0025206de819",
+      "company": "Firstwork",
+      "website": "https://firstwork.com/",
+      "description": "Applied AI platform whose agents automate frontline workforce onboarding, compliance and hiring workflows from application to first shift.",
+      "hq": "United States",
+      "stage": "series-a",
+      "roundLabel": "series-a",
+      "amountUsd": 15000000,
+      "date": "2026-10-21",
+      "leadInvestor": "Earlybird Venture Capital",
+      "investors": [
+        "Earlybird Venture Capital",
+        "Legion VC",
+        "Deel Ventures",
+        "Gradient",
+        "Y Combinator",
+        "SOMA Capital",
+        "468 Capital",
+        "Houghton Street Ventures"
+      ],
+      "sourceUrl": "https://techfundingnews.com/firstwork-raises-15m-series-a-earlybird-frontline-workforce-onboarding",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Earlybird Venture Capital",
+        "Legion VC",
+        "Deel Ventures",
+        "Gradient",
+        "Y Combinator",
+        "SOMA Capital",
+        "468 Capital",
+        "Houghton Street Ventures"
+      ],
+      "similarityReason": "Automates frontline workforce onboarding and hiring workflows rather than mid-market interviews.",
+      "evidence": {
+        "Earlybird Venture Capital": "n took delivery shifts himself to better understand the role. He told *Tech Funding News* that the experience showed him there was room for improvement. Kapoor founded Firstwork in 2024, and the company has since raised $15 million in a Series A round led by Earlybird Venture Capital. Legion VC, Deel Ventures, and existing investors Gradient and Y Combinator joined the round, bringing Firstwork’s total funding to $20M. SOMA Capital, 468 Capital, and Houghton Street Ventures",
+        "Legion VC": "lf to better understand the role. He told *Tech Funding News* that the experience showed him there was room for improvement. Kapoor founded Firstwork in 2024, and the company has since raised $15 million in a Series A round led by Earlybird Venture Capital. Legion VC, Deel Ventures, and existing investors Gradient and Y Combinator joined the round, bringing Firstwork’s total funding to $20M. SOMA Capital, 468 Capital, and Houghton Street Ventures also participated. The fun",
+        "Deel Ventures": "r understand the role. He told *Tech Funding News* that the experience showed him there was room for improvement. Kapoor founded Firstwork in 2024, and the company has since raised $15 million in a Series A round led by Earlybird Venture Capital. Legion VC, Deel Ventures, and existing investors Gradient and Y Combinator joined the round, bringing Firstwork’s total funding to $20M. SOMA Capital, 468 Capital, and Houghton Street Ventures also participated. The funds will add",
+        "Gradient": "unding News* that the experience showed him there was room for improvement. Kapoor founded Firstwork in 2024, and the company has since raised $15 million in a Series A round led by Earlybird Venture Capital. Legion VC, Deel Ventures, and existing investors Gradient and Y Combinator joined the round, bringing Firstwork’s total funding to $20M. SOMA Capital, 468 Capital, and Houghton Street Ventures also participated. The funds will address the gap between when frontline em",
+        "Y Combinator": "that the experience showed him there was room for improvement. Kapoor founded Firstwork in 2024, and the company has since raised $15 million in a Series A round led by Earlybird Venture Capital. Legion VC, Deel Ventures, and existing investors Gradient and Y Combinator joined the round, bringing Firstwork’s total funding to $20M. SOMA Capital, 468 Capital, and Houghton Street Ventures also participated. The funds will address the gap between when frontline employees accep",
+        "SOMA Capital": "ded Firstwork in 2024, and the company has since raised $15 million in a Series A round led by Earlybird Venture Capital. Legion VC, Deel Ventures, and existing investors Gradient and Y Combinator joined the round, bringing Firstwork’s total funding to $20M. SOMA Capital, 468 Capital, and Houghton Street Ventures also participated. The funds will address the gap between when frontline employees accept a job offer and when they begin their first shift, a phase when many peop",
+        "468 Capital": "in 2024, and the company has since raised $15 million in a Series A round led by Earlybird Venture Capital. Legion VC, Deel Ventures, and existing investors Gradient and Y Combinator joined the round, bringing Firstwork’s total funding to $20M. SOMA Capital, 468 Capital, and Houghton Street Ventures also participated. The funds will address the gap between when frontline employees accept a job offer and when they begin their first shift, a phase when many people drop out.",
+        "Houghton Street Ventures": "company has since raised $15 million in a Series A round led by Earlybird Venture Capital. Legion VC, Deel Ventures, and existing investors Gradient and Y Combinator joined the round, bringing Firstwork’s total funding to $20M. SOMA Capital, 468 Capital, and Houghton Street Ventures also participated. The funds will address the gap between when frontline employees accept a job offer and when they begin their first shift, a phase when many people drop out. ## The gap betwee"
+      },
+      "proofUrl": "https://techfundingnews.com/firstwork-raises-15m-series-a-earlybird-frontline-workforce-onboarding/",
+      "proofExcerpt": "n took delivery shifts himself to better understand the role. He told *Tech Funding News* that the experience showed him there was room for improvement. Kapoor founded Firstwork in 2024, and the company has since raised $15 million in a Series A round led by Earlybird Venture Capital. Legion VC, Deel Ventures, and existing investors Gradient and Y Combinator joined the round, bringing Firstwork’s total funding to $20M. SOMA Capital, 468 Capital, and Houghton Street Ventures"
+    },
+    {
+      "id": "ts-3e283088-a17a-4f57-a5e0-aeec2df88b5b",
+      "company": "Hunar.AI",
+      "website": "https://hunar.ai/",
+      "description": "Hunar.AI is a conversational AI platform whose voice and chat agents help companies screen, hire, onboard, train and retain frontline workers.",
+      "hq": "India",
+      "stage": "series-a",
+      "roundLabel": "series-a",
+      "amountUsd": 4150000,
+      "date": "2026-10-19",
+      "leadInvestor": "Blume Ventures",
+      "investors": [
+        "Blume Ventures",
+        "Hyderabad Angels Fund (HAF.VC)",
+        "Together Fund",
+        "Seedstars",
+        "AVNM Ventures",
+        "Prateek Maheshwari",
+        "Alakh Pandey",
+        "Aditya Vuchi"
+      ],
+      "sourceUrl": "https://m.economictimes.com/ai/ai-insights/ai-hiring-startup-hunar-ai-raises-rs-40-crore-from-blume-ventures-others/articleshow/135048877.cms",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Blume Ventures",
+        "Hyderabad Angels Fund (HAF.VC)",
+        "Together Fund",
+        "Seedstars",
+        "AVNM Ventures",
+        "Prateek Maheshwari",
+        "Alakh Pandey",
+        "Aditya Vuchi"
+      ],
+      "similarityReason": "Conversational AI platform focused specifically on frontline workers.",
+      "evidence": {
+        "Blume Ventures": "* Daily ePaper Access * Smart Market Tools * Curated Investment Ideas * Ad-lite Experience * Subscription ET Online Hunar.AI cofounders Krishna Khandelwal (left) and Shantanu Bhattacharyya. Hunar.AI has raised Rs 40 crore in a Series A funding round led by Blume Ventures to expand its conversational artificial intelligence (AI) platform, which helps companies hire, train and retain frontline workers, the company said on 19 October. The round takes its total funding to",
+        "Hyderabad Angels Fund (HAF.VC)": "ng round led by Blume Ventures to expand its conversational artificial intelligence (AI) platform, which helps companies hire, train and retain frontline workers, the company said on 19 October. The round takes its total funding to Rs 65 crore till date. Hyderabad Angels Fund (HAF.VC), Together Fund, Seedstars, AVNM Ventures, PhysicsWallah co-founders Prateek Maheshwari and Alakh Pandey, and MediaMint co-founder Aditya Vuchi also participated in the round. The AI-hi",
+        "Together Fund": "o expand its conversational artificial intelligence (AI) platform, which helps companies hire, train and retain frontline workers, the company said on 19 October. The round takes its total funding to Rs 65 crore till date. Hyderabad Angels Fund (HAF.VC), Together Fund, Seedstars, AVNM Ventures, PhysicsWallah co-founders Prateek Maheshwari and Alakh Pandey, and MediaMint co-founder Aditya Vuchi also participated in the round. The AI-hiring startup plans to use the mo",
+        "Seedstars": "nversational artificial intelligence (AI) platform, which helps companies hire, train and retain frontline workers, the company said on 19 October. The round takes its total funding to Rs 65 crore till date. Hyderabad Angels Fund (HAF.VC), Together Fund, Seedstars, AVNM Ventures, PhysicsWallah co-founders Prateek Maheshwari and Alakh Pandey, and MediaMint co-founder Aditya Vuchi also participated in the round. The AI-hiring startup plans to use the money for AI infr",
+        "AVNM Ventures": "l artificial intelligence (AI) platform, which helps companies hire, train and retain frontline workers, the company said on 19 October. The round takes its total funding to Rs 65 crore till date. Hyderabad Angels Fund (HAF.VC), Together Fund, Seedstars, AVNM Ventures, PhysicsWallah co-founders Prateek Maheshwari and Alakh Pandey, and MediaMint co-founder Aditya Vuchi also participated in the round. The AI-hiring startup plans to use the money for AI infrastructure,",
+        "Prateek Maheshwari": "which helps companies hire, train and retain frontline workers, the company said on 19 October. The round takes its total funding to Rs 65 crore till date. Hyderabad Angels Fund (HAF.VC), Together Fund, Seedstars, AVNM Ventures, PhysicsWallah co-founders Prateek Maheshwari and Alakh Pandey, and MediaMint co-founder Aditya Vuchi also participated in the round. The AI-hiring startup plans to use the money for AI infrastructure, product development and sales and market",
+        "Alakh Pandey": "ire, train and retain frontline workers, the company said on 19 October. The round takes its total funding to Rs 65 crore till date. Hyderabad Angels Fund (HAF.VC), Together Fund, Seedstars, AVNM Ventures, PhysicsWallah co-founders Prateek Maheshwari and Alakh Pandey, and MediaMint co-founder Aditya Vuchi also participated in the round. The AI-hiring startup plans to use the money for AI infrastructure, product development and sales and market expansion, targeting b",
+        "Aditya Vuchi": ", the company said on 19 October. The round takes its total funding to Rs 65 crore till date. Hyderabad Angels Fund (HAF.VC), Together Fund, Seedstars, AVNM Ventures, PhysicsWallah co-founders Prateek Maheshwari and Alakh Pandey, and MediaMint co-founder Aditya Vuchi also participated in the round. The AI-hiring startup plans to use the money for AI infrastructure, product development and sales and market expansion, targeting businesses that need to recruit and mana"
+      },
+      "proofUrl": "https://economictimes.indiatimes.com/ai/ai-insights/ai-hiring-startup-hunar-ai-raises-rs-40-crore-from-blume-ventures-others/articleshow/135048877.cms?from=mdr",
+      "proofExcerpt": "* Daily ePaper Access * Smart Market Tools * Curated Investment Ideas * Ad-lite Experience * Subscription ET Online Hunar.AI cofounders Krishna Khandelwal (left) and Shantanu Bhattacharyya. Hunar.AI has raised Rs 40 crore in a Series A funding round led by Blume Ventures to expand its conversational artificial intelligence (AI) platform, which helps companies hire, train and retain frontline workers, the company said on 19 October. The round takes its total funding to"
+    },
+    {
+      "id": "ts-b8041658-b22a-4d06-b5a6-a2da2b11867e",
+      "company": "Orbio AI",
+      "website": "https://orbio.work/",
+      "description": "Uses AI agents to interview, recruit and onboard frontline workers in restaurants, healthcare and logistics.",
+      "hq": "United Kingdom",
+      "stage": "series-a",
+      "roundLabel": "series-a",
+      "amountUsd": 21000000,
+      "date": "2026-06-15",
+      "leadInvestor": "Dawn Capital",
+      "investors": [
+        "Dawn Capital",
+        "Dawn Capital and existing investors"
+      ],
+      "sourceUrl": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Dawn Capital"
+      ],
+      "similarityReason": "Uses AI agents to interview and recruit frontline workers in specific industries.",
+      "evidence": {
+        "Dawn Capital": "apital Investors in Internet, AI, technology companies and Deep Tech, Venture Capital Investors in Technology Orbio AI, the Spanish startup focused on applying artificial intelligence to human resources, has closed a $21 million Series A funding round led by Dawn Capital, one of Europe’s leading B2B software investors. The round also includes participation from existing investors Visionaries VC, Plus Partners and Enzo Ventures, all of whom backed the company in its previous"
+      },
+      "proofUrl": "https://capital-riesgo.es/en/articles/orbio-ai-raises-21-million-in-funding-round-led-by-dawn-capital-with-participation-from-visionaries-vc-plus-partners-and-enzo-ventures/",
+      "proofExcerpt": "apital Investors in Internet, AI, technology companies and Deep Tech, Venture Capital Investors in Technology Orbio AI, the Spanish startup focused on applying artificial intelligence to human resources, has closed a $21 million Series A funding round led by Dawn Capital, one of Europe’s leading B2B software investors. The round also includes participation from existing investors Visionaries VC, Plus Partners and Enzo Ventures, all of whom backed the company in its previous"
+    },
+    {
+      "id": "ts-c381cf22-7670-4f5b-8675-bdd1eeeba931",
+      "company": "Gyver",
+      "website": "https://gyver.work/",
+      "description": "Gyver is an AI conversational hiring platform and talent network that matches electricians and other skilled tradespeople with employers across Europe, starting in Italy.",
+      "hq": "Italy",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 1600000,
+      "date": "2026-05-13",
+      "leadInvestor": "Brighteye Ventures",
+      "investors": [
+        "Brighteye",
+        "āltitude",
+        "Vento Ventures",
+        "Zanichelli Venture",
+        "Antler"
+      ],
+      "sourceUrl": "https://aipressroom.com/gyver-1m-electrician-hiring",
+      "origin": "tinyset",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Brighteye",
+        "āltitude",
+        "Vento Ventures",
+        "Zanichelli Venture",
+        "Antler"
+      ],
+      "similarityReason": "Conversational hiring platform and talent network matching skilled tradespeople.",
+      "evidence": {
+        "Brighteye": "**The big picture:** Brescia-based Gyver raised €1.4 million in pre-seed funding to build hiring and workforce infrastructure for Europe’s skilled trades sector, starting with electricians. The round was led by Brighteye. ## Why it matters: * **Critical Shortage:** Europe faces a significant deficit of 2.7 million electrical workers, a gap widening due to global electrification, industrial maintenance demands, and an aging wo",
+        "āltitude": "a sector historically reliant on personal referrals, while also contending with potential new entrants or existing players adapting AI solutions. ### Key Facts * **Company:** Gyver * **Amount:** €1.4M * **Round:** Pre-seed * **Investors:** Brighteye (lead), āltitude, Vento Ventures, Zanichelli Venture, Antler, several business angels * **Founders:** Francesco Defendi, Leo Acciarri, Mattia Zarrelli * **Sector:** Workforce Tech * **Headquarters:** Brescia, Italy ## AIPressRo",
+        "Vento Ventures": "istorically reliant on personal referrals, while also contending with potential new entrants or existing players adapting AI solutions. ### Key Facts * **Company:** Gyver * **Amount:** €1.4M * **Round:** Pre-seed * **Investors:** Brighteye (lead), āltitude, Vento Ventures, Zanichelli Venture, Antler, several business angels * **Founders:** Francesco Defendi, Leo Acciarri, Mattia Zarrelli * **Sector:** Workforce Tech * **Headquarters:** Brescia, Italy ## AIPressRoom Weekly",
+        "Zanichelli Venture": "ant on personal referrals, while also contending with potential new entrants or existing players adapting AI solutions. ### Key Facts * **Company:** Gyver * **Amount:** €1.4M * **Round:** Pre-seed * **Investors:** Brighteye (lead), āltitude, Vento Ventures, Zanichelli Venture, Antler, several business angels * **Founders:** Francesco Defendi, Leo Acciarri, Mattia Zarrelli * **Sector:** Workforce Tech * **Headquarters:** Brescia, Italy ## AIPressRoom Weekly Every round we",
+        "Antler": "rrals, while also contending with potential new entrants or existing players adapting AI solutions. ### Key Facts * **Company:** Gyver * **Amount:** €1.4M * **Round:** Pre-seed * **Investors:** Brighteye (lead), āltitude, Vento Ventures, Zanichelli Venture, Antler, several business angels * **Founders:** Francesco Defendi, Leo Acciarri, Mattia Zarrelli * **Sector:** Workforce Tech * **Headquarters:** Brescia, Italy ## AIPressRoom Weekly Every round we reported this week,"
+      },
+      "proofUrl": "https://aipressroom.com/gyver-1m-electrician-hiring/",
+      "proofExcerpt": "**The big picture:** Brescia-based Gyver raised €1.4 million in pre-seed funding to build hiring and workforce infrastructure for Europe’s skilled trades sector, starting with electricians. The round was led by Brighteye. ## Why it matters: * **Critical Shortage:** Europe faces a significant deficit of 2.7 million electrical workers, a gap widening due to global electrification, industrial maintenance demands, and an aging wo"
+    },
+    {
+      "id": "se-9tw9fq1",
+      "company": "HR Duo",
+      "description": "HR Duo is a human resources and workforce management SaaS platform built for SMEs.",
+      "hq": "Ireland",
+      "stage": "seed",
+      "roundLabel": "seed",
+      "amountUsd": 1714880,
+      "date": "2026-06-25",
+      "leadInvestor": "Puma Growth Partners",
+      "investors": [
+        "Puma Growth Partners",
+        "Enterprise Ireland"
+      ],
+      "sourceUrl": "https://www.siliconrepublic.com/business/meath-saas-platform-hr-duo-raises-e1-6m",
+      "origin": "search",
+      "similarity": 0.4,
+      "verified": true,
+      "verifiedInvestors": [
+        "Puma Growth Partners",
+        "Enterprise Ireland"
+      ],
+      "similarityReason": "Human resources and workforce management SaaS platform built for SMEs.",
+      "evidence": {
+        "Puma Growth Partners": "by CEO Jerome Forde, furthest right. Image: Andrew Watchorn The company said it plans to use the funding to strengthen its software infrastructure and grow its team in the UK. Dunshaughlin-based SaaS company HR Duo has raised €1.6m in a funding round led by Puma Growth Partners – a key existing investor – with support from Enterprise Ireland. The company said it plans to use the funding to strengthen its software infrastructure and grow its team in the UK, where more than",
+        "Enterprise Ireland": "mpany said it plans to use the funding to strengthen its software infrastructure and grow its team in the UK. Dunshaughlin-based SaaS company HR Duo has raised €1.6m in a funding round led by Puma Growth Partners – a key existing investor – with support from Enterprise Ireland. The company said it plans to use the funding to strengthen its software infrastructure and grow its team in the UK, where more than 70pc of its “current sales pipeline” is located. HR Duo is a human"
+      },
+      "proofUrl": "https://www.siliconrepublic.com/business/meath-saas-platform-hr-duo-raises-e1-6m",
+      "proofExcerpt": "by CEO Jerome Forde, furthest right. Image: Andrew Watchorn The company said it plans to use the funding to strengthen its software infrastructure and grow its team in the UK. Dunshaughlin-based SaaS company HR Duo has raised €1.6m in a funding round led by Puma Growth Partners – a key existing investor – with support from Enterprise Ireland. The company said it plans to use the funding to strengthen its software infrastructure and grow its team in the UK, where more than"
+    }
+  ],
+  "meta": {
+    "tinyfishCalls": {
+      "tinyset": 1,
+      "search": 33,
+      "fetch": 21,
+      "agent": 5
+    },
+    "tinysetDatasetId": "546942da-55ab-4d86-8034-7c4947883735"
+  }
+}
